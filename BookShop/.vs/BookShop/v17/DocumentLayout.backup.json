@@ -1,229 +1,229 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\fptsh\\Desktop\\BookShop\\BookShop\\",
+  "WorkspaceRootPath": "C:\\Users\\ACER\\Desktop\\BookShop\\BookShop\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{9CC7CC68-9726-406D-8A21-0FF1BAAF2F79}|BookShop\\BookShop.csproj|c:\\users\\fptsh\\desktop\\bookshop\\bookshop\\bookshop\\controllers\\nguoidungcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9CC7CC68-9726-406D-8A21-0FF1BAAF2F79}|BookShop\\BookShop.csproj|solutionrelative:bookshop\\controllers\\nguoidungcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9CC7CC68-9726-406D-8A21-0FF1BAAF2F79}|BookShop\\BookShop.csproj|c:\\users\\fptsh\\desktop\\bookshop\\bookshop\\bookshop\\controllers\\tinhtrangcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9CC7CC68-9726-406D-8A21-0FF1BAAF2F79}|BookShop\\BookShop.csproj|solutionrelative:bookshop\\controllers\\tinhtrangcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9CC7CC68-9726-406D-8A21-0FF1BAAF2F79}|BookShop\\BookShop.csproj|c:\\users\\fptsh\\desktop\\bookshop\\bookshop\\bookshop\\controllers\\sanphamcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{9CC7CC68-9726-406D-8A21-0FF1BAAF2F79}|BookShop\\BookShop.csproj|c:\\users\\acer\\desktop\\bookshop\\bookshop\\bookshop\\controllers\\sanphamcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9CC7CC68-9726-406D-8A21-0FF1BAAF2F79}|BookShop\\BookShop.csproj|solutionrelative:bookshop\\controllers\\sanphamcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9CC7CC68-9726-406D-8A21-0FF1BAAF2F79}|BookShop\\BookShop.csproj|c:\\users\\fptsh\\desktop\\bookshop\\bookshop\\bookshop\\controllers\\loaisanphamcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{9CC7CC68-9726-406D-8A21-0FF1BAAF2F79}|BookShop\\BookShop.csproj|c:\\users\\acer\\desktop\\bookshop\\bookshop\\bookshop\\controllers\\nguoidungcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9CC7CC68-9726-406D-8A21-0FF1BAAF2F79}|BookShop\\BookShop.csproj|solutionrelative:bookshop\\controllers\\nguoidungcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9CC7CC68-9726-406D-8A21-0FF1BAAF2F79}|BookShop\\BookShop.csproj|c:\\users\\acer\\desktop\\bookshop\\bookshop\\bookshop\\controllers\\loaisanphamcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9CC7CC68-9726-406D-8A21-0FF1BAAF2F79}|BookShop\\BookShop.csproj|solutionrelative:bookshop\\controllers\\loaisanphamcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9CC7CC68-9726-406D-8A21-0FF1BAAF2F79}|BookShop\\BookShop.csproj|c:\\users\\fptsh\\desktop\\bookshop\\bookshop\\bookshop\\controllers\\hangsanxuatcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9CC7CC68-9726-406D-8A21-0FF1BAAF2F79}|BookShop\\BookShop.csproj|solutionrelative:bookshop\\controllers\\hangsanxuatcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9CC7CC68-9726-406D-8A21-0FF1BAAF2F79}|BookShop\\BookShop.csproj|c:\\users\\fptsh\\desktop\\bookshop\\bookshop\\bookshop\\controllers\\dathangcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9CC7CC68-9726-406D-8A21-0FF1BAAF2F79}|BookShop\\BookShop.csproj|solutionrelative:bookshop\\controllers\\dathangcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9CC7CC68-9726-406D-8A21-0FF1BAAF2F79}|BookShop\\BookShop.csproj|c:\\users\\fptsh\\desktop\\bookshop\\bookshop\\bookshop\\views\\nguoidung\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{9CC7CC68-9726-406D-8A21-0FF1BAAF2F79}|BookShop\\BookShop.csproj|solutionrelative:bookshop\\views\\nguoidung\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9CC7CC68-9726-406D-8A21-0FF1BAAF2F79}|BookShop\\BookShop.csproj|c:\\users\\fptsh\\desktop\\bookshop\\bookshop\\bookshop\\views\\nguoidung\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{9CC7CC68-9726-406D-8A21-0FF1BAAF2F79}|BookShop\\BookShop.csproj|solutionrelative:bookshop\\views\\nguoidung\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9CC7CC68-9726-406D-8A21-0FF1BAAF2F79}|BookShop\\BookShop.csproj|c:\\users\\fptsh\\desktop\\bookshop\\bookshop\\bookshop\\models\\nguoidung.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9CC7CC68-9726-406D-8A21-0FF1BAAF2F79}|BookShop\\BookShop.csproj|solutionrelative:bookshop\\models\\nguoidung.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9CC7CC68-9726-406D-8A21-0FF1BAAF2F79}|BookShop\\BookShop.csproj|c:\\users\\fptsh\\desktop\\bookshop\\bookshop\\bookshop\\models\\sanpham.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9CC7CC68-9726-406D-8A21-0FF1BAAF2F79}|BookShop\\BookShop.csproj|solutionrelative:bookshop\\models\\sanpham.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9CC7CC68-9726-406D-8A21-0FF1BAAF2F79}|BookShop\\BookShop.csproj|c:\\users\\fptsh\\desktop\\bookshop\\bookshop\\bookshop\\views\\sanpham\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{9CC7CC68-9726-406D-8A21-0FF1BAAF2F79}|BookShop\\BookShop.csproj|c:\\users\\acer\\desktop\\bookshop\\bookshop\\bookshop\\views\\sanpham\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{9CC7CC68-9726-406D-8A21-0FF1BAAF2F79}|BookShop\\BookShop.csproj|solutionrelative:bookshop\\views\\sanpham\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9CC7CC68-9726-406D-8A21-0FF1BAAF2F79}|BookShop\\BookShop.csproj|c:\\users\\fptsh\\desktop\\bookshop\\bookshop\\bookshop\\views\\sanpham\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{9CC7CC68-9726-406D-8A21-0FF1BAAF2F79}|BookShop\\BookShop.csproj|c:\\users\\acer\\desktop\\bookshop\\bookshop\\bookshop\\views\\sanpham\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{9CC7CC68-9726-406D-8A21-0FF1BAAF2F79}|BookShop\\BookShop.csproj|solutionrelative:bookshop\\views\\sanpham\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9CC7CC68-9726-406D-8A21-0FF1BAAF2F79}|BookShop\\BookShop.csproj|c:\\users\\fptsh\\desktop\\bookshop\\bookshop\\bookshop\\models\\dathang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9CC7CC68-9726-406D-8A21-0FF1BAAF2F79}|BookShop\\BookShop.csproj|solutionrelative:bookshop\\models\\dathang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9CC7CC68-9726-406D-8A21-0FF1BAAF2F79}|BookShop\\BookShop.csproj|c:\\users\\fptsh\\desktop\\bookshop\\bookshop\\bookshop\\models\\hangsanxuat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9CC7CC68-9726-406D-8A21-0FF1BAAF2F79}|BookShop\\BookShop.csproj|solutionrelative:bookshop\\models\\hangsanxuat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9CC7CC68-9726-406D-8A21-0FF1BAAF2F79}|BookShop\\BookShop.csproj|c:\\users\\fptsh\\desktop\\bookshop\\bookshop\\bookshop\\models\\tinhtrang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9CC7CC68-9726-406D-8A21-0FF1BAAF2F79}|BookShop\\BookShop.csproj|solutionrelative:bookshop\\models\\tinhtrang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9CC7CC68-9726-406D-8A21-0FF1BAAF2F79}|BookShop\\BookShop.csproj|c:\\users\\fptsh\\desktop\\bookshop\\bookshop\\bookshop\\models\\loaisanpham.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9CC7CC68-9726-406D-8A21-0FF1BAAF2F79}|BookShop\\BookShop.csproj|solutionrelative:bookshop\\models\\loaisanpham.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9CC7CC68-9726-406D-8A21-0FF1BAAF2F79}|BookShop\\BookShop.csproj|c:\\users\\fptsh\\desktop\\bookshop\\bookshop\\bookshop\\views\\loaisanpham\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{9CC7CC68-9726-406D-8A21-0FF1BAAF2F79}|BookShop\\BookShop.csproj|solutionrelative:bookshop\\views\\loaisanpham\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9CC7CC68-9726-406D-8A21-0FF1BAAF2F79}|BookShop\\BookShop.csproj|c:\\users\\fptsh\\desktop\\bookshop\\bookshop\\bookshop\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{9CC7CC68-9726-406D-8A21-0FF1BAAF2F79}|BookShop\\BookShop.csproj|solutionrelative:bookshop\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9CC7CC68-9726-406D-8A21-0FF1BAAF2F79}|BookShop\\BookShop.csproj|c:\\users\\fptsh\\desktop\\bookshop\\bookshop\\bookshop\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9CC7CC68-9726-406D-8A21-0FF1BAAF2F79}|BookShop\\BookShop.csproj|solutionrelative:bookshop\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9CC7CC68-9726-406D-8A21-0FF1BAAF2F79}|BookShop\\BookShop.csproj|c:\\users\\fptsh\\desktop\\bookshop\\bookshop\\bookshop\\views\\dathang\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{9CC7CC68-9726-406D-8A21-0FF1BAAF2F79}|BookShop\\BookShop.csproj|solutionrelative:bookshop\\views\\dathang\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9CC7CC68-9726-406D-8A21-0FF1BAAF2F79}|BookShop\\BookShop.csproj|c:\\users\\fptsh\\desktop\\bookshop\\bookshop\\bookshop\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{9CC7CC68-9726-406D-8A21-0FF1BAAF2F79}|BookShop\\BookShop.csproj|solutionrelative:bookshop\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9CC7CC68-9726-406D-8A21-0FF1BAAF2F79}|BookShop\\BookShop.csproj|c:\\users\\fptsh\\desktop\\bookshop\\bookshop\\bookshop\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{9CC7CC68-9726-406D-8A21-0FF1BAAF2F79}|BookShop\\BookShop.csproj|solutionrelative:bookshop\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9CC7CC68-9726-406D-8A21-0FF1BAAF2F79}|BookShop\\BookShop.csproj|c:\\users\\fptsh\\desktop\\bookshop\\bookshop\\bookshop\\views\\tinhtrang\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{9CC7CC68-9726-406D-8A21-0FF1BAAF2F79}|BookShop\\BookShop.csproj|solutionrelative:bookshop\\views\\tinhtrang\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9CC7CC68-9726-406D-8A21-0FF1BAAF2F79}|BookShop\\BookShop.csproj|c:\\users\\fptsh\\desktop\\bookshop\\bookshop\\bookshop\\views\\tinhtrang\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{9CC7CC68-9726-406D-8A21-0FF1BAAF2F79}|BookShop\\BookShop.csproj|solutionrelative:bookshop\\views\\tinhtrang\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9CC7CC68-9726-406D-8A21-0FF1BAAF2F79}|BookShop\\BookShop.csproj|c:\\users\\fptsh\\desktop\\bookshop\\bookshop\\bookshop\\views\\tinhtrang\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{9CC7CC68-9726-406D-8A21-0FF1BAAF2F79}|BookShop\\BookShop.csproj|solutionrelative:bookshop\\views\\tinhtrang\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9CC7CC68-9726-406D-8A21-0FF1BAAF2F79}|BookShop\\BookShop.csproj|c:\\users\\fptsh\\desktop\\bookshop\\bookshop\\bookshop\\views\\tinhtrang\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{9CC7CC68-9726-406D-8A21-0FF1BAAF2F79}|BookShop\\BookShop.csproj|solutionrelative:bookshop\\views\\tinhtrang\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9CC7CC68-9726-406D-8A21-0FF1BAAF2F79}|BookShop\\BookShop.csproj|c:\\users\\fptsh\\desktop\\bookshop\\bookshop\\bookshop\\views\\tinhtrang\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{9CC7CC68-9726-406D-8A21-0FF1BAAF2F79}|BookShop\\BookShop.csproj|solutionrelative:bookshop\\views\\tinhtrang\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9CC7CC68-9726-406D-8A21-0FF1BAAF2F79}|BookShop\\BookShop.csproj|c:\\users\\fptsh\\desktop\\bookshop\\bookshop\\bookshop\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{9CC7CC68-9726-406D-8A21-0FF1BAAF2F79}|BookShop\\BookShop.csproj|solutionrelative:bookshop\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9CC7CC68-9726-406D-8A21-0FF1BAAF2F79}|BookShop\\BookShop.csproj|c:\\users\\fptsh\\desktop\\bookshop\\bookshop\\bookshop\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{9CC7CC68-9726-406D-8A21-0FF1BAAF2F79}|BookShop\\BookShop.csproj|solutionrelative:bookshop\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9CC7CC68-9726-406D-8A21-0FF1BAAF2F79}|BookShop\\BookShop.csproj|c:\\users\\fptsh\\desktop\\bookshop\\bookshop\\bookshop\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{9CC7CC68-9726-406D-8A21-0FF1BAAF2F79}|BookShop\\BookShop.csproj|solutionrelative:bookshop\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9CC7CC68-9726-406D-8A21-0FF1BAAF2F79}|BookShop\\BookShop.csproj|c:\\users\\fptsh\\desktop\\bookshop\\bookshop\\bookshop\\views\\sanpham\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{9CC7CC68-9726-406D-8A21-0FF1BAAF2F79}|BookShop\\BookShop.csproj|c:\\users\\acer\\desktop\\bookshop\\bookshop\\bookshop\\views\\sanpham\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{9CC7CC68-9726-406D-8A21-0FF1BAAF2F79}|BookShop\\BookShop.csproj|solutionrelative:bookshop\\views\\sanpham\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9CC7CC68-9726-406D-8A21-0FF1BAAF2F79}|BookShop\\BookShop.csproj|c:\\users\\fptsh\\desktop\\bookshop\\bookshop\\bookshop\\views\\sanpham\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{9CC7CC68-9726-406D-8A21-0FF1BAAF2F79}|BookShop\\BookShop.csproj|c:\\users\\acer\\desktop\\bookshop\\bookshop\\bookshop\\views\\nguoidung\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9CC7CC68-9726-406D-8A21-0FF1BAAF2F79}|BookShop\\BookShop.csproj|solutionrelative:bookshop\\views\\nguoidung\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9CC7CC68-9726-406D-8A21-0FF1BAAF2F79}|BookShop\\BookShop.csproj|c:\\users\\acer\\desktop\\bookshop\\bookshop\\bookshop\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9CC7CC68-9726-406D-8A21-0FF1BAAF2F79}|BookShop\\BookShop.csproj|solutionrelative:bookshop\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9CC7CC68-9726-406D-8A21-0FF1BAAF2F79}|BookShop\\BookShop.csproj|c:\\users\\acer\\desktop\\bookshop\\bookshop\\bookshop\\controllers\\dathangcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9CC7CC68-9726-406D-8A21-0FF1BAAF2F79}|BookShop\\BookShop.csproj|solutionrelative:bookshop\\controllers\\dathangcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9CC7CC68-9726-406D-8A21-0FF1BAAF2F79}|BookShop\\BookShop.csproj|c:\\users\\acer\\desktop\\bookshop\\bookshop\\bookshop\\views\\nguoidung\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9CC7CC68-9726-406D-8A21-0FF1BAAF2F79}|BookShop\\BookShop.csproj|solutionrelative:bookshop\\views\\nguoidung\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9CC7CC68-9726-406D-8A21-0FF1BAAF2F79}|BookShop\\BookShop.csproj|c:\\users\\acer\\desktop\\bookshop\\bookshop\\bookshop\\models\\nguoidung.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9CC7CC68-9726-406D-8A21-0FF1BAAF2F79}|BookShop\\BookShop.csproj|solutionrelative:bookshop\\models\\nguoidung.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9CC7CC68-9726-406D-8A21-0FF1BAAF2F79}|BookShop\\BookShop.csproj|c:\\users\\acer\\desktop\\bookshop\\bookshop\\bookshop\\models\\sanpham.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9CC7CC68-9726-406D-8A21-0FF1BAAF2F79}|BookShop\\BookShop.csproj|solutionrelative:bookshop\\models\\sanpham.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9CC7CC68-9726-406D-8A21-0FF1BAAF2F79}|BookShop\\BookShop.csproj|c:\\users\\acer\\desktop\\bookshop\\bookshop\\bookshop\\models\\dathang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9CC7CC68-9726-406D-8A21-0FF1BAAF2F79}|BookShop\\BookShop.csproj|solutionrelative:bookshop\\models\\dathang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9CC7CC68-9726-406D-8A21-0FF1BAAF2F79}|BookShop\\BookShop.csproj|c:\\users\\acer\\desktop\\bookshop\\bookshop\\bookshop\\models\\hangsanxuat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9CC7CC68-9726-406D-8A21-0FF1BAAF2F79}|BookShop\\BookShop.csproj|solutionrelative:bookshop\\models\\hangsanxuat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9CC7CC68-9726-406D-8A21-0FF1BAAF2F79}|BookShop\\BookShop.csproj|c:\\users\\acer\\desktop\\bookshop\\bookshop\\bookshop\\models\\tinhtrang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9CC7CC68-9726-406D-8A21-0FF1BAAF2F79}|BookShop\\BookShop.csproj|solutionrelative:bookshop\\models\\tinhtrang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9CC7CC68-9726-406D-8A21-0FF1BAAF2F79}|BookShop\\BookShop.csproj|c:\\users\\acer\\desktop\\bookshop\\bookshop\\bookshop\\models\\loaisanpham.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9CC7CC68-9726-406D-8A21-0FF1BAAF2F79}|BookShop\\BookShop.csproj|solutionrelative:bookshop\\models\\loaisanpham.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9CC7CC68-9726-406D-8A21-0FF1BAAF2F79}|BookShop\\BookShop.csproj|c:\\users\\acer\\desktop\\bookshop\\bookshop\\bookshop\\views\\loaisanpham\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9CC7CC68-9726-406D-8A21-0FF1BAAF2F79}|BookShop\\BookShop.csproj|solutionrelative:bookshop\\views\\loaisanpham\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9CC7CC68-9726-406D-8A21-0FF1BAAF2F79}|BookShop\\BookShop.csproj|c:\\users\\acer\\desktop\\bookshop\\bookshop\\bookshop\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{9CC7CC68-9726-406D-8A21-0FF1BAAF2F79}|BookShop\\BookShop.csproj|solutionrelative:bookshop\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9CC7CC68-9726-406D-8A21-0FF1BAAF2F79}|BookShop\\BookShop.csproj|c:\\users\\acer\\desktop\\bookshop\\bookshop\\bookshop\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9CC7CC68-9726-406D-8A21-0FF1BAAF2F79}|BookShop\\BookShop.csproj|solutionrelative:bookshop\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9CC7CC68-9726-406D-8A21-0FF1BAAF2F79}|BookShop\\BookShop.csproj|c:\\users\\acer\\desktop\\bookshop\\bookshop\\bookshop\\views\\dathang\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9CC7CC68-9726-406D-8A21-0FF1BAAF2F79}|BookShop\\BookShop.csproj|solutionrelative:bookshop\\views\\dathang\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9CC7CC68-9726-406D-8A21-0FF1BAAF2F79}|BookShop\\BookShop.csproj|c:\\users\\acer\\desktop\\bookshop\\bookshop\\bookshop\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9CC7CC68-9726-406D-8A21-0FF1BAAF2F79}|BookShop\\BookShop.csproj|solutionrelative:bookshop\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9CC7CC68-9726-406D-8A21-0FF1BAAF2F79}|BookShop\\BookShop.csproj|c:\\users\\acer\\desktop\\bookshop\\bookshop\\bookshop\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9CC7CC68-9726-406D-8A21-0FF1BAAF2F79}|BookShop\\BookShop.csproj|solutionrelative:bookshop\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9CC7CC68-9726-406D-8A21-0FF1BAAF2F79}|BookShop\\BookShop.csproj|c:\\users\\acer\\desktop\\bookshop\\bookshop\\bookshop\\views\\tinhtrang\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9CC7CC68-9726-406D-8A21-0FF1BAAF2F79}|BookShop\\BookShop.csproj|solutionrelative:bookshop\\views\\tinhtrang\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9CC7CC68-9726-406D-8A21-0FF1BAAF2F79}|BookShop\\BookShop.csproj|c:\\users\\acer\\desktop\\bookshop\\bookshop\\bookshop\\views\\tinhtrang\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9CC7CC68-9726-406D-8A21-0FF1BAAF2F79}|BookShop\\BookShop.csproj|solutionrelative:bookshop\\views\\tinhtrang\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9CC7CC68-9726-406D-8A21-0FF1BAAF2F79}|BookShop\\BookShop.csproj|c:\\users\\acer\\desktop\\bookshop\\bookshop\\bookshop\\views\\tinhtrang\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9CC7CC68-9726-406D-8A21-0FF1BAAF2F79}|BookShop\\BookShop.csproj|solutionrelative:bookshop\\views\\tinhtrang\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9CC7CC68-9726-406D-8A21-0FF1BAAF2F79}|BookShop\\BookShop.csproj|c:\\users\\acer\\desktop\\bookshop\\bookshop\\bookshop\\views\\tinhtrang\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9CC7CC68-9726-406D-8A21-0FF1BAAF2F79}|BookShop\\BookShop.csproj|solutionrelative:bookshop\\views\\tinhtrang\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9CC7CC68-9726-406D-8A21-0FF1BAAF2F79}|BookShop\\BookShop.csproj|c:\\users\\acer\\desktop\\bookshop\\bookshop\\bookshop\\views\\tinhtrang\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9CC7CC68-9726-406D-8A21-0FF1BAAF2F79}|BookShop\\BookShop.csproj|solutionrelative:bookshop\\views\\tinhtrang\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9CC7CC68-9726-406D-8A21-0FF1BAAF2F79}|BookShop\\BookShop.csproj|c:\\users\\acer\\desktop\\bookshop\\bookshop\\bookshop\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9CC7CC68-9726-406D-8A21-0FF1BAAF2F79}|BookShop\\BookShop.csproj|solutionrelative:bookshop\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9CC7CC68-9726-406D-8A21-0FF1BAAF2F79}|BookShop\\BookShop.csproj|c:\\users\\acer\\desktop\\bookshop\\bookshop\\bookshop\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9CC7CC68-9726-406D-8A21-0FF1BAAF2F79}|BookShop\\BookShop.csproj|solutionrelative:bookshop\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9CC7CC68-9726-406D-8A21-0FF1BAAF2F79}|BookShop\\BookShop.csproj|c:\\users\\acer\\desktop\\bookshop\\bookshop\\bookshop\\views\\sanpham\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{9CC7CC68-9726-406D-8A21-0FF1BAAF2F79}|BookShop\\BookShop.csproj|solutionrelative:bookshop\\views\\sanpham\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9CC7CC68-9726-406D-8A21-0FF1BAAF2F79}|BookShop\\BookShop.csproj|c:\\users\\fptsh\\desktop\\bookshop\\bookshop\\bookshop\\views\\sanpham\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{9CC7CC68-9726-406D-8A21-0FF1BAAF2F79}|BookShop\\BookShop.csproj|c:\\users\\acer\\desktop\\bookshop\\bookshop\\bookshop\\views\\sanpham\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{9CC7CC68-9726-406D-8A21-0FF1BAAF2F79}|BookShop\\BookShop.csproj|solutionrelative:bookshop\\views\\sanpham\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9CC7CC68-9726-406D-8A21-0FF1BAAF2F79}|BookShop\\BookShop.csproj|c:\\users\\fptsh\\desktop\\bookshop\\bookshop\\bookshop\\views\\nguoidung\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{9CC7CC68-9726-406D-8A21-0FF1BAAF2F79}|BookShop\\BookShop.csproj|c:\\users\\acer\\desktop\\bookshop\\bookshop\\bookshop\\views\\nguoidung\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{9CC7CC68-9726-406D-8A21-0FF1BAAF2F79}|BookShop\\BookShop.csproj|solutionrelative:bookshop\\views\\nguoidung\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9CC7CC68-9726-406D-8A21-0FF1BAAF2F79}|BookShop\\BookShop.csproj|c:\\users\\fptsh\\desktop\\bookshop\\bookshop\\bookshop\\views\\nguoidung\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{9CC7CC68-9726-406D-8A21-0FF1BAAF2F79}|BookShop\\BookShop.csproj|c:\\users\\acer\\desktop\\bookshop\\bookshop\\bookshop\\views\\nguoidung\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{9CC7CC68-9726-406D-8A21-0FF1BAAF2F79}|BookShop\\BookShop.csproj|solutionrelative:bookshop\\views\\nguoidung\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9CC7CC68-9726-406D-8A21-0FF1BAAF2F79}|BookShop\\BookShop.csproj|c:\\users\\fptsh\\desktop\\bookshop\\bookshop\\bookshop\\views\\nguoidung\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{9CC7CC68-9726-406D-8A21-0FF1BAAF2F79}|BookShop\\BookShop.csproj|c:\\users\\acer\\desktop\\bookshop\\bookshop\\bookshop\\views\\nguoidung\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{9CC7CC68-9726-406D-8A21-0FF1BAAF2F79}|BookShop\\BookShop.csproj|solutionrelative:bookshop\\views\\nguoidung\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9CC7CC68-9726-406D-8A21-0FF1BAAF2F79}|BookShop\\BookShop.csproj|c:\\users\\fptsh\\desktop\\bookshop\\bookshop\\bookshop\\views\\loaisanpham\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{9CC7CC68-9726-406D-8A21-0FF1BAAF2F79}|BookShop\\BookShop.csproj|c:\\users\\acer\\desktop\\bookshop\\bookshop\\bookshop\\views\\loaisanpham\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{9CC7CC68-9726-406D-8A21-0FF1BAAF2F79}|BookShop\\BookShop.csproj|solutionrelative:bookshop\\views\\loaisanpham\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9CC7CC68-9726-406D-8A21-0FF1BAAF2F79}|BookShop\\BookShop.csproj|c:\\users\\fptsh\\desktop\\bookshop\\bookshop\\bookshop\\views\\loaisanpham\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{9CC7CC68-9726-406D-8A21-0FF1BAAF2F79}|BookShop\\BookShop.csproj|c:\\users\\acer\\desktop\\bookshop\\bookshop\\bookshop\\views\\loaisanpham\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{9CC7CC68-9726-406D-8A21-0FF1BAAF2F79}|BookShop\\BookShop.csproj|solutionrelative:bookshop\\views\\loaisanpham\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9CC7CC68-9726-406D-8A21-0FF1BAAF2F79}|BookShop\\BookShop.csproj|c:\\users\\fptsh\\desktop\\bookshop\\bookshop\\bookshop\\views\\loaisanpham\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{9CC7CC68-9726-406D-8A21-0FF1BAAF2F79}|BookShop\\BookShop.csproj|c:\\users\\acer\\desktop\\bookshop\\bookshop\\bookshop\\views\\loaisanpham\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{9CC7CC68-9726-406D-8A21-0FF1BAAF2F79}|BookShop\\BookShop.csproj|solutionrelative:bookshop\\views\\loaisanpham\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9CC7CC68-9726-406D-8A21-0FF1BAAF2F79}|BookShop\\BookShop.csproj|c:\\users\\fptsh\\desktop\\bookshop\\bookshop\\bookshop\\views\\loaisanpham\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{9CC7CC68-9726-406D-8A21-0FF1BAAF2F79}|BookShop\\BookShop.csproj|c:\\users\\acer\\desktop\\bookshop\\bookshop\\bookshop\\views\\loaisanpham\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{9CC7CC68-9726-406D-8A21-0FF1BAAF2F79}|BookShop\\BookShop.csproj|solutionrelative:bookshop\\views\\loaisanpham\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9CC7CC68-9726-406D-8A21-0FF1BAAF2F79}|BookShop\\BookShop.csproj|c:\\users\\fptsh\\desktop\\bookshop\\bookshop\\bookshop\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{9CC7CC68-9726-406D-8A21-0FF1BAAF2F79}|BookShop\\BookShop.csproj|c:\\users\\acer\\desktop\\bookshop\\bookshop\\bookshop\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{9CC7CC68-9726-406D-8A21-0FF1BAAF2F79}|BookShop\\BookShop.csproj|solutionrelative:bookshop\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9CC7CC68-9726-406D-8A21-0FF1BAAF2F79}|BookShop\\BookShop.csproj|c:\\users\\fptsh\\desktop\\bookshop\\bookshop\\bookshop\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{9CC7CC68-9726-406D-8A21-0FF1BAAF2F79}|BookShop\\BookShop.csproj|c:\\users\\acer\\desktop\\bookshop\\bookshop\\bookshop\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{9CC7CC68-9726-406D-8A21-0FF1BAAF2F79}|BookShop\\BookShop.csproj|solutionrelative:bookshop\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9CC7CC68-9726-406D-8A21-0FF1BAAF2F79}|BookShop\\BookShop.csproj|c:\\users\\fptsh\\desktop\\bookshop\\bookshop\\bookshop\\views\\hangsanxuat\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{9CC7CC68-9726-406D-8A21-0FF1BAAF2F79}|BookShop\\BookShop.csproj|c:\\users\\acer\\desktop\\bookshop\\bookshop\\bookshop\\views\\hangsanxuat\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{9CC7CC68-9726-406D-8A21-0FF1BAAF2F79}|BookShop\\BookShop.csproj|solutionrelative:bookshop\\views\\hangsanxuat\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9CC7CC68-9726-406D-8A21-0FF1BAAF2F79}|BookShop\\BookShop.csproj|c:\\users\\fptsh\\desktop\\bookshop\\bookshop\\bookshop\\views\\hangsanxuat\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{9CC7CC68-9726-406D-8A21-0FF1BAAF2F79}|BookShop\\BookShop.csproj|c:\\users\\acer\\desktop\\bookshop\\bookshop\\bookshop\\views\\hangsanxuat\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{9CC7CC68-9726-406D-8A21-0FF1BAAF2F79}|BookShop\\BookShop.csproj|solutionrelative:bookshop\\views\\hangsanxuat\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9CC7CC68-9726-406D-8A21-0FF1BAAF2F79}|BookShop\\BookShop.csproj|c:\\users\\fptsh\\desktop\\bookshop\\bookshop\\bookshop\\views\\hangsanxuat\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{9CC7CC68-9726-406D-8A21-0FF1BAAF2F79}|BookShop\\BookShop.csproj|c:\\users\\acer\\desktop\\bookshop\\bookshop\\bookshop\\views\\hangsanxuat\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{9CC7CC68-9726-406D-8A21-0FF1BAAF2F79}|BookShop\\BookShop.csproj|solutionrelative:bookshop\\views\\hangsanxuat\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9CC7CC68-9726-406D-8A21-0FF1BAAF2F79}|BookShop\\BookShop.csproj|c:\\users\\fptsh\\desktop\\bookshop\\bookshop\\bookshop\\views\\dathang\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{9CC7CC68-9726-406D-8A21-0FF1BAAF2F79}|BookShop\\BookShop.csproj|c:\\users\\acer\\desktop\\bookshop\\bookshop\\bookshop\\views\\dathang\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{9CC7CC68-9726-406D-8A21-0FF1BAAF2F79}|BookShop\\BookShop.csproj|solutionrelative:bookshop\\views\\dathang\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9CC7CC68-9726-406D-8A21-0FF1BAAF2F79}|BookShop\\BookShop.csproj|c:\\users\\fptsh\\desktop\\bookshop\\bookshop\\bookshop\\views\\hangsanxuat\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{9CC7CC68-9726-406D-8A21-0FF1BAAF2F79}|BookShop\\BookShop.csproj|c:\\users\\acer\\desktop\\bookshop\\bookshop\\bookshop\\views\\hangsanxuat\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{9CC7CC68-9726-406D-8A21-0FF1BAAF2F79}|BookShop\\BookShop.csproj|solutionrelative:bookshop\\views\\hangsanxuat\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9CC7CC68-9726-406D-8A21-0FF1BAAF2F79}|BookShop\\BookShop.csproj|c:\\users\\fptsh\\desktop\\bookshop\\bookshop\\bookshop\\views\\hangsanxuat\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{9CC7CC68-9726-406D-8A21-0FF1BAAF2F79}|BookShop\\BookShop.csproj|c:\\users\\acer\\desktop\\bookshop\\bookshop\\bookshop\\views\\hangsanxuat\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{9CC7CC68-9726-406D-8A21-0FF1BAAF2F79}|BookShop\\BookShop.csproj|solutionrelative:bookshop\\views\\hangsanxuat\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9CC7CC68-9726-406D-8A21-0FF1BAAF2F79}|BookShop\\BookShop.csproj|c:\\users\\fptsh\\desktop\\bookshop\\bookshop\\bookshop\\views\\dathang\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{9CC7CC68-9726-406D-8A21-0FF1BAAF2F79}|BookShop\\BookShop.csproj|c:\\users\\acer\\desktop\\bookshop\\bookshop\\bookshop\\views\\dathang\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{9CC7CC68-9726-406D-8A21-0FF1BAAF2F79}|BookShop\\BookShop.csproj|solutionrelative:bookshop\\views\\dathang\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9CC7CC68-9726-406D-8A21-0FF1BAAF2F79}|BookShop\\BookShop.csproj|c:\\users\\fptsh\\desktop\\bookshop\\bookshop\\bookshop\\views\\dathang\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{9CC7CC68-9726-406D-8A21-0FF1BAAF2F79}|BookShop\\BookShop.csproj|c:\\users\\acer\\desktop\\bookshop\\bookshop\\bookshop\\views\\dathang\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{9CC7CC68-9726-406D-8A21-0FF1BAAF2F79}|BookShop\\BookShop.csproj|solutionrelative:bookshop\\views\\dathang\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9CC7CC68-9726-406D-8A21-0FF1BAAF2F79}|BookShop\\BookShop.csproj|c:\\users\\fptsh\\desktop\\bookshop\\bookshop\\bookshop\\views\\dathang\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{9CC7CC68-9726-406D-8A21-0FF1BAAF2F79}|BookShop\\BookShop.csproj|c:\\users\\acer\\desktop\\bookshop\\bookshop\\bookshop\\views\\dathang\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{9CC7CC68-9726-406D-8A21-0FF1BAAF2F79}|BookShop\\BookShop.csproj|solutionrelative:bookshop\\views\\dathang\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9CC7CC68-9726-406D-8A21-0FF1BAAF2F79}|BookShop\\BookShop.csproj|c:\\users\\fptsh\\desktop\\bookshop\\bookshop\\bookshop\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "AbsoluteMoniker": "D:0:0:{9CC7CC68-9726-406D-8A21-0FF1BAAF2F79}|BookShop\\BookShop.csproj|c:\\users\\acer\\desktop\\bookshop\\bookshop\\bookshop\\controllers\\hangsanxuatcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9CC7CC68-9726-406D-8A21-0FF1BAAF2F79}|BookShop\\BookShop.csproj|solutionrelative:bookshop\\controllers\\hangsanxuatcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9CC7CC68-9726-406D-8A21-0FF1BAAF2F79}|BookShop\\BookShop.csproj|c:\\users\\acer\\desktop\\bookshop\\bookshop\\bookshop\\controllers\\tinhtrangcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9CC7CC68-9726-406D-8A21-0FF1BAAF2F79}|BookShop\\BookShop.csproj|solutionrelative:bookshop\\controllers\\tinhtrangcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9CC7CC68-9726-406D-8A21-0FF1BAAF2F79}|BookShop\\BookShop.csproj|c:\\users\\acer\\desktop\\bookshop\\bookshop\\bookshop\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
       "RelativeMoniker": "D:0:0:{9CC7CC68-9726-406D-8A21-0FF1BAAF2F79}|BookShop\\BookShop.csproj|solutionrelative:bookshop\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9CC7CC68-9726-406D-8A21-0FF1BAAF2F79}|BookShop\\BookShop.csproj|c:\\users\\fptsh\\desktop\\bookshop\\bookshop\\bookshop\\libman.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "AbsoluteMoniker": "D:0:0:{9CC7CC68-9726-406D-8A21-0FF1BAAF2F79}|BookShop\\BookShop.csproj|c:\\users\\acer\\desktop\\bookshop\\bookshop\\bookshop\\libman.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{9CC7CC68-9726-406D-8A21-0FF1BAAF2F79}|BookShop\\BookShop.csproj|solutionrelative:bookshop\\libman.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9CC7CC68-9726-406D-8A21-0FF1BAAF2F79}|BookShop\\BookShop.csproj|c:\\users\\fptsh\\desktop\\bookshop\\bookshop\\bookshop\\models\\bookshopdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{9CC7CC68-9726-406D-8A21-0FF1BAAF2F79}|BookShop\\BookShop.csproj|c:\\users\\acer\\desktop\\bookshop\\bookshop\\bookshop\\models\\bookshopdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9CC7CC68-9726-406D-8A21-0FF1BAAF2F79}|BookShop\\BookShop.csproj|solutionrelative:bookshop\\models\\bookshopdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9CC7CC68-9726-406D-8A21-0FF1BAAF2F79}|BookShop\\BookShop.csproj|c:\\users\\fptsh\\desktop\\bookshop\\bookshop\\bookshop\\models\\dathang_chitiet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{9CC7CC68-9726-406D-8A21-0FF1BAAF2F79}|BookShop\\BookShop.csproj|c:\\users\\acer\\desktop\\bookshop\\bookshop\\bookshop\\models\\dathang_chitiet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9CC7CC68-9726-406D-8A21-0FF1BAAF2F79}|BookShop\\BookShop.csproj|solutionrelative:bookshop\\models\\dathang_chitiet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9CC7CC68-9726-406D-8A21-0FF1BAAF2F79}|BookShop\\BookShop.csproj|c:\\users\\fptsh\\desktop\\bookshop\\bookshop\\bookshop\\migrations\\20241213034729_khoitaocsdl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{9CC7CC68-9726-406D-8A21-0FF1BAAF2F79}|BookShop\\BookShop.csproj|c:\\users\\acer\\desktop\\bookshop\\bookshop\\bookshop\\migrations\\20241213034729_khoitaocsdl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9CC7CC68-9726-406D-8A21-0FF1BAAF2F79}|BookShop\\BookShop.csproj|solutionrelative:bookshop\\migrations\\20241213034729_khoitaocsdl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -234,117 +234,51 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 6,
           "Children": [
             {
-              "$type": "Bookmark",
-              "Name": "ST:1:0:{e8b06f52-6d01-11d2-aa7d-00c04f990343}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
-            },
-            {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "LoaiSanPhamController.cs",
-              "DocumentMoniker": "C:\\Users\\fptsh\\Desktop\\BookShop\\BookShop\\BookShop\\Controllers\\LoaiSanPhamController.cs",
-              "RelativeDocumentMoniker": "BookShop\\Controllers\\LoaiSanPhamController.cs",
-              "ToolTip": "C:\\Users\\fptsh\\Desktop\\BookShop\\BookShop\\BookShop\\Controllers\\LoaiSanPhamController.cs",
-              "RelativeToolTip": "BookShop\\Controllers\\LoaiSanPhamController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAGAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-13T02:45:03.055Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "NguoiDungController.cs",
-              "DocumentMoniker": "C:\\Users\\fptsh\\Desktop\\BookShop\\BookShop\\BookShop\\Controllers\\NguoiDungController.cs",
-              "RelativeDocumentMoniker": "BookShop\\Controllers\\NguoiDungController.cs",
-              "ToolTip": "C:\\Users\\fptsh\\Desktop\\BookShop\\BookShop\\BookShop\\Controllers\\NguoiDungController.cs",
-              "RelativeToolTip": "BookShop\\Controllers\\NguoiDungController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-13T02:45:59.592Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "SanPhamController.cs",
-              "DocumentMoniker": "C:\\Users\\fptsh\\Desktop\\BookShop\\BookShop\\BookShop\\Controllers\\SanPhamController.cs",
-              "RelativeDocumentMoniker": "BookShop\\Controllers\\SanPhamController.cs",
-              "ToolTip": "C:\\Users\\fptsh\\Desktop\\BookShop\\BookShop\\BookShop\\Controllers\\SanPhamController.cs",
-              "RelativeToolTip": "BookShop\\Controllers\\SanPhamController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAUAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-13T02:47:03.086Z",
-              "EditorCaption": ""
+              "DocumentIndex": 4,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\ACER\\Desktop\\BookShop\\BookShop\\BookShop\\Views\\SanPham\\Create.cshtml",
+              "RelativeDocumentMoniker": "BookShop\\Views\\SanPham\\Create.cshtml",
+              "ToolTip": "C:\\Users\\ACER\\Desktop\\BookShop\\BookShop\\BookShop\\Views\\SanPham\\Create.cshtml",
+              "RelativeToolTip": "BookShop\\Views\\SanPham\\Create.cshtml",
+              "ViewState": "AgIAAD0AAAAAAAAAAAAIwFEAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-13T03:12:04.903Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "TinhTrangController.cs",
-              "DocumentMoniker": "C:\\Users\\fptsh\\Desktop\\BookShop\\BookShop\\BookShop\\Controllers\\TinhTrangController.cs",
-              "RelativeDocumentMoniker": "BookShop\\Controllers\\TinhTrangController.cs",
-              "ToolTip": "C:\\Users\\fptsh\\Desktop\\BookShop\\BookShop\\BookShop\\Controllers\\TinhTrangController.cs",
-              "RelativeToolTip": "BookShop\\Controllers\\TinhTrangController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Title": "NguoiDungController.cs",
+              "DocumentMoniker": "C:\\Users\\ACER\\Desktop\\BookShop\\BookShop\\BookShop\\Controllers\\NguoiDungController.cs",
+              "RelativeDocumentMoniker": "BookShop\\Controllers\\NguoiDungController.cs",
+              "ToolTip": "C:\\Users\\ACER\\Desktop\\BookShop\\BookShop\\BookShop\\Controllers\\NguoiDungController.cs",
+              "RelativeToolTip": "BookShop\\Controllers\\NguoiDungController.cs",
+              "ViewState": "AgIAAH8AAAAAAAAAAAAgwJAAAAAYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-13T02:48:07.515Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "HangSanXuatController.cs",
-              "DocumentMoniker": "C:\\Users\\fptsh\\Desktop\\BookShop\\BookShop\\BookShop\\Controllers\\HangSanXuatController.cs",
-              "RelativeDocumentMoniker": "BookShop\\Controllers\\HangSanXuatController.cs",
-              "ToolTip": "C:\\Users\\fptsh\\Desktop\\BookShop\\BookShop\\BookShop\\Controllers\\HangSanXuatController.cs",
-              "RelativeToolTip": "BookShop\\Controllers\\HangSanXuatController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAGAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-13T02:44:28.26Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "DatHangController.cs",
-              "DocumentMoniker": "C:\\Users\\fptsh\\Desktop\\BookShop\\BookShop\\BookShop\\Controllers\\DatHangController.cs",
-              "RelativeDocumentMoniker": "BookShop\\Controllers\\DatHangController.cs",
-              "ToolTip": "C:\\Users\\fptsh\\Desktop\\BookShop\\BookShop\\BookShop\\Controllers\\DatHangController.cs",
-              "RelativeToolTip": "BookShop\\Controllers\\DatHangController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-13T02:43:36.735Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-13T02:45:59.592Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 6,
               "Title": "Edit.cshtml",
-              "DocumentMoniker": "C:\\Users\\fptsh\\Desktop\\BookShop\\BookShop\\BookShop\\Views\\NguoiDung\\Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\ACER\\Desktop\\BookShop\\BookShop\\BookShop\\Views\\NguoiDung\\Edit.cshtml",
               "RelativeDocumentMoniker": "BookShop\\Views\\NguoiDung\\Edit.cshtml",
-              "ToolTip": "C:\\Users\\fptsh\\Desktop\\BookShop\\BookShop\\BookShop\\Views\\NguoiDung\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\ACER\\Desktop\\BookShop\\BookShop\\BookShop\\Views\\NguoiDung\\Edit.cshtml",
               "RelativeToolTip": "BookShop\\Views\\NguoiDung\\Edit.cshtml",
-              "ViewState": "AgIAABUAAAAAAAAAAAAAADIAAAASAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAPAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-12-13T03:09:30.092Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 9,
               "Title": "Create.cshtml",
-              "DocumentMoniker": "C:\\Users\\fptsh\\Desktop\\BookShop\\BookShop\\BookShop\\Views\\NguoiDung\\Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\ACER\\Desktop\\BookShop\\BookShop\\BookShop\\Views\\NguoiDung\\Create.cshtml",
               "RelativeDocumentMoniker": "BookShop\\Views\\NguoiDung\\Create.cshtml",
-              "ToolTip": "C:\\Users\\fptsh\\Desktop\\BookShop\\BookShop\\BookShop\\Views\\NguoiDung\\Create.cshtml",
+              "ToolTip": "C:\\Users\\ACER\\Desktop\\BookShop\\BookShop\\BookShop\\Views\\NguoiDung\\Create.cshtml",
               "RelativeToolTip": "BookShop\\Views\\NguoiDung\\Create.cshtml",
               "ViewState": "AgIAABsAAAAAAAAAAAAAADEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -352,11 +286,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 10,
               "Title": "NguoiDung.cs",
-              "DocumentMoniker": "C:\\Users\\fptsh\\Desktop\\BookShop\\BookShop\\BookShop\\Models\\NguoiDung.cs",
+              "DocumentMoniker": "C:\\Users\\ACER\\Desktop\\BookShop\\BookShop\\BookShop\\Models\\NguoiDung.cs",
               "RelativeDocumentMoniker": "BookShop\\Models\\NguoiDung.cs",
-              "ToolTip": "C:\\Users\\fptsh\\Desktop\\BookShop\\BookShop\\BookShop\\Models\\NguoiDung.cs",
+              "ToolTip": "C:\\Users\\ACER\\Desktop\\BookShop\\BookShop\\BookShop\\Models\\NguoiDung.cs",
               "RelativeToolTip": "BookShop\\Models\\NguoiDung.cs",
               "ViewState": "AgIAAE8AAAAAAAAAAAA3wHAAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -364,11 +298,72 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 2,
+              "Title": "LoaiSanPhamController.cs",
+              "DocumentMoniker": "C:\\Users\\ACER\\Desktop\\BookShop\\BookShop\\BookShop\\Controllers\\LoaiSanPhamController.cs",
+              "RelativeDocumentMoniker": "BookShop\\Controllers\\LoaiSanPhamController.cs",
+              "ToolTip": "C:\\Users\\ACER\\Desktop\\BookShop\\BookShop\\BookShop\\Controllers\\LoaiSanPhamController.cs",
+              "RelativeToolTip": "BookShop\\Controllers\\LoaiSanPhamController.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAYwBAAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-13T02:45:03.055Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SanPhamController.cs",
+              "DocumentMoniker": "C:\\Users\\ACER\\Desktop\\BookShop\\BookShop\\BookShop\\Controllers\\SanPhamController.cs",
+              "RelativeDocumentMoniker": "BookShop\\Controllers\\SanPhamController.cs",
+              "ToolTip": "C:\\Users\\ACER\\Desktop\\BookShop\\BookShop\\BookShop\\Controllers\\SanPhamController.cs",
+              "RelativeToolTip": "BookShop\\Controllers\\SanPhamController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAABGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-13T02:47:03.086Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\ACER\\Desktop\\BookShop\\BookShop\\BookShop\\Views\\SanPham\\Index.cshtml",
+              "RelativeDocumentMoniker": "BookShop\\Views\\SanPham\\Index.cshtml",
+              "ToolTip": "C:\\Users\\ACER\\Desktop\\BookShop\\BookShop\\BookShop\\Views\\SanPham\\Index.cshtml",
+              "RelativeToolTip": "BookShop\\Views\\SanPham\\Index.cshtml",
+              "ViewState": "AgIAAEYAAAAAAAAAAAAIwKgAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-13T03:11:43.575Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\ACER\\Desktop\\BookShop\\BookShop\\BookShop\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "BookShop\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\ACER\\Desktop\\BookShop\\BookShop\\BookShop\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "BookShop\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-13T02:52:50.737Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\ACER\\Desktop\\BookShop\\BookShop\\BookShop\\Views\\SanPham\\Edit.cshtml",
+              "RelativeDocumentMoniker": "BookShop\\Views\\SanPham\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\ACER\\Desktop\\BookShop\\BookShop\\BookShop\\Views\\SanPham\\Edit.cshtml",
+              "RelativeToolTip": "BookShop\\Views\\SanPham\\Edit.cshtml",
+              "ViewState": "AgIAADsAAAAAAAAAAAAIwFgAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-13T03:12:28.555Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
               "Title": "SanPham.cs",
-              "DocumentMoniker": "C:\\Users\\fptsh\\Desktop\\BookShop\\BookShop\\BookShop\\Models\\SanPham.cs",
+              "DocumentMoniker": "C:\\Users\\ACER\\Desktop\\BookShop\\BookShop\\BookShop\\Models\\SanPham.cs",
               "RelativeDocumentMoniker": "BookShop\\Models\\SanPham.cs",
-              "ToolTip": "C:\\Users\\fptsh\\Desktop\\BookShop\\BookShop\\BookShop\\Models\\SanPham.cs",
+              "ToolTip": "C:\\Users\\ACER\\Desktop\\BookShop\\BookShop\\BookShop\\Models\\SanPham.cs",
               "RelativeToolTip": "BookShop\\Models\\SanPham.cs",
               "ViewState": "AgIAACMAAAAAAAAAAAAswDQAAAA1AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -376,35 +371,23 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "Edit.cshtml",
-              "DocumentMoniker": "C:\\Users\\fptsh\\Desktop\\BookShop\\BookShop\\BookShop\\Views\\SanPham\\Edit.cshtml",
-              "RelativeDocumentMoniker": "BookShop\\Views\\SanPham\\Edit.cshtml",
-              "ToolTip": "C:\\Users\\fptsh\\Desktop\\BookShop\\BookShop\\BookShop\\Views\\SanPham\\Edit.cshtml",
-              "RelativeToolTip": "BookShop\\Views\\SanPham\\Edit.cshtml",
-              "ViewState": "AgIAACEAAAAAAAAAAAAAAD4AAAASAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-12-13T03:12:28.555Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "Create.cshtml",
-              "DocumentMoniker": "C:\\Users\\fptsh\\Desktop\\BookShop\\BookShop\\BookShop\\Views\\SanPham\\Create.cshtml",
-              "RelativeDocumentMoniker": "BookShop\\Views\\SanPham\\Create.cshtml",
-              "ToolTip": "C:\\Users\\fptsh\\Desktop\\BookShop\\BookShop\\BookShop\\Views\\SanPham\\Create.cshtml",
-              "RelativeToolTip": "BookShop\\Views\\SanPham\\Create.cshtml",
-              "ViewState": "AgIAAB4AAAAAAAAAAAAAADcAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-12-13T03:12:04.903Z"
+              "DocumentIndex": 8,
+              "Title": "DatHangController.cs",
+              "DocumentMoniker": "C:\\Users\\ACER\\Desktop\\BookShop\\BookShop\\BookShop\\Controllers\\DatHangController.cs",
+              "RelativeDocumentMoniker": "BookShop\\Controllers\\DatHangController.cs",
+              "ToolTip": "C:\\Users\\ACER\\Desktop\\BookShop\\BookShop\\BookShop\\Controllers\\DatHangController.cs",
+              "RelativeToolTip": "BookShop\\Controllers\\DatHangController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-13T02:43:36.735Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 12,
               "Title": "DatHang.cs",
-              "DocumentMoniker": "C:\\Users\\fptsh\\Desktop\\BookShop\\BookShop\\BookShop\\Models\\DatHang.cs",
+              "DocumentMoniker": "C:\\Users\\ACER\\Desktop\\BookShop\\BookShop\\BookShop\\Models\\DatHang.cs",
               "RelativeDocumentMoniker": "BookShop\\Models\\DatHang.cs",
-              "ToolTip": "C:\\Users\\fptsh\\Desktop\\BookShop\\BookShop\\BookShop\\Models\\DatHang.cs",
+              "ToolTip": "C:\\Users\\ACER\\Desktop\\BookShop\\BookShop\\BookShop\\Models\\DatHang.cs",
               "RelativeToolTip": "BookShop\\Models\\DatHang.cs",
               "ViewState": "AgIAABsAAAAAAAAAAAAAwCUAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -414,9 +397,9 @@
               "$type": "Document",
               "DocumentIndex": 14,
               "Title": "TinhTrang.cs",
-              "DocumentMoniker": "C:\\Users\\fptsh\\Desktop\\BookShop\\BookShop\\BookShop\\Models\\TinhTrang.cs",
+              "DocumentMoniker": "C:\\Users\\ACER\\Desktop\\BookShop\\BookShop\\BookShop\\Models\\TinhTrang.cs",
               "RelativeDocumentMoniker": "BookShop\\Models\\TinhTrang.cs",
-              "ToolTip": "C:\\Users\\fptsh\\Desktop\\BookShop\\BookShop\\BookShop\\Models\\TinhTrang.cs",
+              "ToolTip": "C:\\Users\\ACER\\Desktop\\BookShop\\BookShop\\BookShop\\Models\\TinhTrang.cs",
               "RelativeToolTip": "BookShop\\Models\\TinhTrang.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAOAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -426,9 +409,9 @@
               "$type": "Document",
               "DocumentIndex": 13,
               "Title": "HangSanXuat.cs",
-              "DocumentMoniker": "C:\\Users\\fptsh\\Desktop\\BookShop\\BookShop\\BookShop\\Models\\HangSanXuat.cs",
+              "DocumentMoniker": "C:\\Users\\ACER\\Desktop\\BookShop\\BookShop\\BookShop\\Models\\HangSanXuat.cs",
               "RelativeDocumentMoniker": "BookShop\\Models\\HangSanXuat.cs",
-              "ToolTip": "C:\\Users\\fptsh\\Desktop\\BookShop\\BookShop\\BookShop\\Models\\HangSanXuat.cs",
+              "ToolTip": "C:\\Users\\ACER\\Desktop\\BookShop\\BookShop\\BookShop\\Models\\HangSanXuat.cs",
               "RelativeToolTip": "BookShop\\Models\\HangSanXuat.cs",
               "ViewState": "AgIAAA0AAAAAAAAAAAAQwAMAAAAZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -438,9 +421,9 @@
               "$type": "Document",
               "DocumentIndex": 15,
               "Title": "LoaiSanPham.cs",
-              "DocumentMoniker": "C:\\Users\\fptsh\\Desktop\\BookShop\\BookShop\\BookShop\\Models\\LoaiSanPham.cs",
+              "DocumentMoniker": "C:\\Users\\ACER\\Desktop\\BookShop\\BookShop\\BookShop\\Models\\LoaiSanPham.cs",
               "RelativeDocumentMoniker": "BookShop\\Models\\LoaiSanPham.cs",
-              "ToolTip": "C:\\Users\\fptsh\\Desktop\\BookShop\\BookShop\\BookShop\\Models\\LoaiSanPham.cs",
+              "ToolTip": "C:\\Users\\ACER\\Desktop\\BookShop\\BookShop\\BookShop\\Models\\LoaiSanPham.cs",
               "RelativeToolTip": "BookShop\\Models\\LoaiSanPham.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAHAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -450,9 +433,9 @@
               "$type": "Document",
               "DocumentIndex": 16,
               "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\fptsh\\Desktop\\BookShop\\BookShop\\BookShop\\Views\\LoaiSanPham\\Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\ACER\\Desktop\\BookShop\\BookShop\\BookShop\\Views\\LoaiSanPham\\Index.cshtml",
               "RelativeDocumentMoniker": "BookShop\\Views\\LoaiSanPham\\Index.cshtml",
-              "ToolTip": "C:\\Users\\fptsh\\Desktop\\BookShop\\BookShop\\BookShop\\Views\\LoaiSanPham\\Index.cshtml",
+              "ToolTip": "C:\\Users\\ACER\\Desktop\\BookShop\\BookShop\\BookShop\\Views\\LoaiSanPham\\Index.cshtml",
               "RelativeToolTip": "BookShop\\Views\\LoaiSanPham\\Index.cshtml",
               "ViewState": "AgIAAB4AAAAAAAAAAAAAAAsAAAATAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -462,9 +445,9 @@
               "$type": "Document",
               "DocumentIndex": 26,
               "Title": "Create.cshtml",
-              "DocumentMoniker": "C:\\Users\\fptsh\\Desktop\\BookShop\\BookShop\\BookShop\\Views\\TinhTrang\\Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\ACER\\Desktop\\BookShop\\BookShop\\BookShop\\Views\\TinhTrang\\Create.cshtml",
               "RelativeDocumentMoniker": "BookShop\\Views\\TinhTrang\\Create.cshtml",
-              "ToolTip": "C:\\Users\\fptsh\\Desktop\\BookShop\\BookShop\\BookShop\\Views\\TinhTrang\\Create.cshtml",
+              "ToolTip": "C:\\Users\\ACER\\Desktop\\BookShop\\BookShop\\BookShop\\Views\\TinhTrang\\Create.cshtml",
               "RelativeToolTip": "BookShop\\Views\\TinhTrang\\Create.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAPAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -474,9 +457,9 @@
               "$type": "Document",
               "DocumentIndex": 19,
               "Title": "Create.cshtml",
-              "DocumentMoniker": "C:\\Users\\fptsh\\Desktop\\BookShop\\BookShop\\BookShop\\Views\\DatHang\\Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\ACER\\Desktop\\BookShop\\BookShop\\BookShop\\Views\\DatHang\\Create.cshtml",
               "RelativeDocumentMoniker": "BookShop\\Views\\DatHang\\Create.cshtml",
-              "ToolTip": "C:\\Users\\fptsh\\Desktop\\BookShop\\BookShop\\BookShop\\Views\\DatHang\\Create.cshtml",
+              "ToolTip": "C:\\Users\\ACER\\Desktop\\BookShop\\BookShop\\BookShop\\Views\\DatHang\\Create.cshtml",
               "RelativeToolTip": "BookShop\\Views\\DatHang\\Create.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAPAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -486,9 +469,9 @@
               "$type": "Document",
               "DocumentIndex": 17,
               "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\fptsh\\Desktop\\BookShop\\BookShop\\BookShop\\appsettings.json",
+              "DocumentMoniker": "C:\\Users\\ACER\\Desktop\\BookShop\\BookShop\\BookShop\\appsettings.json",
               "RelativeDocumentMoniker": "BookShop\\appsettings.json",
-              "ToolTip": "C:\\Users\\fptsh\\Desktop\\BookShop\\BookShop\\BookShop\\appsettings.json",
+              "ToolTip": "C:\\Users\\ACER\\Desktop\\BookShop\\BookShop\\BookShop\\appsettings.json",
               "RelativeToolTip": "BookShop\\appsettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAxAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
@@ -498,9 +481,9 @@
               "$type": "Document",
               "DocumentIndex": 55,
               "Title": "20241213034729_KhoiTaoCSDL.cs",
-              "DocumentMoniker": "C:\\Users\\fptsh\\Desktop\\BookShop\\BookShop\\BookShop\\Migrations\\20241213034729_KhoiTaoCSDL.cs",
+              "DocumentMoniker": "C:\\Users\\ACER\\Desktop\\BookShop\\BookShop\\BookShop\\Migrations\\20241213034729_KhoiTaoCSDL.cs",
               "RelativeDocumentMoniker": "BookShop\\Migrations\\20241213034729_KhoiTaoCSDL.cs",
-              "ToolTip": "C:\\Users\\fptsh\\Desktop\\BookShop\\BookShop\\BookShop\\Migrations\\20241213034729_KhoiTaoCSDL.cs",
+              "ToolTip": "C:\\Users\\ACER\\Desktop\\BookShop\\BookShop\\BookShop\\Migrations\\20241213034729_KhoiTaoCSDL.cs",
               "RelativeToolTip": "BookShop\\Migrations\\20241213034729_KhoiTaoCSDL.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -510,9 +493,9 @@
               "$type": "Document",
               "DocumentIndex": 24,
               "Title": "Details.cshtml",
-              "DocumentMoniker": "C:\\Users\\fptsh\\Desktop\\BookShop\\BookShop\\BookShop\\Views\\TinhTrang\\Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\ACER\\Desktop\\BookShop\\BookShop\\BookShop\\Views\\TinhTrang\\Details.cshtml",
               "RelativeDocumentMoniker": "BookShop\\Views\\TinhTrang\\Details.cshtml",
-              "ToolTip": "C:\\Users\\fptsh\\Desktop\\BookShop\\BookShop\\BookShop\\Views\\TinhTrang\\Details.cshtml",
+              "ToolTip": "C:\\Users\\ACER\\Desktop\\BookShop\\BookShop\\BookShop\\Views\\TinhTrang\\Details.cshtml",
               "RelativeToolTip": "BookShop\\Views\\TinhTrang\\Details.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -522,9 +505,9 @@
               "$type": "Document",
               "DocumentIndex": 27,
               "Title": "Error.cshtml",
-              "DocumentMoniker": "C:\\Users\\fptsh\\Desktop\\BookShop\\BookShop\\BookShop\\Views\\Shared\\Error.cshtml",
+              "DocumentMoniker": "C:\\Users\\ACER\\Desktop\\BookShop\\BookShop\\BookShop\\Views\\Shared\\Error.cshtml",
               "RelativeDocumentMoniker": "BookShop\\Views\\Shared\\Error.cshtml",
-              "ToolTip": "C:\\Users\\fptsh\\Desktop\\BookShop\\BookShop\\BookShop\\Views\\Shared\\Error.cshtml",
+              "ToolTip": "C:\\Users\\ACER\\Desktop\\BookShop\\BookShop\\BookShop\\Views\\Shared\\Error.cshtml",
               "RelativeToolTip": "BookShop\\Views\\Shared\\Error.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -534,9 +517,9 @@
               "$type": "Document",
               "DocumentIndex": 18,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\fptsh\\Desktop\\BookShop\\BookShop\\BookShop\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\ACER\\Desktop\\BookShop\\BookShop\\BookShop\\Program.cs",
               "RelativeDocumentMoniker": "BookShop\\Program.cs",
-              "ToolTip": "C:\\Users\\fptsh\\Desktop\\BookShop\\BookShop\\BookShop\\Program.cs",
+              "ToolTip": "C:\\Users\\ACER\\Desktop\\BookShop\\BookShop\\BookShop\\Program.cs",
               "RelativeToolTip": "BookShop\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -546,9 +529,9 @@
               "$type": "Document",
               "DocumentIndex": 21,
               "Title": "_ViewImports.cshtml",
-              "DocumentMoniker": "C:\\Users\\fptsh\\Desktop\\BookShop\\BookShop\\BookShop\\Views\\_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\ACER\\Desktop\\BookShop\\BookShop\\BookShop\\Views\\_ViewImports.cshtml",
               "RelativeDocumentMoniker": "BookShop\\Views\\_ViewImports.cshtml",
-              "ToolTip": "C:\\Users\\fptsh\\Desktop\\BookShop\\BookShop\\BookShop\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\ACER\\Desktop\\BookShop\\BookShop\\BookShop\\Views\\_ViewImports.cshtml",
               "RelativeToolTip": "BookShop\\Views\\_ViewImports.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -558,9 +541,9 @@
               "$type": "Document",
               "DocumentIndex": 20,
               "Title": "_ViewStart.cshtml",
-              "DocumentMoniker": "C:\\Users\\fptsh\\Desktop\\BookShop\\BookShop\\BookShop\\Views\\_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\ACER\\Desktop\\BookShop\\BookShop\\BookShop\\Views\\_ViewStart.cshtml",
               "RelativeDocumentMoniker": "BookShop\\Views\\_ViewStart.cshtml",
-              "ToolTip": "C:\\Users\\fptsh\\Desktop\\BookShop\\BookShop\\BookShop\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\ACER\\Desktop\\BookShop\\BookShop\\BookShop\\Views\\_ViewStart.cshtml",
               "RelativeToolTip": "BookShop\\Views\\_ViewStart.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -570,9 +553,9 @@
               "$type": "Document",
               "DocumentIndex": 28,
               "Title": "_ValidationScriptsPartial.cshtml",
-              "DocumentMoniker": "C:\\Users\\fptsh\\Desktop\\BookShop\\BookShop\\BookShop\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "DocumentMoniker": "C:\\Users\\ACER\\Desktop\\BookShop\\BookShop\\BookShop\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
               "RelativeDocumentMoniker": "BookShop\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
-              "ToolTip": "C:\\Users\\fptsh\\Desktop\\BookShop\\BookShop\\BookShop\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ToolTip": "C:\\Users\\ACER\\Desktop\\BookShop\\BookShop\\BookShop\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
               "RelativeToolTip": "BookShop\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -582,9 +565,9 @@
               "$type": "Document",
               "DocumentIndex": 23,
               "Title": "Edit.cshtml",
-              "DocumentMoniker": "C:\\Users\\fptsh\\Desktop\\BookShop\\BookShop\\BookShop\\Views\\TinhTrang\\Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\ACER\\Desktop\\BookShop\\BookShop\\BookShop\\Views\\TinhTrang\\Edit.cshtml",
               "RelativeDocumentMoniker": "BookShop\\Views\\TinhTrang\\Edit.cshtml",
-              "ToolTip": "C:\\Users\\fptsh\\Desktop\\BookShop\\BookShop\\BookShop\\Views\\TinhTrang\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\ACER\\Desktop\\BookShop\\BookShop\\BookShop\\Views\\TinhTrang\\Edit.cshtml",
               "RelativeToolTip": "BookShop\\Views\\TinhTrang\\Edit.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAPAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -594,9 +577,9 @@
               "$type": "Document",
               "DocumentIndex": 22,
               "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\fptsh\\Desktop\\BookShop\\BookShop\\BookShop\\Views\\TinhTrang\\Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\ACER\\Desktop\\BookShop\\BookShop\\BookShop\\Views\\TinhTrang\\Index.cshtml",
               "RelativeDocumentMoniker": "BookShop\\Views\\TinhTrang\\Index.cshtml",
-              "ToolTip": "C:\\Users\\fptsh\\Desktop\\BookShop\\BookShop\\BookShop\\Views\\TinhTrang\\Index.cshtml",
+              "ToolTip": "C:\\Users\\ACER\\Desktop\\BookShop\\BookShop\\BookShop\\Views\\TinhTrang\\Index.cshtml",
               "RelativeToolTip": "BookShop\\Views\\TinhTrang\\Index.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAbAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -604,11 +587,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 31,
+              "DocumentIndex": 29,
               "Title": "Details.cshtml",
-              "DocumentMoniker": "C:\\Users\\fptsh\\Desktop\\BookShop\\BookShop\\BookShop\\Views\\SanPham\\Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\ACER\\Desktop\\BookShop\\BookShop\\BookShop\\Views\\SanPham\\Details.cshtml",
               "RelativeDocumentMoniker": "BookShop\\Views\\SanPham\\Details.cshtml",
-              "ToolTip": "C:\\Users\\fptsh\\Desktop\\BookShop\\BookShop\\BookShop\\Views\\SanPham\\Details.cshtml",
+              "ToolTip": "C:\\Users\\ACER\\Desktop\\BookShop\\BookShop\\BookShop\\Views\\SanPham\\Details.cshtml",
               "RelativeToolTip": "BookShop\\Views\\SanPham\\Details.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAPAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -618,9 +601,9 @@
               "$type": "Document",
               "DocumentIndex": 25,
               "Title": "Delete.cshtml",
-              "DocumentMoniker": "C:\\Users\\fptsh\\Desktop\\BookShop\\BookShop\\BookShop\\Views\\TinhTrang\\Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\ACER\\Desktop\\BookShop\\BookShop\\BookShop\\Views\\TinhTrang\\Delete.cshtml",
               "RelativeDocumentMoniker": "BookShop\\Views\\TinhTrang\\Delete.cshtml",
-              "ToolTip": "C:\\Users\\fptsh\\Desktop\\BookShop\\BookShop\\BookShop\\Views\\TinhTrang\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\ACER\\Desktop\\BookShop\\BookShop\\BookShop\\Views\\TinhTrang\\Delete.cshtml",
               "RelativeToolTip": "BookShop\\Views\\TinhTrang\\Delete.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAPAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -628,11 +611,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 33,
+              "DocumentIndex": 31,
               "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\fptsh\\Desktop\\BookShop\\BookShop\\BookShop\\Views\\NguoiDung\\Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\ACER\\Desktop\\BookShop\\BookShop\\BookShop\\Views\\NguoiDung\\Index.cshtml",
               "RelativeDocumentMoniker": "BookShop\\Views\\NguoiDung\\Index.cshtml",
-              "ToolTip": "C:\\Users\\fptsh\\Desktop\\BookShop\\BookShop\\BookShop\\Views\\NguoiDung\\Index.cshtml",
+              "ToolTip": "C:\\Users\\ACER\\Desktop\\BookShop\\BookShop\\BookShop\\Views\\NguoiDung\\Index.cshtml",
               "RelativeToolTip": "BookShop\\Views\\NguoiDung\\Index.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAbAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -640,35 +623,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 30,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\fptsh\\Desktop\\BookShop\\BookShop\\BookShop\\Views\\SanPham\\Index.cshtml",
-              "RelativeDocumentMoniker": "BookShop\\Views\\SanPham\\Index.cshtml",
-              "ToolTip": "C:\\Users\\fptsh\\Desktop\\BookShop\\BookShop\\BookShop\\Views\\SanPham\\Index.cshtml",
-              "RelativeToolTip": "BookShop\\Views\\SanPham\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAbAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-12-13T03:11:43.575Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 29,
-              "Title": "_Layout.cshtml",
-              "DocumentMoniker": "C:\\Users\\fptsh\\Desktop\\BookShop\\BookShop\\BookShop\\Views\\Shared\\_Layout.cshtml",
-              "RelativeDocumentMoniker": "BookShop\\Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "C:\\Users\\fptsh\\Desktop\\BookShop\\BookShop\\BookShop\\Views\\Shared\\_Layout.cshtml",
-              "RelativeToolTip": "BookShop\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AgIAAEMAAABAmZmZmZkuwEAAAAAdAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-12-13T02:52:50.737Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 34,
+              "DocumentIndex": 32,
               "Title": "Details.cshtml",
-              "DocumentMoniker": "C:\\Users\\fptsh\\Desktop\\BookShop\\BookShop\\BookShop\\Views\\NguoiDung\\Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\ACER\\Desktop\\BookShop\\BookShop\\BookShop\\Views\\NguoiDung\\Details.cshtml",
               "RelativeDocumentMoniker": "BookShop\\Views\\NguoiDung\\Details.cshtml",
-              "ToolTip": "C:\\Users\\fptsh\\Desktop\\BookShop\\BookShop\\BookShop\\Views\\NguoiDung\\Details.cshtml",
+              "ToolTip": "C:\\Users\\ACER\\Desktop\\BookShop\\BookShop\\BookShop\\Views\\NguoiDung\\Details.cshtml",
               "RelativeToolTip": "BookShop\\Views\\NguoiDung\\Details.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -676,11 +635,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 32,
+              "DocumentIndex": 30,
               "Title": "Delete.cshtml",
-              "DocumentMoniker": "C:\\Users\\fptsh\\Desktop\\BookShop\\BookShop\\BookShop\\Views\\SanPham\\Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\ACER\\Desktop\\BookShop\\BookShop\\BookShop\\Views\\SanPham\\Delete.cshtml",
               "RelativeDocumentMoniker": "BookShop\\Views\\SanPham\\Delete.cshtml",
-              "ToolTip": "C:\\Users\\fptsh\\Desktop\\BookShop\\BookShop\\BookShop\\Views\\SanPham\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\ACER\\Desktop\\BookShop\\BookShop\\BookShop\\Views\\SanPham\\Delete.cshtml",
               "RelativeToolTip": "BookShop\\Views\\SanPham\\Delete.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -688,11 +647,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 36,
+              "DocumentIndex": 34,
               "Title": "Edit.cshtml",
-              "DocumentMoniker": "C:\\Users\\fptsh\\Desktop\\BookShop\\BookShop\\BookShop\\Views\\LoaiSanPham\\Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\ACER\\Desktop\\BookShop\\BookShop\\BookShop\\Views\\LoaiSanPham\\Edit.cshtml",
               "RelativeDocumentMoniker": "BookShop\\Views\\LoaiSanPham\\Edit.cshtml",
-              "ToolTip": "C:\\Users\\fptsh\\Desktop\\BookShop\\BookShop\\BookShop\\Views\\LoaiSanPham\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\ACER\\Desktop\\BookShop\\BookShop\\BookShop\\Views\\LoaiSanPham\\Edit.cshtml",
               "RelativeToolTip": "BookShop\\Views\\LoaiSanPham\\Edit.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAPAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -700,11 +659,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 37,
+              "DocumentIndex": 35,
               "Title": "Details.cshtml",
-              "DocumentMoniker": "C:\\Users\\fptsh\\Desktop\\BookShop\\BookShop\\BookShop\\Views\\LoaiSanPham\\Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\ACER\\Desktop\\BookShop\\BookShop\\BookShop\\Views\\LoaiSanPham\\Details.cshtml",
               "RelativeDocumentMoniker": "BookShop\\Views\\LoaiSanPham\\Details.cshtml",
-              "ToolTip": "C:\\Users\\fptsh\\Desktop\\BookShop\\BookShop\\BookShop\\Views\\LoaiSanPham\\Details.cshtml",
+              "ToolTip": "C:\\Users\\ACER\\Desktop\\BookShop\\BookShop\\BookShop\\Views\\LoaiSanPham\\Details.cshtml",
               "RelativeToolTip": "BookShop\\Views\\LoaiSanPham\\Details.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -712,11 +671,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 39,
+              "DocumentIndex": 37,
               "Title": "Create.cshtml",
-              "DocumentMoniker": "C:\\Users\\fptsh\\Desktop\\BookShop\\BookShop\\BookShop\\Views\\LoaiSanPham\\Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\ACER\\Desktop\\BookShop\\BookShop\\BookShop\\Views\\LoaiSanPham\\Create.cshtml",
               "RelativeDocumentMoniker": "BookShop\\Views\\LoaiSanPham\\Create.cshtml",
-              "ToolTip": "C:\\Users\\fptsh\\Desktop\\BookShop\\BookShop\\BookShop\\Views\\LoaiSanPham\\Create.cshtml",
+              "ToolTip": "C:\\Users\\ACER\\Desktop\\BookShop\\BookShop\\BookShop\\Views\\LoaiSanPham\\Create.cshtml",
               "RelativeToolTip": "BookShop\\Views\\LoaiSanPham\\Create.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAPAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -724,11 +683,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 35,
+              "DocumentIndex": 33,
               "Title": "Delete.cshtml",
-              "DocumentMoniker": "C:\\Users\\fptsh\\Desktop\\BookShop\\BookShop\\BookShop\\Views\\NguoiDung\\Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\ACER\\Desktop\\BookShop\\BookShop\\BookShop\\Views\\NguoiDung\\Delete.cshtml",
               "RelativeDocumentMoniker": "BookShop\\Views\\NguoiDung\\Delete.cshtml",
-              "ToolTip": "C:\\Users\\fptsh\\Desktop\\BookShop\\BookShop\\BookShop\\Views\\NguoiDung\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\ACER\\Desktop\\BookShop\\BookShop\\BookShop\\Views\\NguoiDung\\Delete.cshtml",
               "RelativeToolTip": "BookShop\\Views\\NguoiDung\\Delete.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAPAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -736,11 +695,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 40,
+              "DocumentIndex": 38,
               "Title": "Privacy.cshtml",
-              "DocumentMoniker": "C:\\Users\\fptsh\\Desktop\\BookShop\\BookShop\\BookShop\\Views\\Home\\Privacy.cshtml",
+              "DocumentMoniker": "C:\\Users\\ACER\\Desktop\\BookShop\\BookShop\\BookShop\\Views\\Home\\Privacy.cshtml",
               "RelativeDocumentMoniker": "BookShop\\Views\\Home\\Privacy.cshtml",
-              "ToolTip": "C:\\Users\\fptsh\\Desktop\\BookShop\\BookShop\\BookShop\\Views\\Home\\Privacy.cshtml",
+              "ToolTip": "C:\\Users\\ACER\\Desktop\\BookShop\\BookShop\\BookShop\\Views\\Home\\Privacy.cshtml",
               "RelativeToolTip": "BookShop\\Views\\Home\\Privacy.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -748,11 +707,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 42,
+              "DocumentIndex": 40,
               "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\fptsh\\Desktop\\BookShop\\BookShop\\BookShop\\Views\\HangSanXuat\\Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\ACER\\Desktop\\BookShop\\BookShop\\BookShop\\Views\\HangSanXuat\\Index.cshtml",
               "RelativeDocumentMoniker": "BookShop\\Views\\HangSanXuat\\Index.cshtml",
-              "ToolTip": "C:\\Users\\fptsh\\Desktop\\BookShop\\BookShop\\BookShop\\Views\\HangSanXuat\\Index.cshtml",
+              "ToolTip": "C:\\Users\\ACER\\Desktop\\BookShop\\BookShop\\BookShop\\Views\\HangSanXuat\\Index.cshtml",
               "RelativeToolTip": "BookShop\\Views\\HangSanXuat\\Index.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAbAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -760,11 +719,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 43,
+              "DocumentIndex": 41,
               "Title": "Edit.cshtml",
-              "DocumentMoniker": "C:\\Users\\fptsh\\Desktop\\BookShop\\BookShop\\BookShop\\Views\\HangSanXuat\\Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\ACER\\Desktop\\BookShop\\BookShop\\BookShop\\Views\\HangSanXuat\\Edit.cshtml",
               "RelativeDocumentMoniker": "BookShop\\Views\\HangSanXuat\\Edit.cshtml",
-              "ToolTip": "C:\\Users\\fptsh\\Desktop\\BookShop\\BookShop\\BookShop\\Views\\HangSanXuat\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\ACER\\Desktop\\BookShop\\BookShop\\BookShop\\Views\\HangSanXuat\\Edit.cshtml",
               "RelativeToolTip": "BookShop\\Views\\HangSanXuat\\Edit.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAPAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -772,11 +731,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 44,
+              "DocumentIndex": 42,
               "Title": "Details.cshtml",
-              "DocumentMoniker": "C:\\Users\\fptsh\\Desktop\\BookShop\\BookShop\\BookShop\\Views\\HangSanXuat\\Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\ACER\\Desktop\\BookShop\\BookShop\\BookShop\\Views\\HangSanXuat\\Details.cshtml",
               "RelativeDocumentMoniker": "BookShop\\Views\\HangSanXuat\\Details.cshtml",
-              "ToolTip": "C:\\Users\\fptsh\\Desktop\\BookShop\\BookShop\\BookShop\\Views\\HangSanXuat\\Details.cshtml",
+              "ToolTip": "C:\\Users\\ACER\\Desktop\\BookShop\\BookShop\\BookShop\\Views\\HangSanXuat\\Details.cshtml",
               "RelativeToolTip": "BookShop\\Views\\HangSanXuat\\Details.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAPAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -784,11 +743,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 38,
+              "DocumentIndex": 36,
               "Title": "Delete.cshtml",
-              "DocumentMoniker": "C:\\Users\\fptsh\\Desktop\\BookShop\\BookShop\\BookShop\\Views\\LoaiSanPham\\Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\ACER\\Desktop\\BookShop\\BookShop\\BookShop\\Views\\LoaiSanPham\\Delete.cshtml",
               "RelativeDocumentMoniker": "BookShop\\Views\\LoaiSanPham\\Delete.cshtml",
-              "ToolTip": "C:\\Users\\fptsh\\Desktop\\BookShop\\BookShop\\BookShop\\Views\\LoaiSanPham\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\ACER\\Desktop\\BookShop\\BookShop\\BookShop\\Views\\LoaiSanPham\\Delete.cshtml",
               "RelativeToolTip": "BookShop\\Views\\LoaiSanPham\\Delete.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAPAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -796,11 +755,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 45,
+              "DocumentIndex": 43,
               "Title": "Details.cshtml",
-              "DocumentMoniker": "C:\\Users\\fptsh\\Desktop\\BookShop\\BookShop\\BookShop\\Views\\DatHang\\Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\ACER\\Desktop\\BookShop\\BookShop\\BookShop\\Views\\DatHang\\Details.cshtml",
               "RelativeDocumentMoniker": "BookShop\\Views\\DatHang\\Details.cshtml",
-              "ToolTip": "C:\\Users\\fptsh\\Desktop\\BookShop\\BookShop\\BookShop\\Views\\DatHang\\Details.cshtml",
+              "ToolTip": "C:\\Users\\ACER\\Desktop\\BookShop\\BookShop\\BookShop\\Views\\DatHang\\Details.cshtml",
               "RelativeToolTip": "BookShop\\Views\\DatHang\\Details.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -808,11 +767,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 46,
+              "DocumentIndex": 44,
               "Title": "Delete.cshtml",
-              "DocumentMoniker": "C:\\Users\\fptsh\\Desktop\\BookShop\\BookShop\\BookShop\\Views\\HangSanXuat\\Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\ACER\\Desktop\\BookShop\\BookShop\\BookShop\\Views\\HangSanXuat\\Delete.cshtml",
               "RelativeDocumentMoniker": "BookShop\\Views\\HangSanXuat\\Delete.cshtml",
-              "ToolTip": "C:\\Users\\fptsh\\Desktop\\BookShop\\BookShop\\BookShop\\Views\\HangSanXuat\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\ACER\\Desktop\\BookShop\\BookShop\\BookShop\\Views\\HangSanXuat\\Delete.cshtml",
               "RelativeToolTip": "BookShop\\Views\\HangSanXuat\\Delete.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAPAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -820,11 +779,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 41,
+              "DocumentIndex": 39,
               "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\fptsh\\Desktop\\BookShop\\BookShop\\BookShop\\Views\\Home\\Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\ACER\\Desktop\\BookShop\\BookShop\\BookShop\\Views\\Home\\Index.cshtml",
               "RelativeDocumentMoniker": "BookShop\\Views\\Home\\Index.cshtml",
-              "ToolTip": "C:\\Users\\fptsh\\Desktop\\BookShop\\BookShop\\BookShop\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\ACER\\Desktop\\BookShop\\BookShop\\BookShop\\Views\\Home\\Index.cshtml",
               "RelativeToolTip": "BookShop\\Views\\Home\\Index.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAGAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -832,11 +791,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 47,
+              "DocumentIndex": 45,
               "Title": "Create.cshtml",
-              "DocumentMoniker": "C:\\Users\\fptsh\\Desktop\\BookShop\\BookShop\\BookShop\\Views\\HangSanXuat\\Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\ACER\\Desktop\\BookShop\\BookShop\\BookShop\\Views\\HangSanXuat\\Create.cshtml",
               "RelativeDocumentMoniker": "BookShop\\Views\\HangSanXuat\\Create.cshtml",
-              "ToolTip": "C:\\Users\\fptsh\\Desktop\\BookShop\\BookShop\\BookShop\\Views\\HangSanXuat\\Create.cshtml",
+              "ToolTip": "C:\\Users\\ACER\\Desktop\\BookShop\\BookShop\\BookShop\\Views\\HangSanXuat\\Create.cshtml",
               "RelativeToolTip": "BookShop\\Views\\HangSanXuat\\Create.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAPAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -844,11 +803,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 48,
+              "DocumentIndex": 46,
               "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\fptsh\\Desktop\\BookShop\\BookShop\\BookShop\\Views\\DatHang\\Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\ACER\\Desktop\\BookShop\\BookShop\\BookShop\\Views\\DatHang\\Index.cshtml",
               "RelativeDocumentMoniker": "BookShop\\Views\\DatHang\\Index.cshtml",
-              "ToolTip": "C:\\Users\\fptsh\\Desktop\\BookShop\\BookShop\\BookShop\\Views\\DatHang\\Index.cshtml",
+              "ToolTip": "C:\\Users\\ACER\\Desktop\\BookShop\\BookShop\\BookShop\\Views\\DatHang\\Index.cshtml",
               "RelativeToolTip": "BookShop\\Views\\DatHang\\Index.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAbAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -856,11 +815,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 49,
+              "DocumentIndex": 47,
               "Title": "Edit.cshtml",
-              "DocumentMoniker": "C:\\Users\\fptsh\\Desktop\\BookShop\\BookShop\\BookShop\\Views\\DatHang\\Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\ACER\\Desktop\\BookShop\\BookShop\\BookShop\\Views\\DatHang\\Edit.cshtml",
               "RelativeDocumentMoniker": "BookShop\\Views\\DatHang\\Edit.cshtml",
-              "ToolTip": "C:\\Users\\fptsh\\Desktop\\BookShop\\BookShop\\BookShop\\Views\\DatHang\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\ACER\\Desktop\\BookShop\\BookShop\\BookShop\\Views\\DatHang\\Edit.cshtml",
               "RelativeToolTip": "BookShop\\Views\\DatHang\\Edit.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAPAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -868,11 +827,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 50,
+              "DocumentIndex": 48,
               "Title": "Delete.cshtml",
-              "DocumentMoniker": "C:\\Users\\fptsh\\Desktop\\BookShop\\BookShop\\BookShop\\Views\\DatHang\\Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\ACER\\Desktop\\BookShop\\BookShop\\BookShop\\Views\\DatHang\\Delete.cshtml",
               "RelativeDocumentMoniker": "BookShop\\Views\\DatHang\\Delete.cshtml",
-              "ToolTip": "C:\\Users\\fptsh\\Desktop\\BookShop\\BookShop\\BookShop\\Views\\DatHang\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\ACER\\Desktop\\BookShop\\BookShop\\BookShop\\Views\\DatHang\\Delete.cshtml",
               "RelativeToolTip": "BookShop\\Views\\DatHang\\Delete.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAPAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -880,11 +839,35 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "HangSanXuatController.cs",
+              "DocumentMoniker": "C:\\Users\\ACER\\Desktop\\BookShop\\BookShop\\BookShop\\Controllers\\HangSanXuatController.cs",
+              "RelativeDocumentMoniker": "BookShop\\Controllers\\HangSanXuatController.cs",
+              "ToolTip": "C:\\Users\\ACER\\Desktop\\BookShop\\BookShop\\BookShop\\Controllers\\HangSanXuatController.cs",
+              "RelativeToolTip": "BookShop\\Controllers\\HangSanXuatController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-13T02:44:28.26Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "TinhTrangController.cs",
+              "DocumentMoniker": "C:\\Users\\ACER\\Desktop\\BookShop\\BookShop\\BookShop\\Controllers\\TinhTrangController.cs",
+              "RelativeDocumentMoniker": "BookShop\\Controllers\\TinhTrangController.cs",
+              "ToolTip": "C:\\Users\\ACER\\Desktop\\BookShop\\BookShop\\BookShop\\Controllers\\TinhTrangController.cs",
+              "RelativeToolTip": "BookShop\\Controllers\\TinhTrangController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-13T02:48:07.515Z"
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 51,
               "Title": "site.css",
-              "DocumentMoniker": "C:\\Users\\fptsh\\Desktop\\BookShop\\BookShop\\BookShop\\wwwroot\\css\\site.css",
+              "DocumentMoniker": "C:\\Users\\ACER\\Desktop\\BookShop\\BookShop\\BookShop\\wwwroot\\css\\site.css",
               "RelativeDocumentMoniker": "BookShop\\wwwroot\\css\\site.css",
-              "ToolTip": "C:\\Users\\fptsh\\Desktop\\BookShop\\BookShop\\BookShop\\wwwroot\\css\\site.css",
+              "ToolTip": "C:\\Users\\ACER\\Desktop\\BookShop\\BookShop\\BookShop\\wwwroot\\css\\site.css",
               "RelativeToolTip": "BookShop\\wwwroot\\css\\site.css",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
@@ -894,9 +877,9 @@
               "$type": "Document",
               "DocumentIndex": 52,
               "Title": "libman.json",
-              "DocumentMoniker": "C:\\Users\\fptsh\\Desktop\\BookShop\\BookShop\\BookShop\\libman.json",
+              "DocumentMoniker": "C:\\Users\\ACER\\Desktop\\BookShop\\BookShop\\BookShop\\libman.json",
               "RelativeDocumentMoniker": "BookShop\\libman.json",
-              "ToolTip": "C:\\Users\\fptsh\\Desktop\\BookShop\\BookShop\\BookShop\\libman.json",
+              "ToolTip": "C:\\Users\\ACER\\Desktop\\BookShop\\BookShop\\BookShop\\libman.json",
               "RelativeToolTip": "BookShop\\libman.json",
               "ViewState": "AQIAABYAAAAAAAAAAADwvywAAAADAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
@@ -906,9 +889,9 @@
               "$type": "Document",
               "DocumentIndex": 53,
               "Title": "BookShopDbContext.cs",
-              "DocumentMoniker": "C:\\Users\\fptsh\\Desktop\\BookShop\\BookShop\\BookShop\\Models\\BookShopDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\ACER\\Desktop\\BookShop\\BookShop\\BookShop\\Models\\BookShopDbContext.cs",
               "RelativeDocumentMoniker": "BookShop\\Models\\BookShopDbContext.cs",
-              "ToolTip": "C:\\Users\\fptsh\\Desktop\\BookShop\\BookShop\\BookShop\\Models\\BookShopDbContext.cs",
+              "ToolTip": "C:\\Users\\ACER\\Desktop\\BookShop\\BookShop\\BookShop\\Models\\BookShopDbContext.cs",
               "RelativeToolTip": "BookShop\\Models\\BookShopDbContext.cs",
               "ViewState": "AQIAAAoAAAAAAAAAAAA5wAQAAAAuAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -918,23 +901,13 @@
               "$type": "Document",
               "DocumentIndex": 54,
               "Title": "DatHang_ChiTiet.cs",
-              "DocumentMoniker": "C:\\Users\\fptsh\\Desktop\\BookShop\\BookShop\\BookShop\\Models\\DatHang_ChiTiet.cs",
+              "DocumentMoniker": "C:\\Users\\ACER\\Desktop\\BookShop\\BookShop\\BookShop\\Models\\DatHang_ChiTiet.cs",
               "RelativeDocumentMoniker": "BookShop\\Models\\DatHang_ChiTiet.cs",
-              "ToolTip": "C:\\Users\\fptsh\\Desktop\\BookShop\\BookShop\\BookShop\\Models\\DatHang_ChiTiet.cs",
+              "ToolTip": "C:\\Users\\ACER\\Desktop\\BookShop\\BookShop\\BookShop\\Models\\DatHang_ChiTiet.cs",
               "RelativeToolTip": "BookShop\\Models\\DatHang_ChiTiet.cs",
               "ViewState": "AQIAAAQAAAAAAAAAAAA2wAoAAAAnAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-13T02:31:08.964Z"
-            }
-          ]
-        },
-        {
-          "DockedWidth": 1119,
-          "SelectedChildIndex": -1,
-          "Children": [
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
             }
           ]
         }

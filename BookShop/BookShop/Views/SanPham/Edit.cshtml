@@ -77,5 +77,15 @@
 @section Scripts {
     @{
         await Html.RenderPartialAsync("_ValidationScriptsPartial");
+        <script src="~/lib/ckeditor5/ckeditor.js"></script>
+        <script>
+            ClassicEditor.create(document.querySelector('#MoTa'), {
+            licenseKey: '',
+            }).then(editor => {
+            window.editor = editor;
+            }).catch(error => {
+            console.error(error);
+            });
+        </script>
     }
 }

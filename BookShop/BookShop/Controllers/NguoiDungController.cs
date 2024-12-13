@@ -1,6 +1,8 @@
 ﻿using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
 using BookShop.Models;
+using BookShop.Models;
+using BC = BCrypt.Net.BCrypt;
 namespace BookShop.Controllers
 {
     public class NguoiDungController : Controller
@@ -31,6 +33,7 @@ namespace BookShop.Controllers
         {
             if (ModelState.IsValid)
             {
+                nguoiDung.MatKhau = BC.HashPassword(nguoiDung.MatKhau);
                 nguoiDung.XacNhanMatKhau = nguoiDung.MatKhau;
                 _context.Add(nguoiDung);
                 await _context.SaveChangesAsync();
@@ -89,8 +92,8 @@ namespace BookShop.Controllers
                         n.DienThoai = nguoiDung.DienThoai;
                         n.DiaChi = nguoiDung.DiaChi;
                         n.TenDangNhap = nguoiDung.TenDangNhap;
-                        n.MatKhau = nguoiDung.MatKhau;
-                        n.XacNhanMatKhau = nguoiDung.XacNhanMatKhau;
+                        n.MatKhau = BC.HashPassword(nguoiDung.MatKhau);
+                        n.XacNhanMatKhau = n.MatKhau;
                         n.Quyen = nguoiDung.Quyen;
                     }
                     _context.Update(n);

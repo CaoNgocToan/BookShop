@@ -2,7 +2,7 @@
 using Microsoft.AspNetCore.Mvc.Rendering;
 using Microsoft.EntityFrameworkCore;
 using BookShop.Models;
-
+using BookShop.Models;
 namespace BookShop { 
     public class DatHangController : Controller
     {
