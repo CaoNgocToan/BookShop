@@ -1,7 +1,7 @@
 ﻿using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
 using SlugGenerator;
-using BookShop.Models;
+
 using BookShop.Models;
 namespace BookShop.Controllers
 {

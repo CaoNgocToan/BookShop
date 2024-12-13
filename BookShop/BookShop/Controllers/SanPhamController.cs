@@ -3,16 +3,17 @@ using Microsoft.AspNetCore.Mvc.Rendering;
 using Microsoft.EntityFrameworkCore;
 using SlugGenerator;
 using BookShop.Models;
-using BookShop.Models;
 namespace BookShop.Controllers
 {
     public class SanPhamController : Controller
     {
         private readonly BookShopDbContext _context;
+        private readonly IWebHostEnvironment _hostEnvironment;
 
-        public SanPhamController(BookShopDbContext context)
+        public SanPhamController(BookShopDbContext context, IWebHostEnvironment hostEnvironment)
         {
             _context = context;
+            _hostEnvironment = hostEnvironment;
         }
 
         // GET: SanPham
@@ -33,7 +34,7 @@ namespace BookShop.Controllers
         // POST: SanPham/Create
         [HttpPost]
         [ValidateAntiForgeryToken]
-        public async Task<IActionResult> Create([Bind("ID,HangSanXuatID,LoaiSanPhamID,TenSanPham,TenSanPhamKhongDau,DonGia,SoLuong,HinhAnh,MoTa")] SanPham sanPham)
+        public async Task<IActionResult> Create([Bind("ID,HangSanXuatID,LoaiSanPhamID,TenSanPham,TenSanPhamKhongDau,DonGia,SoLuong,DuLieuHinhAnh,MoTa")] SanPham sanPham)
         {
             if (ModelState.IsValid)
             {
@@ -41,7 +42,26 @@ namespace BookShop.Controllers
                 {
                     sanPham.TenSanPhamKhongDau = sanPham.TenSanPham.GenerateSlug();
                 }
+                string path = "";
 
+                // Nếu hình ảnh không bỏ trống thì upload
+                if (sanPham.DuLieuHinhAnh != null)
+                {
+                    string wwwRootPath = _hostEnvironment.WebRootPath;
+                    string folder = "/uploads/";
+                    string fileExtension = Path.GetExtension(sanPham.DuLieuHinhAnh.FileName).ToLower();
+                    string fileName = sanPham.TenSanPham;
+                    string fileNameSluged = fileName.GenerateSlug();
+                    path = fileNameSluged + fileExtension;
+                    string physicalPath = Path.Combine(wwwRootPath + folder, fileNameSluged + fileExtension);
+                    using (var fileStream = new FileStream(physicalPath, FileMode.Create))
+                    {
+                        await sanPham.DuLieuHinhAnh.CopyToAsync(fileStream);
+                    }
+                }
+
+                // Cập nhật đường dẫn vào CSDL
+                sanPham.HinhAnh = path ?? null;
                 _context.Add(sanPham);
                 await _context.SaveChangesAsync();
                 return RedirectToAction(nameof(Index));
@@ -72,7 +92,7 @@ namespace BookShop.Controllers
         // POST: SanPham/Edit/5
         [HttpPost]
         [ValidateAntiForgeryToken]
-        public async Task<IActionResult> Edit(int id, [Bind("ID,HangSanXuatID,LoaiSanPhamID,TenSanPham,TenSanPhamKhongDau,DonGia,SoLuong,HinhAnh,MoTa")] SanPham sanPham)
+        public async Task<IActionResult> Edit(int id, [Bind("ID,HangSanXuatID,LoaiSanPhamID,TenSanPham,TenSanPhamKhongDau,DonGia,SoLuong,DuLieuHinhAnh,MoTa")] SanPham sanPham)
         {
             if (id != sanPham.ID)
             {
@@ -87,7 +107,29 @@ namespace BookShop.Controllers
                     {
                         sanPham.TenSanPhamKhongDau = sanPham.TenSanPham.GenerateSlug();
                     }
+                    string path = "";
+
+                    // Nếu hình ảnh không bỏ trống thì upload ảnh mới
+                    if (sanPham.DuLieuHinhAnh != null)
+                    {
+                        string wwwRootPath = _hostEnvironment.WebRootPath;
+                        string folder = "/uploads/";
+                        string fileExtension = Path.GetExtension(sanPham.DuLieuHinhAnh.FileName).ToLower();
+                        string fileName = sanPham.TenSanPham;
+                        string fileNameSluged = fileName.GenerateSlug();
+                        path = fileNameSluged + fileExtension;
+                        string physicalPath = Path.Combine(wwwRootPath + folder, fileNameSluged + fileExtension);
+                        using (var fileStream = new FileStream(physicalPath, FileMode.Create))
+                        {
+                            await sanPham.DuLieuHinhAnh.CopyToAsync(fileStream);
+                        }
+                    }
                     _context.Update(sanPham);
+                    if (string.IsNullOrEmpty(path))
+                        _context.Entry(sanPham).Property(x => x.HinhAnh).IsModified = false;
+                    else
+                        sanPham.HinhAnh = path;
+                   
                     await _context.SaveChangesAsync();
                 }
                 catch (DbUpdateConcurrencyException)
@@ -136,6 +178,13 @@ namespace BookShop.Controllers
             var sanPham = await _context.SanPham.FindAsync(id);
             if (sanPham != null)
             {
+
+                // Xóa hình ảnh (nếu có)
+                if (!string.IsNullOrEmpty(sanPham.HinhAnh))
+                {
+                    var imagePath = Path.Combine(_hostEnvironment.WebRootPath, "uploads", sanPham.HinhAnh);
+                    if (System.IO.File.Exists(imagePath)) System.IO.File.Delete(imagePath);
+                }
                 _context.SanPham.Remove(sanPham);
             }
             await _context.SaveChangesAsync();
@@ -146,5 +195,6 @@ namespace BookShop.Controllers
         {
             return _context.SanPham.Any(e => e.ID == id);
         }
+       
     }
 }

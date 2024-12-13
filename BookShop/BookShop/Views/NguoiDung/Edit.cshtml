@@ -1,4 +1,4 @@
-﻿@model BookShop.Models.NguoiDung
+﻿@model ITShop.Models.NguoiDung_ChinhSua
 @{
     ViewData["Title"] = "Sửa người dùng";
 }
@@ -41,8 +41,13 @@
 
             <div class="mb-3">
                 <label asp-for="MatKhau" class="control-label"></label>
-                <input asp-for="MatKhau" class="form-control" />
+                <input asp-for="MatKhau" class="form-control" placeholder="Bỏ trống để giữ nguyên mật khẩu cũ" />
                 <span asp-validation-for="MatKhau" class="text-danger"></span>
+            </div>
+            <div class="mb-3">
+                <label asp-for="XacNhanMatKhau" class="control-label"></label>
+                <input asp-for="XacNhanMatKhau" class="form-control" placeholder="Bỏ trống để giữ nguyên mật khẩu cũ" />
+                <span asp-validation-for="XacNhanMatKhau" class="text-danger"></span>
             </div>
 
             <div class="mb-3 form-check">

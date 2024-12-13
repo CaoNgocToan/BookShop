@@ -10,6 +10,7 @@
             <input type="hidden" asp-for="ID" />
 
             <div class="mb-3">
+                " enctype="multipart/form-data">
                 <label asp-for="HangSanXuatID" class="control-label"></label>
                 <select asp-for="HangSanXuatID" class="form-control" asp-items="ViewBag.HangSanXuatID">
                     <option value="">-- Chọn --</option>
@@ -50,9 +51,15 @@
             </div>
 
             <div class="mb-3">
-                <label asp-for="HinhAnh" class="control-label"></label>
-                <input asp-for="HinhAnh" class="form-control" />
-                <span asp-validation-for="HinhAnh" class="text-danger"></span>
+                @if (!string.IsNullOrEmpty(Model.HinhAnh))
+
+                {
+                    <span class="d-block mb-2"><img src="~/uploads/@Model.HinhAnh" width="80" class="img-thumbnail" /></span>
+                    <span class="d-block mb-2 mt-2 small text-danger">Bỏ trống nếu không muốn cập nhật ảnh mới!</span>
+                }
+                <label asp-for="DuLieuHinhAnh" class="control-label"></label>
+                <input asp-for="DuLieuHinhAnh" accept="image/jpeg,image/gif,image/png" class="form-control" />
+                <span asp-validation-for="DuLieuHinhAnh" class="text-danger"></span>
             </div>
 
             <div class="mb-3">
