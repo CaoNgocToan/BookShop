@@ -1,0 +1,17 @@
+﻿using System.ComponentModel.DataAnnotations;
+
+namespace BookShop.Models
+{
+    public class HangSanXuat
+    {
+        public int ID { get; set; }
+
+        [StringLength(255)]
+        public string TenHangSanXuat { get; set; }
+
+        [StringLength(255)]
+        public string? TenHangSanXuatKhongDau { get; set; }
+
+        public ICollection<SanPham>? SanPham { get; set; }
+    }
+}
