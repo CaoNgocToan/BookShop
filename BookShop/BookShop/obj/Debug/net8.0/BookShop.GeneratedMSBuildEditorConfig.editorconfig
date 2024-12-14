@@ -17,159 +17,195 @@ build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = BookShop
 build_property.RootNamespace = BookShop
-build_property.ProjectDir = C:\Users\ACER\Desktop\BookShop\BookShop\BookShop\
+build_property.ProjectDir = C:\DoAn\BookShop-master\BookShop-master\BookShop\BookShop\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
 build_property.RazorLangVersion = 8.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = C:\Users\ACER\Desktop\BookShop\BookShop\BookShop
+build_property.MSBuildProjectDirectory = C:\DoAn\BookShop-master\BookShop-master\BookShop\BookShop
 build_property._RazorSourceGeneratorDebug = 
 
-[C:/Users/ACER/Desktop/BookShop/BookShop/BookShop/Views/DatHang/Create.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGF0SGFuZ1xDcmVhdGUuY3NodG1s
+[C:/DoAn/BookShop-master/BookShop-master/BookShop/BookShop/Areas/Admin/Views/DatHang/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcRGF0SGFuZ1xDcmVhdGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/ACER/Desktop/BookShop/BookShop/BookShop/Views/DatHang/Delete.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGF0SGFuZ1xEZWxldGUuY3NodG1s
+[C:/DoAn/BookShop-master/BookShop-master/BookShop/BookShop/Areas/Admin/Views/DatHang/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcRGF0SGFuZ1xEZWxldGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/ACER/Desktop/BookShop/BookShop/BookShop/Views/DatHang/Details.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGF0SGFuZ1xEZXRhaWxzLmNzaHRtbA==
+[C:/DoAn/BookShop-master/BookShop-master/BookShop/BookShop/Areas/Admin/Views/DatHang/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcRGF0SGFuZ1xEZXRhaWxzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/ACER/Desktop/BookShop/BookShop/BookShop/Views/DatHang/Edit.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGF0SGFuZ1xFZGl0LmNzaHRtbA==
+[C:/DoAn/BookShop-master/BookShop-master/BookShop/BookShop/Areas/Admin/Views/DatHang/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcRGF0SGFuZ1xFZGl0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/ACER/Desktop/BookShop/BookShop/BookShop/Views/DatHang/Index.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGF0SGFuZ1xJbmRleC5jc2h0bWw=
+[C:/DoAn/BookShop-master/BookShop-master/BookShop/BookShop/Areas/Admin/Views/DatHang/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcRGF0SGFuZ1xJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/ACER/Desktop/BookShop/BookShop/BookShop/Views/HangSanXuat/Create.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSGFuZ1Nhblh1YXRcQ3JlYXRlLmNzaHRtbA==
+[C:/DoAn/BookShop-master/BookShop-master/BookShop/BookShop/Areas/Admin/Views/HangSanXuat/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcSGFuZ1Nhblh1YXRcQ3JlYXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/ACER/Desktop/BookShop/BookShop/BookShop/Views/HangSanXuat/Delete.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSGFuZ1Nhblh1YXRcRGVsZXRlLmNzaHRtbA==
+[C:/DoAn/BookShop-master/BookShop-master/BookShop/BookShop/Areas/Admin/Views/HangSanXuat/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcSGFuZ1Nhblh1YXRcRGVsZXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/ACER/Desktop/BookShop/BookShop/BookShop/Views/HangSanXuat/Details.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSGFuZ1Nhblh1YXRcRGV0YWlscy5jc2h0bWw=
+[C:/DoAn/BookShop-master/BookShop-master/BookShop/BookShop/Areas/Admin/Views/HangSanXuat/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcSGFuZ1Nhblh1YXRcRGV0YWlscy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/ACER/Desktop/BookShop/BookShop/BookShop/Views/HangSanXuat/Edit.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSGFuZ1Nhblh1YXRcRWRpdC5jc2h0bWw=
+[C:/DoAn/BookShop-master/BookShop-master/BookShop/BookShop/Areas/Admin/Views/HangSanXuat/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcSGFuZ1Nhblh1YXRcRWRpdC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/ACER/Desktop/BookShop/BookShop/BookShop/Views/HangSanXuat/Index.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSGFuZ1Nhblh1YXRcSW5kZXguY3NodG1s
+[C:/DoAn/BookShop-master/BookShop-master/BookShop/BookShop/Areas/Admin/Views/HangSanXuat/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcSGFuZ1Nhblh1YXRcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/ACER/Desktop/BookShop/BookShop/BookShop/Views/Home/Index.cshtml]
+[C:/DoAn/BookShop-master/BookShop-master/BookShop/BookShop/Areas/Admin/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/DoAn/BookShop-master/BookShop-master/BookShop/BookShop/Areas/Admin/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/DoAn/BookShop-master/BookShop-master/BookShop/BookShop/Areas/Admin/Views/LoaiSanPham/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcTG9haVNhblBoYW1cQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/DoAn/BookShop-master/BookShop-master/BookShop/BookShop/Areas/Admin/Views/LoaiSanPham/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcTG9haVNhblBoYW1cRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/DoAn/BookShop-master/BookShop-master/BookShop/BookShop/Areas/Admin/Views/LoaiSanPham/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcTG9haVNhblBoYW1cRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/DoAn/BookShop-master/BookShop-master/BookShop/BookShop/Areas/Admin/Views/LoaiSanPham/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcTG9haVNhblBoYW1cRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/DoAn/BookShop-master/BookShop-master/BookShop/BookShop/Areas/Admin/Views/LoaiSanPham/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcTG9haVNhblBoYW1cSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/DoAn/BookShop-master/BookShop-master/BookShop/BookShop/Areas/Admin/Views/NguoiDung/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcTmd1b2lEdW5nXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/DoAn/BookShop-master/BookShop-master/BookShop/BookShop/Areas/Admin/Views/NguoiDung/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcTmd1b2lEdW5nXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/DoAn/BookShop-master/BookShop-master/BookShop/BookShop/Areas/Admin/Views/NguoiDung/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcTmd1b2lEdW5nXERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/DoAn/BookShop-master/BookShop-master/BookShop/BookShop/Areas/Admin/Views/NguoiDung/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcTmd1b2lEdW5nXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/DoAn/BookShop-master/BookShop-master/BookShop/BookShop/Areas/Admin/Views/NguoiDung/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcTmd1b2lEdW5nXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/DoAn/BookShop-master/BookShop-master/BookShop/BookShop/Areas/Admin/Views/SanPham/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcU2FuUGhhbVxDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/DoAn/BookShop-master/BookShop-master/BookShop/BookShop/Areas/Admin/Views/SanPham/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcU2FuUGhhbVxEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/DoAn/BookShop-master/BookShop-master/BookShop/BookShop/Areas/Admin/Views/SanPham/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcU2FuUGhhbVxEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/DoAn/BookShop-master/BookShop-master/BookShop/BookShop/Areas/Admin/Views/SanPham/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcU2FuUGhhbVxFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/DoAn/BookShop-master/BookShop-master/BookShop/BookShop/Areas/Admin/Views/SanPham/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcU2FuUGhhbVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/DoAn/BookShop-master/BookShop-master/BookShop/BookShop/Areas/Admin/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/DoAn/BookShop-master/BookShop-master/BookShop/BookShop/Areas/Admin/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/DoAn/BookShop-master/BookShop-master/BookShop/BookShop/Areas/Admin/Views/TinhTrang/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcVGluaFRyYW5nXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/DoAn/BookShop-master/BookShop-master/BookShop/BookShop/Areas/Admin/Views/TinhTrang/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcVGluaFRyYW5nXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/DoAn/BookShop-master/BookShop-master/BookShop/BookShop/Areas/Admin/Views/TinhTrang/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcVGluaFRyYW5nXERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/DoAn/BookShop-master/BookShop-master/BookShop/BookShop/Areas/Admin/Views/TinhTrang/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcVGluaFRyYW5nXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/DoAn/BookShop-master/BookShop-master/BookShop/BookShop/Areas/Admin/Views/TinhTrang/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcVGluaFRyYW5nXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/DoAn/BookShop-master/BookShop-master/BookShop/BookShop/Areas/Admin/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/DoAn/BookShop-master/BookShop-master/BookShop/BookShop/Areas/Admin/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/DoAn/BookShop-master/BookShop-master/BookShop/BookShop/Views/Home/Forbidden.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxGb3JiaWRkZW4uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/DoAn/BookShop-master/BookShop-master/BookShop/BookShop/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/ACER/Desktop/BookShop/BookShop/BookShop/Views/Home/Privacy.cshtml]
+[C:/DoAn/BookShop-master/BookShop-master/BookShop/BookShop/Views/Home/Login.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxMb2dpbi5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/DoAn/BookShop-master/BookShop-master/BookShop/BookShop/Views/Home/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/ACER/Desktop/BookShop/BookShop/BookShop/Views/LoaiSanPham/Create.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTG9haVNhblBoYW1cQ3JlYXRlLmNzaHRtbA==
-build_metadata.AdditionalFiles.CssScope = 
-
-[C:/Users/ACER/Desktop/BookShop/BookShop/BookShop/Views/LoaiSanPham/Delete.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTG9haVNhblBoYW1cRGVsZXRlLmNzaHRtbA==
-build_metadata.AdditionalFiles.CssScope = 
-
-[C:/Users/ACER/Desktop/BookShop/BookShop/BookShop/Views/LoaiSanPham/Details.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTG9haVNhblBoYW1cRGV0YWlscy5jc2h0bWw=
-build_metadata.AdditionalFiles.CssScope = 
-
-[C:/Users/ACER/Desktop/BookShop/BookShop/BookShop/Views/LoaiSanPham/Edit.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTG9haVNhblBoYW1cRWRpdC5jc2h0bWw=
-build_metadata.AdditionalFiles.CssScope = 
-
-[C:/Users/ACER/Desktop/BookShop/BookShop/BookShop/Views/LoaiSanPham/Index.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTG9haVNhblBoYW1cSW5kZXguY3NodG1s
-build_metadata.AdditionalFiles.CssScope = 
-
-[C:/Users/ACER/Desktop/BookShop/BookShop/BookShop/Views/NguoiDung/Create.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTmd1b2lEdW5nXENyZWF0ZS5jc2h0bWw=
-build_metadata.AdditionalFiles.CssScope = 
-
-[C:/Users/ACER/Desktop/BookShop/BookShop/BookShop/Views/NguoiDung/Delete.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTmd1b2lEdW5nXERlbGV0ZS5jc2h0bWw=
-build_metadata.AdditionalFiles.CssScope = 
-
-[C:/Users/ACER/Desktop/BookShop/BookShop/BookShop/Views/NguoiDung/Details.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTmd1b2lEdW5nXERldGFpbHMuY3NodG1s
-build_metadata.AdditionalFiles.CssScope = 
-
-[C:/Users/ACER/Desktop/BookShop/BookShop/BookShop/Views/NguoiDung/Edit.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTmd1b2lEdW5nXEVkaXQuY3NodG1s
-build_metadata.AdditionalFiles.CssScope = 
-
-[C:/Users/ACER/Desktop/BookShop/BookShop/BookShop/Views/NguoiDung/Index.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTmd1b2lEdW5nXEluZGV4LmNzaHRtbA==
-build_metadata.AdditionalFiles.CssScope = 
-
-[C:/Users/ACER/Desktop/BookShop/BookShop/BookShop/Views/SanPham/Create.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2FuUGhhbVxDcmVhdGUuY3NodG1s
-build_metadata.AdditionalFiles.CssScope = 
-
-[C:/Users/ACER/Desktop/BookShop/BookShop/BookShop/Views/SanPham/Delete.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2FuUGhhbVxEZWxldGUuY3NodG1s
-build_metadata.AdditionalFiles.CssScope = 
-
-[C:/Users/ACER/Desktop/BookShop/BookShop/BookShop/Views/SanPham/Details.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2FuUGhhbVxEZXRhaWxzLmNzaHRtbA==
-build_metadata.AdditionalFiles.CssScope = 
-
-[C:/Users/ACER/Desktop/BookShop/BookShop/BookShop/Views/SanPham/Edit.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2FuUGhhbVxFZGl0LmNzaHRtbA==
-build_metadata.AdditionalFiles.CssScope = 
-
-[C:/Users/ACER/Desktop/BookShop/BookShop/BookShop/Views/SanPham/Index.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2FuUGhhbVxJbmRleC5jc2h0bWw=
-build_metadata.AdditionalFiles.CssScope = 
-
-[C:/Users/ACER/Desktop/BookShop/BookShop/BookShop/Views/Shared/Error.cshtml]
+[C:/DoAn/BookShop-master/BookShop-master/BookShop/BookShop/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/ACER/Desktop/BookShop/BookShop/BookShop/Views/Shared/_ValidationScriptsPartial.cshtml]
+[C:/DoAn/BookShop-master/BookShop-master/BookShop/BookShop/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/ACER/Desktop/BookShop/BookShop/BookShop/Views/TinhTrang/Create.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGluaFRyYW5nXENyZWF0ZS5jc2h0bWw=
-build_metadata.AdditionalFiles.CssScope = 
-
-[C:/Users/ACER/Desktop/BookShop/BookShop/BookShop/Views/TinhTrang/Delete.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGluaFRyYW5nXERlbGV0ZS5jc2h0bWw=
-build_metadata.AdditionalFiles.CssScope = 
-
-[C:/Users/ACER/Desktop/BookShop/BookShop/BookShop/Views/TinhTrang/Details.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGluaFRyYW5nXERldGFpbHMuY3NodG1s
-build_metadata.AdditionalFiles.CssScope = 
-
-[C:/Users/ACER/Desktop/BookShop/BookShop/BookShop/Views/TinhTrang/Edit.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGluaFRyYW5nXEVkaXQuY3NodG1s
-build_metadata.AdditionalFiles.CssScope = 
-
-[C:/Users/ACER/Desktop/BookShop/BookShop/BookShop/Views/TinhTrang/Index.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGluaFRyYW5nXEluZGV4LmNzaHRtbA==
-build_metadata.AdditionalFiles.CssScope = 
-
-[C:/Users/ACER/Desktop/BookShop/BookShop/BookShop/Views/_ViewImports.cshtml]
+[C:/DoAn/BookShop-master/BookShop-master/BookShop/BookShop/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/ACER/Desktop/BookShop/BookShop/BookShop/Views/_ViewStart.cshtml]
+[C:/DoAn/BookShop-master/BookShop-master/BookShop/BookShop/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/ACER/Desktop/BookShop/BookShop/BookShop/Views/Shared/_Layout.cshtml]
+[C:/DoAn/BookShop-master/BookShop-master/BookShop/BookShop/Areas/Admin/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-go0e2qsqvx
+
+[C:/DoAn/BookShop-master/BookShop-master/BookShop/BookShop/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-1oo39n7tuv

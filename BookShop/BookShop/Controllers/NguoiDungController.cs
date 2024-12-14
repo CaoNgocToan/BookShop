@@ -1,7 +1,6 @@
 ﻿using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
 using BookShop.Models;
-using BookShop.Models;
 using BC = BCrypt.Net.BCrypt;
 namespace BookShop.Controllers
 {

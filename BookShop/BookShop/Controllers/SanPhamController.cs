@@ -8,13 +8,23 @@ namespace BookShop.Controllers
 {
     public class SanPhamController : Controller
     {
+        private readonly BookShopDbContext _context;
+        private readonly IWebHostEnvironment _hostEnvironment;
+
+
+        public SanPhamController(BookShopDbContext context, IWebHostEnvironment hostEnvironment)
+        {
+            _context = context;
+            _hostEnvironment = hostEnvironment;
+
+        }
         // GET: SanPham
         public async Task<IActionResult> Index()
         {
-            // var iTShopDbContext = _context.SanPham.Include(s => s.HangSanXuat).Include(s => s.LoaiSanPham);
-            // return View(await iTShopDbContext.ToListAsync());
+            var BookShopDbContext = _context.SanPham.Include(s => s.HangSanXuat).Include(s => s.LoaiSanPham);
+            return View(await BookShopDbContext.ToListAsync());
 
-            return View();
+            //return View();
         }
 
         // POST: SanPham/Index_LoadData
