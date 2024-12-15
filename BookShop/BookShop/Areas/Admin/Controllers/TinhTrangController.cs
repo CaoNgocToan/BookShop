@@ -1,14 +1,20 @@
-﻿using Microsoft.AspNetCore.Mvc;
-using Microsoft.EntityFrameworkCore;
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Threading.Tasks;
 using SlugGenerator;
-using BookShop.Models;
+using Microsoft.AspNetCore.Mvc;
+using Microsoft.AspNetCore.Mvc.Rendering;
+using Microsoft.EntityFrameworkCore;
 using BookShop.Models;
 using Microsoft.AspNetCore.Authorization;
+
 namespace BookShop.Areas.Admin.Controllers
 {
-    [Area("Admin")]
-    [Authorize(Roles = "Admin")]
-    public class TinhTrangController : Controller
+	[Area("Admin")]
+	[Authorize(Roles = "Admin")]
+
+	public class TinhTrangController : Controller
     {
         private readonly BookShopDbContext _context;
 

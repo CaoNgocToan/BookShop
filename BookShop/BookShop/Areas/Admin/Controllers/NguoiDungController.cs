@@ -1,13 +1,21 @@
-﻿using Microsoft.AspNetCore.Mvc;
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Threading.Tasks;
+using Microsoft.AspNetCore.Mvc;
+using Microsoft.AspNetCore.Mvc.Rendering;
 using Microsoft.EntityFrameworkCore;
 using BookShop.Models;
 using BC = BCrypt.Net.BCrypt;
 using Microsoft.AspNetCore.Authorization;
+
+
 namespace BookShop.Areas.Admin.Controllers
 {
-    [Area("Admin")]
-    [Authorize(Roles = "Admin")]
-    public class NguoiDungController : Controller
+	[Area("Admin")]
+	[Authorize(Roles = "Admin")]
+
+	public class NguoiDungController : Controller
     {
         private readonly BookShopDbContext _context;
 
@@ -31,12 +39,13 @@ namespace BookShop.Areas.Admin.Controllers
         // POST: NguoiDung/Create
         [HttpPost]
         [ValidateAntiForgeryToken]
-        public async Task<IActionResult> Create([Bind("ID,HoVaTen,Email,DienThoai,DiaChi,TenDangNhap,MatKhau,XacNhanMatKhau,Quyen")] NguoiDung nguoiDung)
+        public async Task<IActionResult> Create([Bind("ID,HoVaTen,Email,DienThoai,DiaChi,TenDangNhap,MatKhau,,XacNhanMatKhau,Quyen")] NguoiDung nguoiDung)
         {
             if (ModelState.IsValid)
             {
                 nguoiDung.MatKhau = BC.HashPassword(nguoiDung.MatKhau);
                 nguoiDung.XacNhanMatKhau = nguoiDung.MatKhau;
+
                 _context.Add(nguoiDung);
                 await _context.SaveChangesAsync();
                 return RedirectToAction(nameof(Index));
@@ -58,6 +67,7 @@ namespace BookShop.Areas.Admin.Controllers
                 return NotFound();
             }
             return View(new NguoiDung_ChinhSua(nguoiDung));
+
         }
 
         // POST: NguoiDung/Edit/5
@@ -96,10 +106,10 @@ namespace BookShop.Areas.Admin.Controllers
                         n.TenDangNhap = nguoiDung.TenDangNhap;
                         n.MatKhau = BC.HashPassword(nguoiDung.MatKhau);
                         n.XacNhanMatKhau = n.MatKhau;
+
                         n.Quyen = nguoiDung.Quyen;
                     }
                     _context.Update(n);
-
                     await _context.SaveChangesAsync();
                 }
                 catch (DbUpdateConcurrencyException)

@@ -1,4 +1,8 @@
-﻿using Microsoft.AspNetCore.Mvc;
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Threading.Tasks;
+using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.Rendering;
 using Microsoft.EntityFrameworkCore;
 using BookShop.Models;
@@ -6,9 +10,10 @@ using Microsoft.AspNetCore.Authorization;
 
 namespace BookShop.Areas.Admin.Controllers
 {
-    [Area("Admin")]
-    [Authorize(Roles = "Admin")]
-    public class DatHangController : Controller
+	[Area("Admin")]
+	[Authorize(Roles = "Admin")]
+
+	public class DatHangController : Controller
     {
         private readonly BookShopDbContext _context;
 

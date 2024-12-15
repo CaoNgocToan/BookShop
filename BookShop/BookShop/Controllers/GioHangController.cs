@@ -12,13 +12,11 @@ namespace BookShop.Controllers
         {
             _context = context;
         }
-
-        // GET: Index 
+        //GET: Index
         public IActionResult Index()
         {
             GioHangLogic gioHangLogic = new GioHangLogic(_context);
             var gioHang = gioHangLogic.LayGioHang();
-
 
             if (gioHang.Count == 0)
                 return View("GioHangRong");
@@ -29,7 +27,6 @@ namespace BookShop.Controllers
                 return View(gioHang);
             }
         }
-
         // GET: Them 
         public IActionResult Them(int id)
         {
@@ -53,7 +50,6 @@ namespace BookShop.Controllers
             gioHangLogic.CapNhatSoLuong(id, true);
             return RedirectToAction("Index", "GioHang", new { Area = "" });
         }
-
         // GET: Tang 
         public IActionResult Tang(string? id)
         {
@@ -65,9 +61,6 @@ namespace BookShop.Controllers
             gioHangLogic.CapNhatSoLuong(id, false);
             return RedirectToAction("Index", "GioHang", new { Area = "" });
         }
-
-
-
         // GET: Xoa 
         public IActionResult Xoa(string? id)
         {

@@ -1,5 +1,3 @@
-﻿using System.ComponentModel.DataAnnotations;
-
 namespace BookShop.Models
 {
     public class DatHang_ChiTiet
@@ -9,7 +7,6 @@ namespace BookShop.Models
         public int SanPhamID { get; set; }
         public short SoLuong { get; set; }
         public int DonGia { get; set; }
-
         public DatHang? DatHang { get; set; }
         public SanPham? SanPham { get; set; }
     }

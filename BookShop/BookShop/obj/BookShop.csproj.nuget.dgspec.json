@@ -1,20 +1,24 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Data D\\Data\\TaiLieuDaiHoc\\LapTrinh\\ASP.Net\\DoAn\\BookShop-master\\BookShop-master\\BookShop\\BookShop\\BookShop.csproj": {}
+    "C:\\Users\\Sil\\Desktop\\123\\BookShop\\BookShop\\BookShop\\BookShop.csproj": {}
   },
   "projects": {
-    "C:\\Data D\\Data\\TaiLieuDaiHoc\\LapTrinh\\ASP.Net\\DoAn\\BookShop-master\\BookShop-master\\BookShop\\BookShop\\BookShop.csproj": {
+    "C:\\Users\\Sil\\Desktop\\123\\BookShop\\BookShop\\BookShop\\BookShop.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Data D\\Data\\TaiLieuDaiHoc\\LapTrinh\\ASP.Net\\DoAn\\BookShop-master\\BookShop-master\\BookShop\\BookShop\\BookShop.csproj",
+        "projectUniqueName": "C:\\Users\\Sil\\Desktop\\123\\BookShop\\BookShop\\BookShop\\BookShop.csproj",
         "projectName": "BookShop",
-        "projectPath": "C:\\Data D\\Data\\TaiLieuDaiHoc\\LapTrinh\\ASP.Net\\DoAn\\BookShop-master\\BookShop-master\\BookShop\\BookShop\\BookShop.csproj",
-        "packagesPath": "C:\\Users\\ACER\\.nuget\\packages\\",
-        "outputPath": "C:\\Data D\\Data\\TaiLieuDaiHoc\\LapTrinh\\ASP.Net\\DoAn\\BookShop-master\\BookShop-master\\BookShop\\BookShop\\obj\\",
+        "projectPath": "C:\\Users\\Sil\\Desktop\\123\\BookShop\\BookShop\\BookShop\\BookShop.csproj",
+        "packagesPath": "C:\\Users\\Sil\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Sil\\Desktop\\123\\BookShop\\BookShop\\BookShop\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "C:\\Users\\ACER\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Sil\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -40,7 +44,8 @@
           "enableAudit": "true",
           "auditLevel": "low",
           "auditMode": "direct"
-        }
+        },
+        "SdkAnalysisLevel": "9.0.100"
       },
       "frameworks": {
         "net8.0": {
@@ -52,29 +57,33 @@
             },
             "MailKit": {
               "target": "Package",
-              "version": "[4.9.0, )"
+              "version": "[4.8.0, )"
+            },
+            "Microsoft.AspNetCore.Authentication.Google": {
+              "target": "Package",
+              "version": "[8.0.11, )"
             },
             "Microsoft.AspNetCore.Components.QuickGrid.EntityFrameworkAdapter": {
               "target": "Package",
-              "version": "[8.0.11, )"
+              "version": "[8.0.8, )"
             },
             "Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore": {
               "target": "Package",
-              "version": "[8.0.11, )"
+              "version": "[8.0.8, )"
             },
             "Microsoft.EntityFrameworkCore.SqlServer": {
               "target": "Package",
-              "version": "[8.0.11, )"
+              "version": "[8.0.8, )"
             },
             "Microsoft.EntityFrameworkCore.Tools": {
               "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
               "suppressParent": "All",
               "target": "Package",
-              "version": "[8.0.11, )"
+              "version": "[8.0.10, )"
             },
             "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
               "target": "Package",
-              "version": "[8.0.7, )"
+              "version": "[8.0.6, )"
             },
             "SlugGenerator": {
               "target": "Package",
@@ -82,7 +91,7 @@
             },
             "System.Linq.Dynamic.Core": {
               "target": "Package",
-              "version": "[1.5.1, )"
+              "version": "[1.4.5, )"
             }
           },
           "imports": [
@@ -104,7 +113,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.403/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.101/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

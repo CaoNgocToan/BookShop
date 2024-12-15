@@ -1,0 +1,1406 @@
+C:\Users\Sil\Pictures\ITShop (1)\ITShop\ITShop\obj\Debug\net8.0\LinhKienMTShop.csproj.AssemblyReference.cache
+C:\Users\Sil\Pictures\ITShop (1)\ITShop\ITShop\obj\Debug\net8.0\LinhKienMTShop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sil\Pictures\ITShop (1)\ITShop\ITShop\obj\Debug\net8.0\LinhKienMTShop.AssemblyInfoInputs.cache
+C:\Users\Sil\Pictures\ITShop (1)\ITShop\ITShop\obj\Debug\net8.0\LinhKienMTShop.AssemblyInfo.cs
+C:\Users\Sil\Pictures\ITShop (1)\ITShop\ITShop\obj\Debug\net8.0\LinhKienMTShop.csproj.CoreCompileInputs.cache
+C:\Users\Sil\Pictures\ITShop (1)\ITShop\ITShop\obj\Debug\net8.0\LinhKienMTShop.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Sil\Pictures\ITShop (1)\ITShop\ITShop\obj\Debug\net8.0\LinhKienMTShop.RazorAssemblyInfo.cache
+C:\Users\Sil\Pictures\ITShop (1)\ITShop\ITShop\obj\Debug\net8.0\LinhKienMTShop.RazorAssemblyInfo.cs
+C:\Users\Sil\Pictures\ITShop (1)\ITShop\ITShop\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\Sil\Pictures\ITShop (1)\ITShop\ITShop\bin\Debug\net8.0\libman.json
+C:\Users\Sil\Pictures\ITShop (1)\ITShop\ITShop\bin\Debug\net8.0\appsettings.json
+C:\Users\Sil\Pictures\ITShop (1)\ITShop\ITShop\bin\Debug\net8.0\LinhKienMTShop.staticwebassets.runtime.json
+C:\Users\Sil\Pictures\ITShop (1)\ITShop\ITShop\bin\Debug\net8.0\LinhKienMTShop.staticwebassets.endpoints.json
+C:\Users\Sil\Pictures\ITShop (1)\ITShop\ITShop\bin\Debug\net8.0\LinhKienMTShop.exe
+C:\Users\Sil\Pictures\ITShop (1)\ITShop\ITShop\bin\Debug\net8.0\LinhKienMTShop.deps.json
+C:\Users\Sil\Pictures\ITShop (1)\ITShop\ITShop\bin\Debug\net8.0\LinhKienMTShop.runtimeconfig.json
+C:\Users\Sil\Pictures\ITShop (1)\ITShop\ITShop\bin\Debug\net8.0\LinhKienMTShop.dll
+C:\Users\Sil\Pictures\ITShop (1)\ITShop\ITShop\bin\Debug\net8.0\LinhKienMTShop.pdb
+C:\Users\Sil\Pictures\ITShop (1)\ITShop\ITShop\bin\Debug\net8.0\Azure.Core.dll
+C:\Users\Sil\Pictures\ITShop (1)\ITShop\ITShop\bin\Debug\net8.0\Azure.Identity.dll
+C:\Users\Sil\Pictures\ITShop (1)\ITShop\ITShop\bin\Debug\net8.0\BCrypt.Net-Next.dll
+C:\Users\Sil\Pictures\ITShop (1)\ITShop\ITShop\bin\Debug\net8.0\BouncyCastle.Cryptography.dll
+C:\Users\Sil\Pictures\ITShop (1)\ITShop\ITShop\bin\Debug\net8.0\Humanizer.dll
+C:\Users\Sil\Pictures\ITShop (1)\ITShop\ITShop\bin\Debug\net8.0\MailKit.dll
+C:\Users\Sil\Pictures\ITShop (1)\ITShop\ITShop\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.Google.dll
+C:\Users\Sil\Pictures\ITShop (1)\ITShop\ITShop\bin\Debug\net8.0\Microsoft.AspNetCore.Authorization.dll
+C:\Users\Sil\Pictures\ITShop (1)\ITShop\ITShop\bin\Debug\net8.0\Microsoft.AspNetCore.Components.dll
+C:\Users\Sil\Pictures\ITShop (1)\ITShop\ITShop\bin\Debug\net8.0\Microsoft.AspNetCore.Components.Forms.dll
+C:\Users\Sil\Pictures\ITShop (1)\ITShop\ITShop\bin\Debug\net8.0\Microsoft.AspNetCore.Components.QuickGrid.dll
+C:\Users\Sil\Pictures\ITShop (1)\ITShop\ITShop\bin\Debug\net8.0\Microsoft.AspNetCore.Components.QuickGrid.EntityFrameworkAdapter.dll
+C:\Users\Sil\Pictures\ITShop (1)\ITShop\ITShop\bin\Debug\net8.0\Microsoft.AspNetCore.Components.Web.dll
+C:\Users\Sil\Pictures\ITShop (1)\ITShop\ITShop\bin\Debug\net8.0\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+C:\Users\Sil\Pictures\ITShop (1)\ITShop\ITShop\bin\Debug\net8.0\Microsoft.AspNetCore.Metadata.dll
+C:\Users\Sil\Pictures\ITShop (1)\ITShop\ITShop\bin\Debug\net8.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\Sil\Pictures\ITShop (1)\ITShop\ITShop\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Sil\Pictures\ITShop (1)\ITShop\ITShop\bin\Debug\net8.0\Microsoft.Build.dll
+C:\Users\Sil\Pictures\ITShop (1)\ITShop\ITShop\bin\Debug\net8.0\Microsoft.Build.Framework.dll
+C:\Users\Sil\Pictures\ITShop (1)\ITShop\ITShop\bin\Debug\net8.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+C:\Users\Sil\Pictures\ITShop (1)\ITShop\ITShop\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+C:\Users\Sil\Pictures\ITShop (1)\ITShop\ITShop\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Sil\Pictures\ITShop (1)\ITShop\ITShop\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+C:\Users\Sil\Pictures\ITShop (1)\ITShop\ITShop\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\Sil\Pictures\ITShop (1)\ITShop\ITShop\bin\Debug\net8.0\Microsoft.CodeAnalysis.Elfie.dll
+C:\Users\Sil\Pictures\ITShop (1)\ITShop\ITShop\bin\Debug\net8.0\Microsoft.CodeAnalysis.Features.dll
+C:\Users\Sil\Pictures\ITShop (1)\ITShop\ITShop\bin\Debug\net8.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\Sil\Pictures\ITShop (1)\ITShop\ITShop\bin\Debug\net8.0\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Sil\Pictures\ITShop (1)\ITShop\ITShop\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\Sil\Pictures\ITShop (1)\ITShop\ITShop\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\Sil\Pictures\ITShop (1)\ITShop\ITShop\bin\Debug\net8.0\Microsoft.DiaSymReader.dll
+C:\Users\Sil\Pictures\ITShop (1)\ITShop\ITShop\bin\Debug\net8.0\Microsoft.DotNet.Scaffolding.Shared.dll
+C:\Users\Sil\Pictures\ITShop (1)\ITShop\ITShop\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Sil\Pictures\ITShop (1)\ITShop\ITShop\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Sil\Pictures\ITShop (1)\ITShop\ITShop\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Sil\Pictures\ITShop (1)\ITShop\ITShop\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Sil\Pictures\ITShop (1)\ITShop\ITShop\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Sil\Pictures\ITShop (1)\ITShop\ITShop\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Sil\Pictures\ITShop (1)\ITShop\ITShop\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Sil\Pictures\ITShop (1)\ITShop\ITShop\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Sil\Pictures\ITShop (1)\ITShop\ITShop\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Sil\Pictures\ITShop (1)\ITShop\ITShop\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+C:\Users\Sil\Pictures\ITShop (1)\ITShop\ITShop\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Sil\Pictures\ITShop (1)\ITShop\ITShop\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+C:\Users\Sil\Pictures\ITShop (1)\ITShop\ITShop\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+C:\Users\Sil\Pictures\ITShop (1)\ITShop\ITShop\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Sil\Pictures\ITShop (1)\ITShop\ITShop\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Sil\Pictures\ITShop (1)\ITShop\ITShop\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Sil\Pictures\ITShop (1)\ITShop\ITShop\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Sil\Pictures\ITShop (1)\ITShop\ITShop\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Sil\Pictures\ITShop (1)\ITShop\ITShop\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Sil\Pictures\ITShop (1)\ITShop\ITShop\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Sil\Pictures\ITShop (1)\ITShop\ITShop\bin\Debug\net8.0\Microsoft.JSInterop.dll
+C:\Users\Sil\Pictures\ITShop (1)\ITShop\ITShop\bin\Debug\net8.0\Microsoft.NET.StringTools.dll
+C:\Users\Sil\Pictures\ITShop (1)\ITShop\ITShop\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+C:\Users\Sil\Pictures\ITShop (1)\ITShop\ITShop\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\Sil\Pictures\ITShop (1)\ITShop\ITShop\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\Sil\Pictures\ITShop (1)\ITShop\ITShop\bin\Debug\net8.0\dotnet-aspnet-codegenerator-design.dll
+C:\Users\Sil\Pictures\ITShop (1)\ITShop\ITShop\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\Sil\Pictures\ITShop (1)\ITShop\ITShop\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\Sil\Pictures\ITShop (1)\ITShop\ITShop\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\Sil\Pictures\ITShop (1)\ITShop\ITShop\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\Sil\Pictures\ITShop (1)\ITShop\ITShop\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Sil\Pictures\ITShop (1)\ITShop\ITShop\bin\Debug\net8.0\MimeKit.dll
+C:\Users\Sil\Pictures\ITShop (1)\ITShop\ITShop\bin\Debug\net8.0\Mono.TextTemplating.dll
+C:\Users\Sil\Pictures\ITShop (1)\ITShop\ITShop\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\Sil\Pictures\ITShop (1)\ITShop\ITShop\bin\Debug\net8.0\NuGet.Common.dll
+C:\Users\Sil\Pictures\ITShop (1)\ITShop\ITShop\bin\Debug\net8.0\NuGet.Configuration.dll
+C:\Users\Sil\Pictures\ITShop (1)\ITShop\ITShop\bin\Debug\net8.0\NuGet.DependencyResolver.Core.dll
+C:\Users\Sil\Pictures\ITShop (1)\ITShop\ITShop\bin\Debug\net8.0\NuGet.Frameworks.dll
+C:\Users\Sil\Pictures\ITShop (1)\ITShop\ITShop\bin\Debug\net8.0\NuGet.LibraryModel.dll
+C:\Users\Sil\Pictures\ITShop (1)\ITShop\ITShop\bin\Debug\net8.0\NuGet.Packaging.dll
+C:\Users\Sil\Pictures\ITShop (1)\ITShop\ITShop\bin\Debug\net8.0\NuGet.ProjectModel.dll
+C:\Users\Sil\Pictures\ITShop (1)\ITShop\ITShop\bin\Debug\net8.0\NuGet.Protocol.dll
+C:\Users\Sil\Pictures\ITShop (1)\ITShop\ITShop\bin\Debug\net8.0\NuGet.Versioning.dll
+C:\Users\Sil\Pictures\ITShop (1)\ITShop\ITShop\bin\Debug\net8.0\SlugGenerator.dll
+C:\Users\Sil\Pictures\ITShop (1)\ITShop\ITShop\bin\Debug\net8.0\System.CodeDom.dll
+C:\Users\Sil\Pictures\ITShop (1)\ITShop\ITShop\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+C:\Users\Sil\Pictures\ITShop (1)\ITShop\ITShop\bin\Debug\net8.0\System.Composition.Convention.dll
+C:\Users\Sil\Pictures\ITShop (1)\ITShop\ITShop\bin\Debug\net8.0\System.Composition.Hosting.dll
+C:\Users\Sil\Pictures\ITShop (1)\ITShop\ITShop\bin\Debug\net8.0\System.Composition.Runtime.dll
+C:\Users\Sil\Pictures\ITShop (1)\ITShop\ITShop\bin\Debug\net8.0\System.Composition.TypedParts.dll
+C:\Users\Sil\Pictures\ITShop (1)\ITShop\ITShop\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Sil\Pictures\ITShop (1)\ITShop\ITShop\bin\Debug\net8.0\System.Drawing.Common.dll
+C:\Users\Sil\Pictures\ITShop (1)\ITShop\ITShop\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Sil\Pictures\ITShop (1)\ITShop\ITShop\bin\Debug\net8.0\System.Linq.Dynamic.Core.dll
+C:\Users\Sil\Pictures\ITShop (1)\ITShop\ITShop\bin\Debug\net8.0\System.Memory.Data.dll
+C:\Users\Sil\Pictures\ITShop (1)\ITShop\ITShop\bin\Debug\net8.0\System.Reflection.MetadataLoadContext.dll
+C:\Users\Sil\Pictures\ITShop (1)\ITShop\ITShop\bin\Debug\net8.0\System.Runtime.Caching.dll
+C:\Users\Sil\Pictures\ITShop (1)\ITShop\ITShop\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Sil\Pictures\ITShop (1)\ITShop\ITShop\bin\Debug\net8.0\System.Security.Permissions.dll
+C:\Users\Sil\Pictures\ITShop (1)\ITShop\ITShop\bin\Debug\net8.0\System.Windows.Extensions.dll
+C:\Users\Sil\Pictures\ITShop (1)\ITShop\ITShop\bin\Debug\net8.0\af\Humanizer.resources.dll
+C:\Users\Sil\Pictures\ITShop (1)\ITShop\ITShop\bin\Debug\net8.0\ar\Humanizer.resources.dll
+C:\Users\Sil\Pictures\ITShop (1)\ITShop\ITShop\bin\Debug\net8.0\az\Humanizer.resources.dll
+C:\Users\Sil\Pictures\ITShop (1)\ITShop\ITShop\bin\Debug\net8.0\bg\Humanizer.resources.dll
+C:\Users\Sil\Pictures\ITShop (1)\ITShop\ITShop\bin\Debug\net8.0\bn-BD\Humanizer.resources.dll
+C:\Users\Sil\Pictures\ITShop (1)\ITShop\ITShop\bin\Debug\net8.0\cs\Humanizer.resources.dll
+C:\Users\Sil\Pictures\ITShop (1)\ITShop\ITShop\bin\Debug\net8.0\da\Humanizer.resources.dll
+C:\Users\Sil\Pictures\ITShop (1)\ITShop\ITShop\bin\Debug\net8.0\de\Humanizer.resources.dll
+C:\Users\Sil\Pictures\ITShop (1)\ITShop\ITShop\bin\Debug\net8.0\el\Humanizer.resources.dll
+C:\Users\Sil\Pictures\ITShop (1)\ITShop\ITShop\bin\Debug\net8.0\es\Humanizer.resources.dll
+C:\Users\Sil\Pictures\ITShop (1)\ITShop\ITShop\bin\Debug\net8.0\fa\Humanizer.resources.dll
+C:\Users\Sil\Pictures\ITShop (1)\ITShop\ITShop\bin\Debug\net8.0\fi-FI\Humanizer.resources.dll
+C:\Users\Sil\Pictures\ITShop (1)\ITShop\ITShop\bin\Debug\net8.0\fr\Humanizer.resources.dll
+C:\Users\Sil\Pictures\ITShop (1)\ITShop\ITShop\bin\Debug\net8.0\fr-BE\Humanizer.resources.dll
+C:\Users\Sil\Pictures\ITShop (1)\ITShop\ITShop\bin\Debug\net8.0\he\Humanizer.resources.dll
+C:\Users\Sil\Pictures\ITShop (1)\ITShop\ITShop\bin\Debug\net8.0\hr\Humanizer.resources.dll
+C:\Users\Sil\Pictures\ITShop (1)\ITShop\ITShop\bin\Debug\net8.0\hu\Humanizer.resources.dll
+C:\Users\Sil\Pictures\ITShop (1)\ITShop\ITShop\bin\Debug\net8.0\hy\Humanizer.resources.dll
+C:\Users\Sil\Pictures\ITShop (1)\ITShop\ITShop\bin\Debug\net8.0\id\Humanizer.resources.dll
+C:\Users\Sil\Pictures\ITShop (1)\ITShop\ITShop\bin\Debug\net8.0\is\Humanizer.resources.dll
+C:\Users\Sil\Pictures\ITShop (1)\ITShop\ITShop\bin\Debug\net8.0\it\Humanizer.resources.dll
+C:\Users\Sil\Pictures\ITShop (1)\ITShop\ITShop\bin\Debug\net8.0\ja\Humanizer.resources.dll
+C:\Users\Sil\Pictures\ITShop (1)\ITShop\ITShop\bin\Debug\net8.0\ko-KR\Humanizer.resources.dll
+C:\Users\Sil\Pictures\ITShop (1)\ITShop\ITShop\bin\Debug\net8.0\ku\Humanizer.resources.dll
+C:\Users\Sil\Pictures\ITShop (1)\ITShop\ITShop\bin\Debug\net8.0\lv\Humanizer.resources.dll
+C:\Users\Sil\Pictures\ITShop (1)\ITShop\ITShop\bin\Debug\net8.0\ms-MY\Humanizer.resources.dll
+C:\Users\Sil\Pictures\ITShop (1)\ITShop\ITShop\bin\Debug\net8.0\mt\Humanizer.resources.dll
+C:\Users\Sil\Pictures\ITShop (1)\ITShop\ITShop\bin\Debug\net8.0\nb\Humanizer.resources.dll
+C:\Users\Sil\Pictures\ITShop (1)\ITShop\ITShop\bin\Debug\net8.0\nb-NO\Humanizer.resources.dll
+C:\Users\Sil\Pictures\ITShop (1)\ITShop\ITShop\bin\Debug\net8.0\nl\Humanizer.resources.dll
+C:\Users\Sil\Pictures\ITShop (1)\ITShop\ITShop\bin\Debug\net8.0\pl\Humanizer.resources.dll
+C:\Users\Sil\Pictures\ITShop (1)\ITShop\ITShop\bin\Debug\net8.0\pt\Humanizer.resources.dll
+C:\Users\Sil\Pictures\ITShop (1)\ITShop\ITShop\bin\Debug\net8.0\ro\Humanizer.resources.dll
+C:\Users\Sil\Pictures\ITShop (1)\ITShop\ITShop\bin\Debug\net8.0\ru\Humanizer.resources.dll
+C:\Users\Sil\Pictures\ITShop (1)\ITShop\ITShop\bin\Debug\net8.0\sk\Humanizer.resources.dll
+C:\Users\Sil\Pictures\ITShop (1)\ITShop\ITShop\bin\Debug\net8.0\sl\Humanizer.resources.dll
+C:\Users\Sil\Pictures\ITShop (1)\ITShop\ITShop\bin\Debug\net8.0\sr\Humanizer.resources.dll
+C:\Users\Sil\Pictures\ITShop (1)\ITShop\ITShop\bin\Debug\net8.0\sr-Latn\Humanizer.resources.dll
+C:\Users\Sil\Pictures\ITShop (1)\ITShop\ITShop\bin\Debug\net8.0\sv\Humanizer.resources.dll
+C:\Users\Sil\Pictures\ITShop (1)\ITShop\ITShop\bin\Debug\net8.0\th-TH\Humanizer.resources.dll
+C:\Users\Sil\Pictures\ITShop (1)\ITShop\ITShop\bin\Debug\net8.0\tr\Humanizer.resources.dll
+C:\Users\Sil\Pictures\ITShop (1)\ITShop\ITShop\bin\Debug\net8.0\uk\Humanizer.resources.dll
+C:\Users\Sil\Pictures\ITShop (1)\ITShop\ITShop\bin\Debug\net8.0\uz-Cyrl-UZ\Humanizer.resources.dll
+C:\Users\Sil\Pictures\ITShop (1)\ITShop\ITShop\bin\Debug\net8.0\uz-Latn-UZ\Humanizer.resources.dll
+C:\Users\Sil\Pictures\ITShop (1)\ITShop\ITShop\bin\Debug\net8.0\vi\Humanizer.resources.dll
+C:\Users\Sil\Pictures\ITShop (1)\ITShop\ITShop\bin\Debug\net8.0\zh-CN\Humanizer.resources.dll
+C:\Users\Sil\Pictures\ITShop (1)\ITShop\ITShop\bin\Debug\net8.0\zh-Hans\Humanizer.resources.dll
+C:\Users\Sil\Pictures\ITShop (1)\ITShop\ITShop\bin\Debug\net8.0\zh-Hant\Humanizer.resources.dll
+C:\Users\Sil\Pictures\ITShop (1)\ITShop\ITShop\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Sil\Pictures\ITShop (1)\ITShop\ITShop\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Sil\Pictures\ITShop (1)\ITShop\ITShop\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Sil\Pictures\ITShop (1)\ITShop\ITShop\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Sil\Pictures\ITShop (1)\ITShop\ITShop\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Sil\Pictures\ITShop (1)\ITShop\ITShop\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Sil\Pictures\ITShop (1)\ITShop\ITShop\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Sil\Pictures\ITShop (1)\ITShop\ITShop\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Sil\Pictures\ITShop (1)\ITShop\ITShop\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Sil\Pictures\ITShop (1)\ITShop\ITShop\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Sil\Pictures\ITShop (1)\ITShop\ITShop\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Sil\Pictures\ITShop (1)\ITShop\ITShop\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Sil\Pictures\ITShop (1)\ITShop\ITShop\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Sil\Pictures\ITShop (1)\ITShop\ITShop\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Sil\Pictures\ITShop (1)\ITShop\ITShop\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Sil\Pictures\ITShop (1)\ITShop\ITShop\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Sil\Pictures\ITShop (1)\ITShop\ITShop\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Sil\Pictures\ITShop (1)\ITShop\ITShop\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Sil\Pictures\ITShop (1)\ITShop\ITShop\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Sil\Pictures\ITShop (1)\ITShop\ITShop\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Sil\Pictures\ITShop (1)\ITShop\ITShop\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Sil\Pictures\ITShop (1)\ITShop\ITShop\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Sil\Pictures\ITShop (1)\ITShop\ITShop\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Sil\Pictures\ITShop (1)\ITShop\ITShop\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Sil\Pictures\ITShop (1)\ITShop\ITShop\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Sil\Pictures\ITShop (1)\ITShop\ITShop\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Sil\Pictures\ITShop (1)\ITShop\ITShop\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Sil\Pictures\ITShop (1)\ITShop\ITShop\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Sil\Pictures\ITShop (1)\ITShop\ITShop\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Sil\Pictures\ITShop (1)\ITShop\ITShop\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Sil\Pictures\ITShop (1)\ITShop\ITShop\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Sil\Pictures\ITShop (1)\ITShop\ITShop\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Sil\Pictures\ITShop (1)\ITShop\ITShop\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Sil\Pictures\ITShop (1)\ITShop\ITShop\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Sil\Pictures\ITShop (1)\ITShop\ITShop\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Sil\Pictures\ITShop (1)\ITShop\ITShop\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Sil\Pictures\ITShop (1)\ITShop\ITShop\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Sil\Pictures\ITShop (1)\ITShop\ITShop\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Sil\Pictures\ITShop (1)\ITShop\ITShop\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Sil\Pictures\ITShop (1)\ITShop\ITShop\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Sil\Pictures\ITShop (1)\ITShop\ITShop\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Sil\Pictures\ITShop (1)\ITShop\ITShop\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Sil\Pictures\ITShop (1)\ITShop\ITShop\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Sil\Pictures\ITShop (1)\ITShop\ITShop\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Sil\Pictures\ITShop (1)\ITShop\ITShop\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Sil\Pictures\ITShop (1)\ITShop\ITShop\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Sil\Pictures\ITShop (1)\ITShop\ITShop\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Sil\Pictures\ITShop (1)\ITShop\ITShop\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Sil\Pictures\ITShop (1)\ITShop\ITShop\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Sil\Pictures\ITShop (1)\ITShop\ITShop\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Sil\Pictures\ITShop (1)\ITShop\ITShop\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Sil\Pictures\ITShop (1)\ITShop\ITShop\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Sil\Pictures\ITShop (1)\ITShop\ITShop\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Sil\Pictures\ITShop (1)\ITShop\ITShop\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Sil\Pictures\ITShop (1)\ITShop\ITShop\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Sil\Pictures\ITShop (1)\ITShop\ITShop\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Sil\Pictures\ITShop (1)\ITShop\ITShop\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Sil\Pictures\ITShop (1)\ITShop\ITShop\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Sil\Pictures\ITShop (1)\ITShop\ITShop\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Sil\Pictures\ITShop (1)\ITShop\ITShop\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Sil\Pictures\ITShop (1)\ITShop\ITShop\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Sil\Pictures\ITShop (1)\ITShop\ITShop\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Sil\Pictures\ITShop (1)\ITShop\ITShop\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Sil\Pictures\ITShop (1)\ITShop\ITShop\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Sil\Pictures\ITShop (1)\ITShop\ITShop\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Sil\Pictures\ITShop (1)\ITShop\ITShop\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Sil\Pictures\ITShop (1)\ITShop\ITShop\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Sil\Pictures\ITShop (1)\ITShop\ITShop\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Sil\Pictures\ITShop (1)\ITShop\ITShop\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Sil\Pictures\ITShop (1)\ITShop\ITShop\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Sil\Pictures\ITShop (1)\ITShop\ITShop\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Sil\Pictures\ITShop (1)\ITShop\ITShop\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Sil\Pictures\ITShop (1)\ITShop\ITShop\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Sil\Pictures\ITShop (1)\ITShop\ITShop\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Sil\Pictures\ITShop (1)\ITShop\ITShop\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Sil\Pictures\ITShop (1)\ITShop\ITShop\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Sil\Pictures\ITShop (1)\ITShop\ITShop\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Sil\Pictures\ITShop (1)\ITShop\ITShop\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Sil\Pictures\ITShop (1)\ITShop\ITShop\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Sil\Pictures\ITShop (1)\ITShop\ITShop\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Sil\Pictures\ITShop (1)\ITShop\ITShop\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Sil\Pictures\ITShop (1)\ITShop\ITShop\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Sil\Pictures\ITShop (1)\ITShop\ITShop\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Sil\Pictures\ITShop (1)\ITShop\ITShop\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Sil\Pictures\ITShop (1)\ITShop\ITShop\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Sil\Pictures\ITShop (1)\ITShop\ITShop\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Sil\Pictures\ITShop (1)\ITShop\ITShop\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Sil\Pictures\ITShop (1)\ITShop\ITShop\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Sil\Pictures\ITShop (1)\ITShop\ITShop\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Sil\Pictures\ITShop (1)\ITShop\ITShop\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Sil\Pictures\ITShop (1)\ITShop\ITShop\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Sil\Pictures\ITShop (1)\ITShop\ITShop\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Sil\Pictures\ITShop (1)\ITShop\ITShop\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Sil\Pictures\ITShop (1)\ITShop\ITShop\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Sil\Pictures\ITShop (1)\ITShop\ITShop\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Sil\Pictures\ITShop (1)\ITShop\ITShop\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Sil\Pictures\ITShop (1)\ITShop\ITShop\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Sil\Pictures\ITShop (1)\ITShop\ITShop\bin\Debug\net8.0\runtimes\win\lib\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Sil\Pictures\ITShop (1)\ITShop\ITShop\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Drawing.Common.dll
+C:\Users\Sil\Pictures\ITShop (1)\ITShop\ITShop\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\Sil\Pictures\ITShop (1)\ITShop\ITShop\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Sil\Pictures\ITShop (1)\ITShop\ITShop\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Windows.Extensions.dll
+C:\Users\Sil\Pictures\ITShop (1)\ITShop\ITShop\obj\Debug\net8.0\scopedcss\Areas\Admin\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Sil\Pictures\ITShop (1)\ITShop\ITShop\obj\Debug\net8.0\scopedcss\Views\KhachHang\DatHang.cshtml.rz.scp.css
+C:\Users\Sil\Pictures\ITShop (1)\ITShop\ITShop\obj\Debug\net8.0\scopedcss\Views\KhachHang\Index.cshtml.rz.scp.css
+C:\Users\Sil\Pictures\ITShop (1)\ITShop\ITShop\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Sil\Pictures\ITShop (1)\ITShop\ITShop\obj\Debug\net8.0\scopedcss\bundle\LinhKienMTShop.styles.css
+C:\Users\Sil\Pictures\ITShop (1)\ITShop\ITShop\obj\Debug\net8.0\scopedcss\projectbundle\LinhKienMTShop.bundle.scp.css
+C:\Users\Sil\Pictures\ITShop (1)\ITShop\ITShop\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\Sil\Pictures\ITShop (1)\ITShop\ITShop\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\Sil\Pictures\ITShop (1)\ITShop\ITShop\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\Users\Sil\Pictures\ITShop (1)\ITShop\ITShop\obj\Debug\net8.0\staticwebassets\msbuild.LinhKienMTShop.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Sil\Pictures\ITShop (1)\ITShop\ITShop\obj\Debug\net8.0\staticwebassets\msbuild.LinhKienMTShop.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\Users\Sil\Pictures\ITShop (1)\ITShop\ITShop\obj\Debug\net8.0\staticwebassets\msbuild.build.LinhKienMTShop.props
+C:\Users\Sil\Pictures\ITShop (1)\ITShop\ITShop\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.LinhKienMTShop.props
+C:\Users\Sil\Pictures\ITShop (1)\ITShop\ITShop\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.LinhKienMTShop.props
+C:\Users\Sil\Pictures\ITShop (1)\ITShop\ITShop\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\Sil\Pictures\ITShop (1)\ITShop\ITShop\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+C:\Users\Sil\Pictures\ITShop (1)\ITShop\ITShop\obj\Debug\net8.0\LinhKien.2E6FF21B.Up2Date
+C:\Users\Sil\Pictures\ITShop (1)\ITShop\ITShop\obj\Debug\net8.0\LinhKienMTShop.dll
+C:\Users\Sil\Pictures\ITShop (1)\ITShop\ITShop\obj\Debug\net8.0\refint\LinhKienMTShop.dll
+C:\Users\Sil\Pictures\ITShop (1)\ITShop\ITShop\obj\Debug\net8.0\LinhKienMTShop.pdb
+C:\Users\Sil\Pictures\ITShop (1)\ITShop\ITShop\obj\Debug\net8.0\LinhKienMTShop.genruntimeconfig.cache
+C:\Users\Sil\Pictures\ITShop (1)\ITShop\ITShop\obj\Debug\net8.0\ref\LinhKienMTShop.dll
+D:\ITShop\ITShop\ITShop\bin\Debug\net8.0\appsettings.Development.json
+D:\ITShop\ITShop\ITShop\bin\Debug\net8.0\appsettings.json
+D:\ITShop\ITShop\ITShop\bin\Debug\net8.0\libman.json
+D:\ITShop\ITShop\ITShop\bin\Debug\net8.0\LinhKienMTShop.staticwebassets.endpoints.json
+D:\ITShop\ITShop\ITShop\bin\Debug\net8.0\LinhKienMTShop.staticwebassets.runtime.json
+D:\ITShop\ITShop\ITShop\bin\Debug\net8.0\LinhKienMTShop.exe
+D:\ITShop\ITShop\ITShop\bin\Debug\net8.0\LinhKienMTShop.deps.json
+D:\ITShop\ITShop\ITShop\bin\Debug\net8.0\LinhKienMTShop.runtimeconfig.json
+D:\ITShop\ITShop\ITShop\bin\Debug\net8.0\LinhKienMTShop.dll
+D:\ITShop\ITShop\ITShop\bin\Debug\net8.0\LinhKienMTShop.pdb
+D:\ITShop\ITShop\ITShop\bin\Debug\net8.0\Azure.Core.dll
+D:\ITShop\ITShop\ITShop\bin\Debug\net8.0\Azure.Identity.dll
+D:\ITShop\ITShop\ITShop\bin\Debug\net8.0\BCrypt.Net-Next.dll
+D:\ITShop\ITShop\ITShop\bin\Debug\net8.0\BouncyCastle.Cryptography.dll
+D:\ITShop\ITShop\ITShop\bin\Debug\net8.0\Humanizer.dll
+D:\ITShop\ITShop\ITShop\bin\Debug\net8.0\MailKit.dll
+D:\ITShop\ITShop\ITShop\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.Google.dll
+D:\ITShop\ITShop\ITShop\bin\Debug\net8.0\Microsoft.AspNetCore.Authorization.dll
+D:\ITShop\ITShop\ITShop\bin\Debug\net8.0\Microsoft.AspNetCore.Components.dll
+D:\ITShop\ITShop\ITShop\bin\Debug\net8.0\Microsoft.AspNetCore.Components.Forms.dll
+D:\ITShop\ITShop\ITShop\bin\Debug\net8.0\Microsoft.AspNetCore.Components.QuickGrid.dll
+D:\ITShop\ITShop\ITShop\bin\Debug\net8.0\Microsoft.AspNetCore.Components.QuickGrid.EntityFrameworkAdapter.dll
+D:\ITShop\ITShop\ITShop\bin\Debug\net8.0\Microsoft.AspNetCore.Components.Web.dll
+D:\ITShop\ITShop\ITShop\bin\Debug\net8.0\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+D:\ITShop\ITShop\ITShop\bin\Debug\net8.0\Microsoft.AspNetCore.Metadata.dll
+D:\ITShop\ITShop\ITShop\bin\Debug\net8.0\Microsoft.AspNetCore.Razor.Language.dll
+D:\ITShop\ITShop\ITShop\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\ITShop\ITShop\ITShop\bin\Debug\net8.0\Microsoft.Build.dll
+D:\ITShop\ITShop\ITShop\bin\Debug\net8.0\Microsoft.Build.Framework.dll
+D:\ITShop\ITShop\ITShop\bin\Debug\net8.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+D:\ITShop\ITShop\ITShop\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+D:\ITShop\ITShop\ITShop\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\ITShop\ITShop\ITShop\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+D:\ITShop\ITShop\ITShop\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\ITShop\ITShop\ITShop\bin\Debug\net8.0\Microsoft.CodeAnalysis.Elfie.dll
+D:\ITShop\ITShop\ITShop\bin\Debug\net8.0\Microsoft.CodeAnalysis.Features.dll
+D:\ITShop\ITShop\ITShop\bin\Debug\net8.0\Microsoft.CodeAnalysis.Razor.dll
+D:\ITShop\ITShop\ITShop\bin\Debug\net8.0\Microsoft.CodeAnalysis.Scripting.dll
+D:\ITShop\ITShop\ITShop\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\ITShop\ITShop\ITShop\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+D:\ITShop\ITShop\ITShop\bin\Debug\net8.0\Microsoft.DiaSymReader.dll
+D:\ITShop\ITShop\ITShop\bin\Debug\net8.0\Microsoft.DotNet.Scaffolding.Shared.dll
+D:\ITShop\ITShop\ITShop\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+D:\ITShop\ITShop\ITShop\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\ITShop\ITShop\ITShop\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\ITShop\ITShop\ITShop\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\ITShop\ITShop\ITShop\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\ITShop\ITShop\ITShop\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+D:\ITShop\ITShop\ITShop\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+D:\ITShop\ITShop\ITShop\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\ITShop\ITShop\ITShop\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+D:\ITShop\ITShop\ITShop\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+D:\ITShop\ITShop\ITShop\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\ITShop\ITShop\ITShop\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+D:\ITShop\ITShop\ITShop\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+D:\ITShop\ITShop\ITShop\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\ITShop\ITShop\ITShop\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+D:\ITShop\ITShop\ITShop\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\ITShop\ITShop\ITShop\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+D:\ITShop\ITShop\ITShop\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+D:\ITShop\ITShop\ITShop\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\ITShop\ITShop\ITShop\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+D:\ITShop\ITShop\ITShop\bin\Debug\net8.0\Microsoft.JSInterop.dll
+D:\ITShop\ITShop\ITShop\bin\Debug\net8.0\Microsoft.NET.StringTools.dll
+D:\ITShop\ITShop\ITShop\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+D:\ITShop\ITShop\ITShop\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\ITShop\ITShop\ITShop\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\ITShop\ITShop\ITShop\bin\Debug\net8.0\dotnet-aspnet-codegenerator-design.dll
+D:\ITShop\ITShop\ITShop\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\ITShop\ITShop\ITShop\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\ITShop\ITShop\ITShop\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\ITShop\ITShop\ITShop\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\ITShop\ITShop\ITShop\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+D:\ITShop\ITShop\ITShop\bin\Debug\net8.0\MimeKit.dll
+D:\ITShop\ITShop\ITShop\bin\Debug\net8.0\Mono.TextTemplating.dll
+D:\ITShop\ITShop\ITShop\bin\Debug\net8.0\Newtonsoft.Json.dll
+D:\ITShop\ITShop\ITShop\bin\Debug\net8.0\NuGet.Common.dll
+D:\ITShop\ITShop\ITShop\bin\Debug\net8.0\NuGet.Configuration.dll
+D:\ITShop\ITShop\ITShop\bin\Debug\net8.0\NuGet.DependencyResolver.Core.dll
+D:\ITShop\ITShop\ITShop\bin\Debug\net8.0\NuGet.Frameworks.dll
+D:\ITShop\ITShop\ITShop\bin\Debug\net8.0\NuGet.LibraryModel.dll
+D:\ITShop\ITShop\ITShop\bin\Debug\net8.0\NuGet.Packaging.dll
+D:\ITShop\ITShop\ITShop\bin\Debug\net8.0\NuGet.ProjectModel.dll
+D:\ITShop\ITShop\ITShop\bin\Debug\net8.0\NuGet.Protocol.dll
+D:\ITShop\ITShop\ITShop\bin\Debug\net8.0\NuGet.Versioning.dll
+D:\ITShop\ITShop\ITShop\bin\Debug\net8.0\SlugGenerator.dll
+D:\ITShop\ITShop\ITShop\bin\Debug\net8.0\System.CodeDom.dll
+D:\ITShop\ITShop\ITShop\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+D:\ITShop\ITShop\ITShop\bin\Debug\net8.0\System.Composition.Convention.dll
+D:\ITShop\ITShop\ITShop\bin\Debug\net8.0\System.Composition.Hosting.dll
+D:\ITShop\ITShop\ITShop\bin\Debug\net8.0\System.Composition.Runtime.dll
+D:\ITShop\ITShop\ITShop\bin\Debug\net8.0\System.Composition.TypedParts.dll
+D:\ITShop\ITShop\ITShop\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+D:\ITShop\ITShop\ITShop\bin\Debug\net8.0\System.Drawing.Common.dll
+D:\ITShop\ITShop\ITShop\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+D:\ITShop\ITShop\ITShop\bin\Debug\net8.0\System.Linq.Dynamic.Core.dll
+D:\ITShop\ITShop\ITShop\bin\Debug\net8.0\System.Memory.Data.dll
+D:\ITShop\ITShop\ITShop\bin\Debug\net8.0\System.Reflection.MetadataLoadContext.dll
+D:\ITShop\ITShop\ITShop\bin\Debug\net8.0\System.Runtime.Caching.dll
+D:\ITShop\ITShop\ITShop\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+D:\ITShop\ITShop\ITShop\bin\Debug\net8.0\System.Security.Permissions.dll
+D:\ITShop\ITShop\ITShop\bin\Debug\net8.0\System.Windows.Extensions.dll
+D:\ITShop\ITShop\ITShop\bin\Debug\net8.0\af\Humanizer.resources.dll
+D:\ITShop\ITShop\ITShop\bin\Debug\net8.0\ar\Humanizer.resources.dll
+D:\ITShop\ITShop\ITShop\bin\Debug\net8.0\az\Humanizer.resources.dll
+D:\ITShop\ITShop\ITShop\bin\Debug\net8.0\bg\Humanizer.resources.dll
+D:\ITShop\ITShop\ITShop\bin\Debug\net8.0\bn-BD\Humanizer.resources.dll
+D:\ITShop\ITShop\ITShop\bin\Debug\net8.0\cs\Humanizer.resources.dll
+D:\ITShop\ITShop\ITShop\bin\Debug\net8.0\da\Humanizer.resources.dll
+D:\ITShop\ITShop\ITShop\bin\Debug\net8.0\de\Humanizer.resources.dll
+D:\ITShop\ITShop\ITShop\bin\Debug\net8.0\el\Humanizer.resources.dll
+D:\ITShop\ITShop\ITShop\bin\Debug\net8.0\es\Humanizer.resources.dll
+D:\ITShop\ITShop\ITShop\bin\Debug\net8.0\fa\Humanizer.resources.dll
+D:\ITShop\ITShop\ITShop\bin\Debug\net8.0\fi-FI\Humanizer.resources.dll
+D:\ITShop\ITShop\ITShop\bin\Debug\net8.0\fr\Humanizer.resources.dll
+D:\ITShop\ITShop\ITShop\bin\Debug\net8.0\fr-BE\Humanizer.resources.dll
+D:\ITShop\ITShop\ITShop\bin\Debug\net8.0\he\Humanizer.resources.dll
+D:\ITShop\ITShop\ITShop\bin\Debug\net8.0\hr\Humanizer.resources.dll
+D:\ITShop\ITShop\ITShop\bin\Debug\net8.0\hu\Humanizer.resources.dll
+D:\ITShop\ITShop\ITShop\bin\Debug\net8.0\hy\Humanizer.resources.dll
+D:\ITShop\ITShop\ITShop\bin\Debug\net8.0\id\Humanizer.resources.dll
+D:\ITShop\ITShop\ITShop\bin\Debug\net8.0\is\Humanizer.resources.dll
+D:\ITShop\ITShop\ITShop\bin\Debug\net8.0\it\Humanizer.resources.dll
+D:\ITShop\ITShop\ITShop\bin\Debug\net8.0\ja\Humanizer.resources.dll
+D:\ITShop\ITShop\ITShop\bin\Debug\net8.0\ko-KR\Humanizer.resources.dll
+D:\ITShop\ITShop\ITShop\bin\Debug\net8.0\ku\Humanizer.resources.dll
+D:\ITShop\ITShop\ITShop\bin\Debug\net8.0\lv\Humanizer.resources.dll
+D:\ITShop\ITShop\ITShop\bin\Debug\net8.0\ms-MY\Humanizer.resources.dll
+D:\ITShop\ITShop\ITShop\bin\Debug\net8.0\mt\Humanizer.resources.dll
+D:\ITShop\ITShop\ITShop\bin\Debug\net8.0\nb\Humanizer.resources.dll
+D:\ITShop\ITShop\ITShop\bin\Debug\net8.0\nb-NO\Humanizer.resources.dll
+D:\ITShop\ITShop\ITShop\bin\Debug\net8.0\nl\Humanizer.resources.dll
+D:\ITShop\ITShop\ITShop\bin\Debug\net8.0\pl\Humanizer.resources.dll
+D:\ITShop\ITShop\ITShop\bin\Debug\net8.0\pt\Humanizer.resources.dll
+D:\ITShop\ITShop\ITShop\bin\Debug\net8.0\ro\Humanizer.resources.dll
+D:\ITShop\ITShop\ITShop\bin\Debug\net8.0\ru\Humanizer.resources.dll
+D:\ITShop\ITShop\ITShop\bin\Debug\net8.0\sk\Humanizer.resources.dll
+D:\ITShop\ITShop\ITShop\bin\Debug\net8.0\sl\Humanizer.resources.dll
+D:\ITShop\ITShop\ITShop\bin\Debug\net8.0\sr\Humanizer.resources.dll
+D:\ITShop\ITShop\ITShop\bin\Debug\net8.0\sr-Latn\Humanizer.resources.dll
+D:\ITShop\ITShop\ITShop\bin\Debug\net8.0\sv\Humanizer.resources.dll
+D:\ITShop\ITShop\ITShop\bin\Debug\net8.0\th-TH\Humanizer.resources.dll
+D:\ITShop\ITShop\ITShop\bin\Debug\net8.0\tr\Humanizer.resources.dll
+D:\ITShop\ITShop\ITShop\bin\Debug\net8.0\uk\Humanizer.resources.dll
+D:\ITShop\ITShop\ITShop\bin\Debug\net8.0\uz-Cyrl-UZ\Humanizer.resources.dll
+D:\ITShop\ITShop\ITShop\bin\Debug\net8.0\uz-Latn-UZ\Humanizer.resources.dll
+D:\ITShop\ITShop\ITShop\bin\Debug\net8.0\vi\Humanizer.resources.dll
+D:\ITShop\ITShop\ITShop\bin\Debug\net8.0\zh-CN\Humanizer.resources.dll
+D:\ITShop\ITShop\ITShop\bin\Debug\net8.0\zh-Hans\Humanizer.resources.dll
+D:\ITShop\ITShop\ITShop\bin\Debug\net8.0\zh-Hant\Humanizer.resources.dll
+D:\ITShop\ITShop\ITShop\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\ITShop\ITShop\ITShop\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\ITShop\ITShop\ITShop\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\ITShop\ITShop\ITShop\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\ITShop\ITShop\ITShop\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\ITShop\ITShop\ITShop\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\ITShop\ITShop\ITShop\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\ITShop\ITShop\ITShop\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\ITShop\ITShop\ITShop\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\ITShop\ITShop\ITShop\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\ITShop\ITShop\ITShop\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\ITShop\ITShop\ITShop\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\ITShop\ITShop\ITShop\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\ITShop\ITShop\ITShop\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ITShop\ITShop\ITShop\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ITShop\ITShop\ITShop\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ITShop\ITShop\ITShop\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ITShop\ITShop\ITShop\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ITShop\ITShop\ITShop\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ITShop\ITShop\ITShop\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ITShop\ITShop\ITShop\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ITShop\ITShop\ITShop\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ITShop\ITShop\ITShop\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ITShop\ITShop\ITShop\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ITShop\ITShop\ITShop\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ITShop\ITShop\ITShop\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ITShop\ITShop\ITShop\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\ITShop\ITShop\ITShop\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\ITShop\ITShop\ITShop\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\ITShop\ITShop\ITShop\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\ITShop\ITShop\ITShop\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\ITShop\ITShop\ITShop\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\ITShop\ITShop\ITShop\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\ITShop\ITShop\ITShop\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\ITShop\ITShop\ITShop\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\ITShop\ITShop\ITShop\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\ITShop\ITShop\ITShop\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\ITShop\ITShop\ITShop\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\ITShop\ITShop\ITShop\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\ITShop\ITShop\ITShop\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ITShop\ITShop\ITShop\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ITShop\ITShop\ITShop\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ITShop\ITShop\ITShop\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ITShop\ITShop\ITShop\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ITShop\ITShop\ITShop\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ITShop\ITShop\ITShop\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ITShop\ITShop\ITShop\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ITShop\ITShop\ITShop\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ITShop\ITShop\ITShop\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ITShop\ITShop\ITShop\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ITShop\ITShop\ITShop\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ITShop\ITShop\ITShop\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ITShop\ITShop\ITShop\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+D:\ITShop\ITShop\ITShop\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+D:\ITShop\ITShop\ITShop\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+D:\ITShop\ITShop\ITShop\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+D:\ITShop\ITShop\ITShop\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+D:\ITShop\ITShop\ITShop\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+D:\ITShop\ITShop\ITShop\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+D:\ITShop\ITShop\ITShop\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+D:\ITShop\ITShop\ITShop\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+D:\ITShop\ITShop\ITShop\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+D:\ITShop\ITShop\ITShop\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+D:\ITShop\ITShop\ITShop\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+D:\ITShop\ITShop\ITShop\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+D:\ITShop\ITShop\ITShop\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\ITShop\ITShop\ITShop\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\ITShop\ITShop\ITShop\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\ITShop\ITShop\ITShop\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\ITShop\ITShop\ITShop\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\ITShop\ITShop\ITShop\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\ITShop\ITShop\ITShop\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\ITShop\ITShop\ITShop\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\ITShop\ITShop\ITShop\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\ITShop\ITShop\ITShop\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\ITShop\ITShop\ITShop\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\ITShop\ITShop\ITShop\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\ITShop\ITShop\ITShop\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\ITShop\ITShop\ITShop\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ITShop\ITShop\ITShop\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ITShop\ITShop\ITShop\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ITShop\ITShop\ITShop\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ITShop\ITShop\ITShop\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ITShop\ITShop\ITShop\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ITShop\ITShop\ITShop\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ITShop\ITShop\ITShop\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ITShop\ITShop\ITShop\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ITShop\ITShop\ITShop\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ITShop\ITShop\ITShop\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ITShop\ITShop\ITShop\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ITShop\ITShop\ITShop\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ITShop\ITShop\ITShop\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\ITShop\ITShop\ITShop\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\ITShop\ITShop\ITShop\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\ITShop\ITShop\ITShop\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\ITShop\ITShop\ITShop\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\ITShop\ITShop\ITShop\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\ITShop\ITShop\ITShop\bin\Debug\net8.0\runtimes\win\lib\net7.0\Microsoft.Win32.SystemEvents.dll
+D:\ITShop\ITShop\ITShop\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Drawing.Common.dll
+D:\ITShop\ITShop\ITShop\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\ITShop\ITShop\ITShop\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Security.Cryptography.ProtectedData.dll
+D:\ITShop\ITShop\ITShop\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Windows.Extensions.dll
+D:\ITShop\ITShop\ITShop\obj\Debug\net8.0\LinhKienMTShop.csproj.AssemblyReference.cache
+D:\ITShop\ITShop\ITShop\obj\Debug\net8.0\LinhKienMTShop.GeneratedMSBuildEditorConfig.editorconfig
+D:\ITShop\ITShop\ITShop\obj\Debug\net8.0\LinhKienMTShop.AssemblyInfoInputs.cache
+D:\ITShop\ITShop\ITShop\obj\Debug\net8.0\LinhKienMTShop.AssemblyInfo.cs
+D:\ITShop\ITShop\ITShop\obj\Debug\net8.0\LinhKienMTShop.csproj.CoreCompileInputs.cache
+D:\ITShop\ITShop\ITShop\obj\Debug\net8.0\LinhKienMTShop.MvcApplicationPartsAssemblyInfo.cache
+D:\ITShop\ITShop\ITShop\obj\Debug\net8.0\LinhKienMTShop.RazorAssemblyInfo.cache
+D:\ITShop\ITShop\ITShop\obj\Debug\net8.0\LinhKienMTShop.RazorAssemblyInfo.cs
+D:\ITShop\ITShop\ITShop\obj\Debug\net8.0\scopedcss\Areas\Admin\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\ITShop\ITShop\ITShop\obj\Debug\net8.0\scopedcss\Views\KhachHang\DatHang.cshtml.rz.scp.css
+D:\ITShop\ITShop\ITShop\obj\Debug\net8.0\scopedcss\Views\KhachHang\Index.cshtml.rz.scp.css
+D:\ITShop\ITShop\ITShop\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\ITShop\ITShop\ITShop\obj\Debug\net8.0\scopedcss\bundle\LinhKienMTShop.styles.css
+D:\ITShop\ITShop\ITShop\obj\Debug\net8.0\scopedcss\projectbundle\LinhKienMTShop.bundle.scp.css
+D:\ITShop\ITShop\ITShop\obj\Debug\net8.0\staticwebassets.build.json
+D:\ITShop\ITShop\ITShop\obj\Debug\net8.0\staticwebassets.development.json
+D:\ITShop\ITShop\ITShop\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+D:\ITShop\ITShop\ITShop\obj\Debug\net8.0\staticwebassets\msbuild.LinhKienMTShop.Microsoft.AspNetCore.StaticWebAssets.props
+D:\ITShop\ITShop\ITShop\obj\Debug\net8.0\staticwebassets\msbuild.LinhKienMTShop.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+D:\ITShop\ITShop\ITShop\obj\Debug\net8.0\staticwebassets\msbuild.build.LinhKienMTShop.props
+D:\ITShop\ITShop\ITShop\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.LinhKienMTShop.props
+D:\ITShop\ITShop\ITShop\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.LinhKienMTShop.props
+D:\ITShop\ITShop\ITShop\obj\Debug\net8.0\staticwebassets.pack.json
+D:\ITShop\ITShop\ITShop\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+D:\ITShop\ITShop\ITShop\obj\Debug\net8.0\LinhKien.2E6FF21B.Up2Date
+D:\ITShop\ITShop\ITShop\obj\Debug\net8.0\LinhKienMTShop.dll
+D:\ITShop\ITShop\ITShop\obj\Debug\net8.0\refint\LinhKienMTShop.dll
+D:\ITShop\ITShop\ITShop\obj\Debug\net8.0\LinhKienMTShop.pdb
+D:\ITShop\ITShop\ITShop\obj\Debug\net8.0\LinhKienMTShop.genruntimeconfig.cache
+D:\ITShop\ITShop\ITShop\obj\Debug\net8.0\ref\LinhKienMTShop.dll
+D:\ITShop\ITShop\LinhKienMTShop\bin\Debug\net8.0\appsettings.Development.json
+D:\ITShop\ITShop\LinhKienMTShop\bin\Debug\net8.0\appsettings.json
+D:\ITShop\ITShop\LinhKienMTShop\bin\Debug\net8.0\libman.json
+D:\ITShop\ITShop\LinhKienMTShop\bin\Debug\net8.0\LinhKienMTShop.staticwebassets.endpoints.json
+D:\ITShop\ITShop\LinhKienMTShop\bin\Debug\net8.0\LinhKienMTShop.staticwebassets.runtime.json
+D:\ITShop\ITShop\LinhKienMTShop\bin\Debug\net8.0\LinhKienMTShop.exe
+D:\ITShop\ITShop\LinhKienMTShop\bin\Debug\net8.0\LinhKienMTShop.deps.json
+D:\ITShop\ITShop\LinhKienMTShop\bin\Debug\net8.0\LinhKienMTShop.runtimeconfig.json
+D:\ITShop\ITShop\LinhKienMTShop\bin\Debug\net8.0\LinhKienMTShop.dll
+D:\ITShop\ITShop\LinhKienMTShop\bin\Debug\net8.0\LinhKienMTShop.pdb
+D:\ITShop\ITShop\LinhKienMTShop\bin\Debug\net8.0\Azure.Core.dll
+D:\ITShop\ITShop\LinhKienMTShop\bin\Debug\net8.0\Azure.Identity.dll
+D:\ITShop\ITShop\LinhKienMTShop\bin\Debug\net8.0\BCrypt.Net-Next.dll
+D:\ITShop\ITShop\LinhKienMTShop\bin\Debug\net8.0\BouncyCastle.Cryptography.dll
+D:\ITShop\ITShop\LinhKienMTShop\bin\Debug\net8.0\Humanizer.dll
+D:\ITShop\ITShop\LinhKienMTShop\bin\Debug\net8.0\MailKit.dll
+D:\ITShop\ITShop\LinhKienMTShop\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.Google.dll
+D:\ITShop\ITShop\LinhKienMTShop\bin\Debug\net8.0\Microsoft.AspNetCore.Authorization.dll
+D:\ITShop\ITShop\LinhKienMTShop\bin\Debug\net8.0\Microsoft.AspNetCore.Components.dll
+D:\ITShop\ITShop\LinhKienMTShop\bin\Debug\net8.0\Microsoft.AspNetCore.Components.Forms.dll
+D:\ITShop\ITShop\LinhKienMTShop\bin\Debug\net8.0\Microsoft.AspNetCore.Components.QuickGrid.dll
+D:\ITShop\ITShop\LinhKienMTShop\bin\Debug\net8.0\Microsoft.AspNetCore.Components.QuickGrid.EntityFrameworkAdapter.dll
+D:\ITShop\ITShop\LinhKienMTShop\bin\Debug\net8.0\Microsoft.AspNetCore.Components.Web.dll
+D:\ITShop\ITShop\LinhKienMTShop\bin\Debug\net8.0\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+D:\ITShop\ITShop\LinhKienMTShop\bin\Debug\net8.0\Microsoft.AspNetCore.Metadata.dll
+D:\ITShop\ITShop\LinhKienMTShop\bin\Debug\net8.0\Microsoft.AspNetCore.Razor.Language.dll
+D:\ITShop\ITShop\LinhKienMTShop\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\ITShop\ITShop\LinhKienMTShop\bin\Debug\net8.0\Microsoft.Build.dll
+D:\ITShop\ITShop\LinhKienMTShop\bin\Debug\net8.0\Microsoft.Build.Framework.dll
+D:\ITShop\ITShop\LinhKienMTShop\bin\Debug\net8.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+D:\ITShop\ITShop\LinhKienMTShop\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+D:\ITShop\ITShop\LinhKienMTShop\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\ITShop\ITShop\LinhKienMTShop\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+D:\ITShop\ITShop\LinhKienMTShop\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\ITShop\ITShop\LinhKienMTShop\bin\Debug\net8.0\Microsoft.CodeAnalysis.Elfie.dll
+D:\ITShop\ITShop\LinhKienMTShop\bin\Debug\net8.0\Microsoft.CodeAnalysis.Features.dll
+D:\ITShop\ITShop\LinhKienMTShop\bin\Debug\net8.0\Microsoft.CodeAnalysis.Razor.dll
+D:\ITShop\ITShop\LinhKienMTShop\bin\Debug\net8.0\Microsoft.CodeAnalysis.Scripting.dll
+D:\ITShop\ITShop\LinhKienMTShop\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\ITShop\ITShop\LinhKienMTShop\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+D:\ITShop\ITShop\LinhKienMTShop\bin\Debug\net8.0\Microsoft.DiaSymReader.dll
+D:\ITShop\ITShop\LinhKienMTShop\bin\Debug\net8.0\Microsoft.DotNet.Scaffolding.Shared.dll
+D:\ITShop\ITShop\LinhKienMTShop\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+D:\ITShop\ITShop\LinhKienMTShop\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\ITShop\ITShop\LinhKienMTShop\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\ITShop\ITShop\LinhKienMTShop\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\ITShop\ITShop\LinhKienMTShop\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\ITShop\ITShop\LinhKienMTShop\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+D:\ITShop\ITShop\LinhKienMTShop\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+D:\ITShop\ITShop\LinhKienMTShop\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\ITShop\ITShop\LinhKienMTShop\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+D:\ITShop\ITShop\LinhKienMTShop\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+D:\ITShop\ITShop\LinhKienMTShop\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\ITShop\ITShop\LinhKienMTShop\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+D:\ITShop\ITShop\LinhKienMTShop\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+D:\ITShop\ITShop\LinhKienMTShop\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\ITShop\ITShop\LinhKienMTShop\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+D:\ITShop\ITShop\LinhKienMTShop\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\ITShop\ITShop\LinhKienMTShop\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+D:\ITShop\ITShop\LinhKienMTShop\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+D:\ITShop\ITShop\LinhKienMTShop\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\ITShop\ITShop\LinhKienMTShop\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+D:\ITShop\ITShop\LinhKienMTShop\bin\Debug\net8.0\Microsoft.JSInterop.dll
+D:\ITShop\ITShop\LinhKienMTShop\bin\Debug\net8.0\Microsoft.NET.StringTools.dll
+D:\ITShop\ITShop\LinhKienMTShop\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+D:\ITShop\ITShop\LinhKienMTShop\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\ITShop\ITShop\LinhKienMTShop\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\ITShop\ITShop\LinhKienMTShop\bin\Debug\net8.0\dotnet-aspnet-codegenerator-design.dll
+D:\ITShop\ITShop\LinhKienMTShop\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\ITShop\ITShop\LinhKienMTShop\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\ITShop\ITShop\LinhKienMTShop\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\ITShop\ITShop\LinhKienMTShop\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\ITShop\ITShop\LinhKienMTShop\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+D:\ITShop\ITShop\LinhKienMTShop\bin\Debug\net8.0\MimeKit.dll
+D:\ITShop\ITShop\LinhKienMTShop\bin\Debug\net8.0\Mono.TextTemplating.dll
+D:\ITShop\ITShop\LinhKienMTShop\bin\Debug\net8.0\Newtonsoft.Json.dll
+D:\ITShop\ITShop\LinhKienMTShop\bin\Debug\net8.0\NuGet.Common.dll
+D:\ITShop\ITShop\LinhKienMTShop\bin\Debug\net8.0\NuGet.Configuration.dll
+D:\ITShop\ITShop\LinhKienMTShop\bin\Debug\net8.0\NuGet.DependencyResolver.Core.dll
+D:\ITShop\ITShop\LinhKienMTShop\bin\Debug\net8.0\NuGet.Frameworks.dll
+D:\ITShop\ITShop\LinhKienMTShop\bin\Debug\net8.0\NuGet.LibraryModel.dll
+D:\ITShop\ITShop\LinhKienMTShop\bin\Debug\net8.0\NuGet.Packaging.dll
+D:\ITShop\ITShop\LinhKienMTShop\bin\Debug\net8.0\NuGet.ProjectModel.dll
+D:\ITShop\ITShop\LinhKienMTShop\bin\Debug\net8.0\NuGet.Protocol.dll
+D:\ITShop\ITShop\LinhKienMTShop\bin\Debug\net8.0\NuGet.Versioning.dll
+D:\ITShop\ITShop\LinhKienMTShop\bin\Debug\net8.0\SlugGenerator.dll
+D:\ITShop\ITShop\LinhKienMTShop\bin\Debug\net8.0\System.CodeDom.dll
+D:\ITShop\ITShop\LinhKienMTShop\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+D:\ITShop\ITShop\LinhKienMTShop\bin\Debug\net8.0\System.Composition.Convention.dll
+D:\ITShop\ITShop\LinhKienMTShop\bin\Debug\net8.0\System.Composition.Hosting.dll
+D:\ITShop\ITShop\LinhKienMTShop\bin\Debug\net8.0\System.Composition.Runtime.dll
+D:\ITShop\ITShop\LinhKienMTShop\bin\Debug\net8.0\System.Composition.TypedParts.dll
+D:\ITShop\ITShop\LinhKienMTShop\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+D:\ITShop\ITShop\LinhKienMTShop\bin\Debug\net8.0\System.Drawing.Common.dll
+D:\ITShop\ITShop\LinhKienMTShop\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+D:\ITShop\ITShop\LinhKienMTShop\bin\Debug\net8.0\System.Linq.Dynamic.Core.dll
+D:\ITShop\ITShop\LinhKienMTShop\bin\Debug\net8.0\System.Memory.Data.dll
+D:\ITShop\ITShop\LinhKienMTShop\bin\Debug\net8.0\System.Reflection.MetadataLoadContext.dll
+D:\ITShop\ITShop\LinhKienMTShop\bin\Debug\net8.0\System.Runtime.Caching.dll
+D:\ITShop\ITShop\LinhKienMTShop\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+D:\ITShop\ITShop\LinhKienMTShop\bin\Debug\net8.0\System.Security.Permissions.dll
+D:\ITShop\ITShop\LinhKienMTShop\bin\Debug\net8.0\System.Windows.Extensions.dll
+D:\ITShop\ITShop\LinhKienMTShop\bin\Debug\net8.0\af\Humanizer.resources.dll
+D:\ITShop\ITShop\LinhKienMTShop\bin\Debug\net8.0\ar\Humanizer.resources.dll
+D:\ITShop\ITShop\LinhKienMTShop\bin\Debug\net8.0\az\Humanizer.resources.dll
+D:\ITShop\ITShop\LinhKienMTShop\bin\Debug\net8.0\bg\Humanizer.resources.dll
+D:\ITShop\ITShop\LinhKienMTShop\bin\Debug\net8.0\bn-BD\Humanizer.resources.dll
+D:\ITShop\ITShop\LinhKienMTShop\bin\Debug\net8.0\cs\Humanizer.resources.dll
+D:\ITShop\ITShop\LinhKienMTShop\bin\Debug\net8.0\da\Humanizer.resources.dll
+D:\ITShop\ITShop\LinhKienMTShop\bin\Debug\net8.0\de\Humanizer.resources.dll
+D:\ITShop\ITShop\LinhKienMTShop\bin\Debug\net8.0\el\Humanizer.resources.dll
+D:\ITShop\ITShop\LinhKienMTShop\bin\Debug\net8.0\es\Humanizer.resources.dll
+D:\ITShop\ITShop\LinhKienMTShop\bin\Debug\net8.0\fa\Humanizer.resources.dll
+D:\ITShop\ITShop\LinhKienMTShop\bin\Debug\net8.0\fi-FI\Humanizer.resources.dll
+D:\ITShop\ITShop\LinhKienMTShop\bin\Debug\net8.0\fr\Humanizer.resources.dll
+D:\ITShop\ITShop\LinhKienMTShop\bin\Debug\net8.0\fr-BE\Humanizer.resources.dll
+D:\ITShop\ITShop\LinhKienMTShop\bin\Debug\net8.0\he\Humanizer.resources.dll
+D:\ITShop\ITShop\LinhKienMTShop\bin\Debug\net8.0\hr\Humanizer.resources.dll
+D:\ITShop\ITShop\LinhKienMTShop\bin\Debug\net8.0\hu\Humanizer.resources.dll
+D:\ITShop\ITShop\LinhKienMTShop\bin\Debug\net8.0\hy\Humanizer.resources.dll
+D:\ITShop\ITShop\LinhKienMTShop\bin\Debug\net8.0\id\Humanizer.resources.dll
+D:\ITShop\ITShop\LinhKienMTShop\bin\Debug\net8.0\is\Humanizer.resources.dll
+D:\ITShop\ITShop\LinhKienMTShop\bin\Debug\net8.0\it\Humanizer.resources.dll
+D:\ITShop\ITShop\LinhKienMTShop\bin\Debug\net8.0\ja\Humanizer.resources.dll
+D:\ITShop\ITShop\LinhKienMTShop\bin\Debug\net8.0\ko-KR\Humanizer.resources.dll
+D:\ITShop\ITShop\LinhKienMTShop\bin\Debug\net8.0\ku\Humanizer.resources.dll
+D:\ITShop\ITShop\LinhKienMTShop\bin\Debug\net8.0\lv\Humanizer.resources.dll
+D:\ITShop\ITShop\LinhKienMTShop\bin\Debug\net8.0\ms-MY\Humanizer.resources.dll
+D:\ITShop\ITShop\LinhKienMTShop\bin\Debug\net8.0\mt\Humanizer.resources.dll
+D:\ITShop\ITShop\LinhKienMTShop\bin\Debug\net8.0\nb\Humanizer.resources.dll
+D:\ITShop\ITShop\LinhKienMTShop\bin\Debug\net8.0\nb-NO\Humanizer.resources.dll
+D:\ITShop\ITShop\LinhKienMTShop\bin\Debug\net8.0\nl\Humanizer.resources.dll
+D:\ITShop\ITShop\LinhKienMTShop\bin\Debug\net8.0\pl\Humanizer.resources.dll
+D:\ITShop\ITShop\LinhKienMTShop\bin\Debug\net8.0\pt\Humanizer.resources.dll
+D:\ITShop\ITShop\LinhKienMTShop\bin\Debug\net8.0\ro\Humanizer.resources.dll
+D:\ITShop\ITShop\LinhKienMTShop\bin\Debug\net8.0\ru\Humanizer.resources.dll
+D:\ITShop\ITShop\LinhKienMTShop\bin\Debug\net8.0\sk\Humanizer.resources.dll
+D:\ITShop\ITShop\LinhKienMTShop\bin\Debug\net8.0\sl\Humanizer.resources.dll
+D:\ITShop\ITShop\LinhKienMTShop\bin\Debug\net8.0\sr\Humanizer.resources.dll
+D:\ITShop\ITShop\LinhKienMTShop\bin\Debug\net8.0\sr-Latn\Humanizer.resources.dll
+D:\ITShop\ITShop\LinhKienMTShop\bin\Debug\net8.0\sv\Humanizer.resources.dll
+D:\ITShop\ITShop\LinhKienMTShop\bin\Debug\net8.0\th-TH\Humanizer.resources.dll
+D:\ITShop\ITShop\LinhKienMTShop\bin\Debug\net8.0\tr\Humanizer.resources.dll
+D:\ITShop\ITShop\LinhKienMTShop\bin\Debug\net8.0\uk\Humanizer.resources.dll
+D:\ITShop\ITShop\LinhKienMTShop\bin\Debug\net8.0\uz-Cyrl-UZ\Humanizer.resources.dll
+D:\ITShop\ITShop\LinhKienMTShop\bin\Debug\net8.0\uz-Latn-UZ\Humanizer.resources.dll
+D:\ITShop\ITShop\LinhKienMTShop\bin\Debug\net8.0\vi\Humanizer.resources.dll
+D:\ITShop\ITShop\LinhKienMTShop\bin\Debug\net8.0\zh-CN\Humanizer.resources.dll
+D:\ITShop\ITShop\LinhKienMTShop\bin\Debug\net8.0\zh-Hans\Humanizer.resources.dll
+D:\ITShop\ITShop\LinhKienMTShop\bin\Debug\net8.0\zh-Hant\Humanizer.resources.dll
+D:\ITShop\ITShop\LinhKienMTShop\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\ITShop\ITShop\LinhKienMTShop\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\ITShop\ITShop\LinhKienMTShop\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\ITShop\ITShop\LinhKienMTShop\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\ITShop\ITShop\LinhKienMTShop\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\ITShop\ITShop\LinhKienMTShop\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\ITShop\ITShop\LinhKienMTShop\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\ITShop\ITShop\LinhKienMTShop\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\ITShop\ITShop\LinhKienMTShop\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\ITShop\ITShop\LinhKienMTShop\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\ITShop\ITShop\LinhKienMTShop\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\ITShop\ITShop\LinhKienMTShop\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\ITShop\ITShop\LinhKienMTShop\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\ITShop\ITShop\LinhKienMTShop\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ITShop\ITShop\LinhKienMTShop\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ITShop\ITShop\LinhKienMTShop\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ITShop\ITShop\LinhKienMTShop\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ITShop\ITShop\LinhKienMTShop\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ITShop\ITShop\LinhKienMTShop\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ITShop\ITShop\LinhKienMTShop\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ITShop\ITShop\LinhKienMTShop\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ITShop\ITShop\LinhKienMTShop\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ITShop\ITShop\LinhKienMTShop\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ITShop\ITShop\LinhKienMTShop\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ITShop\ITShop\LinhKienMTShop\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ITShop\ITShop\LinhKienMTShop\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ITShop\ITShop\LinhKienMTShop\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\ITShop\ITShop\LinhKienMTShop\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\ITShop\ITShop\LinhKienMTShop\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\ITShop\ITShop\LinhKienMTShop\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\ITShop\ITShop\LinhKienMTShop\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\ITShop\ITShop\LinhKienMTShop\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\ITShop\ITShop\LinhKienMTShop\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\ITShop\ITShop\LinhKienMTShop\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\ITShop\ITShop\LinhKienMTShop\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\ITShop\ITShop\LinhKienMTShop\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\ITShop\ITShop\LinhKienMTShop\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\ITShop\ITShop\LinhKienMTShop\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\ITShop\ITShop\LinhKienMTShop\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\ITShop\ITShop\LinhKienMTShop\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ITShop\ITShop\LinhKienMTShop\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ITShop\ITShop\LinhKienMTShop\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ITShop\ITShop\LinhKienMTShop\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ITShop\ITShop\LinhKienMTShop\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ITShop\ITShop\LinhKienMTShop\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ITShop\ITShop\LinhKienMTShop\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ITShop\ITShop\LinhKienMTShop\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ITShop\ITShop\LinhKienMTShop\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ITShop\ITShop\LinhKienMTShop\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ITShop\ITShop\LinhKienMTShop\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ITShop\ITShop\LinhKienMTShop\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ITShop\ITShop\LinhKienMTShop\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ITShop\ITShop\LinhKienMTShop\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+D:\ITShop\ITShop\LinhKienMTShop\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+D:\ITShop\ITShop\LinhKienMTShop\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+D:\ITShop\ITShop\LinhKienMTShop\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+D:\ITShop\ITShop\LinhKienMTShop\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+D:\ITShop\ITShop\LinhKienMTShop\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+D:\ITShop\ITShop\LinhKienMTShop\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+D:\ITShop\ITShop\LinhKienMTShop\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+D:\ITShop\ITShop\LinhKienMTShop\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+D:\ITShop\ITShop\LinhKienMTShop\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+D:\ITShop\ITShop\LinhKienMTShop\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+D:\ITShop\ITShop\LinhKienMTShop\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+D:\ITShop\ITShop\LinhKienMTShop\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+D:\ITShop\ITShop\LinhKienMTShop\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\ITShop\ITShop\LinhKienMTShop\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\ITShop\ITShop\LinhKienMTShop\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\ITShop\ITShop\LinhKienMTShop\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\ITShop\ITShop\LinhKienMTShop\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\ITShop\ITShop\LinhKienMTShop\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\ITShop\ITShop\LinhKienMTShop\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\ITShop\ITShop\LinhKienMTShop\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\ITShop\ITShop\LinhKienMTShop\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\ITShop\ITShop\LinhKienMTShop\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\ITShop\ITShop\LinhKienMTShop\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\ITShop\ITShop\LinhKienMTShop\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\ITShop\ITShop\LinhKienMTShop\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\ITShop\ITShop\LinhKienMTShop\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ITShop\ITShop\LinhKienMTShop\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ITShop\ITShop\LinhKienMTShop\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ITShop\ITShop\LinhKienMTShop\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ITShop\ITShop\LinhKienMTShop\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ITShop\ITShop\LinhKienMTShop\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ITShop\ITShop\LinhKienMTShop\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ITShop\ITShop\LinhKienMTShop\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ITShop\ITShop\LinhKienMTShop\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ITShop\ITShop\LinhKienMTShop\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ITShop\ITShop\LinhKienMTShop\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ITShop\ITShop\LinhKienMTShop\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ITShop\ITShop\LinhKienMTShop\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ITShop\ITShop\LinhKienMTShop\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\ITShop\ITShop\LinhKienMTShop\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\ITShop\ITShop\LinhKienMTShop\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\ITShop\ITShop\LinhKienMTShop\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\ITShop\ITShop\LinhKienMTShop\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\ITShop\ITShop\LinhKienMTShop\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\ITShop\ITShop\LinhKienMTShop\bin\Debug\net8.0\runtimes\win\lib\net7.0\Microsoft.Win32.SystemEvents.dll
+D:\ITShop\ITShop\LinhKienMTShop\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Drawing.Common.dll
+D:\ITShop\ITShop\LinhKienMTShop\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\ITShop\ITShop\LinhKienMTShop\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Security.Cryptography.ProtectedData.dll
+D:\ITShop\ITShop\LinhKienMTShop\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Windows.Extensions.dll
+D:\ITShop\ITShop\LinhKienMTShop\obj\Debug\net8.0\LinhKienMTShop.csproj.AssemblyReference.cache
+D:\ITShop\ITShop\LinhKienMTShop\obj\Debug\net8.0\LinhKienMTShop.GeneratedMSBuildEditorConfig.editorconfig
+D:\ITShop\ITShop\LinhKienMTShop\obj\Debug\net8.0\LinhKienMTShop.AssemblyInfoInputs.cache
+D:\ITShop\ITShop\LinhKienMTShop\obj\Debug\net8.0\LinhKienMTShop.AssemblyInfo.cs
+D:\ITShop\ITShop\LinhKienMTShop\obj\Debug\net8.0\LinhKienMTShop.csproj.CoreCompileInputs.cache
+D:\ITShop\ITShop\LinhKienMTShop\obj\Debug\net8.0\LinhKienMTShop.MvcApplicationPartsAssemblyInfo.cache
+D:\ITShop\ITShop\LinhKienMTShop\obj\Debug\net8.0\LinhKienMTShop.RazorAssemblyInfo.cache
+D:\ITShop\ITShop\LinhKienMTShop\obj\Debug\net8.0\LinhKienMTShop.RazorAssemblyInfo.cs
+D:\ITShop\ITShop\LinhKienMTShop\obj\Debug\net8.0\scopedcss\Areas\Admin\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\ITShop\ITShop\LinhKienMTShop\obj\Debug\net8.0\scopedcss\Views\KhachHang\DatHang.cshtml.rz.scp.css
+D:\ITShop\ITShop\LinhKienMTShop\obj\Debug\net8.0\scopedcss\Views\KhachHang\Index.cshtml.rz.scp.css
+D:\ITShop\ITShop\LinhKienMTShop\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\ITShop\ITShop\LinhKienMTShop\obj\Debug\net8.0\scopedcss\bundle\LinhKienMTShop.styles.css
+D:\ITShop\ITShop\LinhKienMTShop\obj\Debug\net8.0\scopedcss\projectbundle\LinhKienMTShop.bundle.scp.css
+D:\ITShop\ITShop\LinhKienMTShop\obj\Debug\net8.0\staticwebassets.build.json
+D:\ITShop\ITShop\LinhKienMTShop\obj\Debug\net8.0\staticwebassets.development.json
+D:\ITShop\ITShop\LinhKienMTShop\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+D:\ITShop\ITShop\LinhKienMTShop\obj\Debug\net8.0\staticwebassets\msbuild.LinhKienMTShop.Microsoft.AspNetCore.StaticWebAssets.props
+D:\ITShop\ITShop\LinhKienMTShop\obj\Debug\net8.0\staticwebassets\msbuild.LinhKienMTShop.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+D:\ITShop\ITShop\LinhKienMTShop\obj\Debug\net8.0\staticwebassets\msbuild.build.LinhKienMTShop.props
+D:\ITShop\ITShop\LinhKienMTShop\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.LinhKienMTShop.props
+D:\ITShop\ITShop\LinhKienMTShop\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.LinhKienMTShop.props
+D:\ITShop\ITShop\LinhKienMTShop\obj\Debug\net8.0\staticwebassets.pack.json
+D:\ITShop\ITShop\LinhKienMTShop\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+D:\ITShop\ITShop\LinhKienMTShop\obj\Debug\net8.0\LinhKien.2E6FF21B.Up2Date
+D:\ITShop\ITShop\LinhKienMTShop\obj\Debug\net8.0\LinhKienMTShop.dll
+D:\ITShop\ITShop\LinhKienMTShop\obj\Debug\net8.0\refint\LinhKienMTShop.dll
+D:\ITShop\ITShop\LinhKienMTShop\obj\Debug\net8.0\LinhKienMTShop.pdb
+D:\ITShop\ITShop\LinhKienMTShop\obj\Debug\net8.0\LinhKienMTShop.genruntimeconfig.cache
+D:\ITShop\ITShop\LinhKienMTShop\obj\Debug\net8.0\ref\LinhKienMTShop.dll
+D:\ITShop\LinhKienMTShop\LinhKienMTShop\bin\Debug\net8.0\appsettings.Development.json
+D:\ITShop\LinhKienMTShop\LinhKienMTShop\bin\Debug\net8.0\appsettings.json
+D:\ITShop\LinhKienMTShop\LinhKienMTShop\bin\Debug\net8.0\libman.json
+D:\ITShop\LinhKienMTShop\LinhKienMTShop\bin\Debug\net8.0\LinhKienMTShop.staticwebassets.endpoints.json
+D:\ITShop\LinhKienMTShop\LinhKienMTShop\bin\Debug\net8.0\LinhKienMTShop.staticwebassets.runtime.json
+D:\ITShop\LinhKienMTShop\LinhKienMTShop\bin\Debug\net8.0\LinhKienMTShop.exe
+D:\ITShop\LinhKienMTShop\LinhKienMTShop\bin\Debug\net8.0\LinhKienMTShop.deps.json
+D:\ITShop\LinhKienMTShop\LinhKienMTShop\bin\Debug\net8.0\LinhKienMTShop.runtimeconfig.json
+D:\ITShop\LinhKienMTShop\LinhKienMTShop\bin\Debug\net8.0\LinhKienMTShop.dll
+D:\ITShop\LinhKienMTShop\LinhKienMTShop\bin\Debug\net8.0\LinhKienMTShop.pdb
+D:\ITShop\LinhKienMTShop\LinhKienMTShop\bin\Debug\net8.0\Azure.Core.dll
+D:\ITShop\LinhKienMTShop\LinhKienMTShop\bin\Debug\net8.0\Azure.Identity.dll
+D:\ITShop\LinhKienMTShop\LinhKienMTShop\bin\Debug\net8.0\BCrypt.Net-Next.dll
+D:\ITShop\LinhKienMTShop\LinhKienMTShop\bin\Debug\net8.0\BouncyCastle.Cryptography.dll
+D:\ITShop\LinhKienMTShop\LinhKienMTShop\bin\Debug\net8.0\Humanizer.dll
+D:\ITShop\LinhKienMTShop\LinhKienMTShop\bin\Debug\net8.0\MailKit.dll
+D:\ITShop\LinhKienMTShop\LinhKienMTShop\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.Google.dll
+D:\ITShop\LinhKienMTShop\LinhKienMTShop\bin\Debug\net8.0\Microsoft.AspNetCore.Authorization.dll
+D:\ITShop\LinhKienMTShop\LinhKienMTShop\bin\Debug\net8.0\Microsoft.AspNetCore.Components.dll
+D:\ITShop\LinhKienMTShop\LinhKienMTShop\bin\Debug\net8.0\Microsoft.AspNetCore.Components.Forms.dll
+D:\ITShop\LinhKienMTShop\LinhKienMTShop\bin\Debug\net8.0\Microsoft.AspNetCore.Components.QuickGrid.dll
+D:\ITShop\LinhKienMTShop\LinhKienMTShop\bin\Debug\net8.0\Microsoft.AspNetCore.Components.QuickGrid.EntityFrameworkAdapter.dll
+D:\ITShop\LinhKienMTShop\LinhKienMTShop\bin\Debug\net8.0\Microsoft.AspNetCore.Components.Web.dll
+D:\ITShop\LinhKienMTShop\LinhKienMTShop\bin\Debug\net8.0\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+D:\ITShop\LinhKienMTShop\LinhKienMTShop\bin\Debug\net8.0\Microsoft.AspNetCore.Metadata.dll
+D:\ITShop\LinhKienMTShop\LinhKienMTShop\bin\Debug\net8.0\Microsoft.AspNetCore.Razor.Language.dll
+D:\ITShop\LinhKienMTShop\LinhKienMTShop\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\ITShop\LinhKienMTShop\LinhKienMTShop\bin\Debug\net8.0\Microsoft.Build.dll
+D:\ITShop\LinhKienMTShop\LinhKienMTShop\bin\Debug\net8.0\Microsoft.Build.Framework.dll
+D:\ITShop\LinhKienMTShop\LinhKienMTShop\bin\Debug\net8.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+D:\ITShop\LinhKienMTShop\LinhKienMTShop\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+D:\ITShop\LinhKienMTShop\LinhKienMTShop\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\ITShop\LinhKienMTShop\LinhKienMTShop\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+D:\ITShop\LinhKienMTShop\LinhKienMTShop\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\ITShop\LinhKienMTShop\LinhKienMTShop\bin\Debug\net8.0\Microsoft.CodeAnalysis.Elfie.dll
+D:\ITShop\LinhKienMTShop\LinhKienMTShop\bin\Debug\net8.0\Microsoft.CodeAnalysis.Features.dll
+D:\ITShop\LinhKienMTShop\LinhKienMTShop\bin\Debug\net8.0\Microsoft.CodeAnalysis.Razor.dll
+D:\ITShop\LinhKienMTShop\LinhKienMTShop\bin\Debug\net8.0\Microsoft.CodeAnalysis.Scripting.dll
+D:\ITShop\LinhKienMTShop\LinhKienMTShop\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\ITShop\LinhKienMTShop\LinhKienMTShop\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+D:\ITShop\LinhKienMTShop\LinhKienMTShop\bin\Debug\net8.0\Microsoft.DiaSymReader.dll
+D:\ITShop\LinhKienMTShop\LinhKienMTShop\bin\Debug\net8.0\Microsoft.DotNet.Scaffolding.Shared.dll
+D:\ITShop\LinhKienMTShop\LinhKienMTShop\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+D:\ITShop\LinhKienMTShop\LinhKienMTShop\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\ITShop\LinhKienMTShop\LinhKienMTShop\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\ITShop\LinhKienMTShop\LinhKienMTShop\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\ITShop\LinhKienMTShop\LinhKienMTShop\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\ITShop\LinhKienMTShop\LinhKienMTShop\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+D:\ITShop\LinhKienMTShop\LinhKienMTShop\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+D:\ITShop\LinhKienMTShop\LinhKienMTShop\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\ITShop\LinhKienMTShop\LinhKienMTShop\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+D:\ITShop\LinhKienMTShop\LinhKienMTShop\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+D:\ITShop\LinhKienMTShop\LinhKienMTShop\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\ITShop\LinhKienMTShop\LinhKienMTShop\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+D:\ITShop\LinhKienMTShop\LinhKienMTShop\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+D:\ITShop\LinhKienMTShop\LinhKienMTShop\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\ITShop\LinhKienMTShop\LinhKienMTShop\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+D:\ITShop\LinhKienMTShop\LinhKienMTShop\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\ITShop\LinhKienMTShop\LinhKienMTShop\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+D:\ITShop\LinhKienMTShop\LinhKienMTShop\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+D:\ITShop\LinhKienMTShop\LinhKienMTShop\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\ITShop\LinhKienMTShop\LinhKienMTShop\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+D:\ITShop\LinhKienMTShop\LinhKienMTShop\bin\Debug\net8.0\Microsoft.JSInterop.dll
+D:\ITShop\LinhKienMTShop\LinhKienMTShop\bin\Debug\net8.0\Microsoft.NET.StringTools.dll
+D:\ITShop\LinhKienMTShop\LinhKienMTShop\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+D:\ITShop\LinhKienMTShop\LinhKienMTShop\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\ITShop\LinhKienMTShop\LinhKienMTShop\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\ITShop\LinhKienMTShop\LinhKienMTShop\bin\Debug\net8.0\dotnet-aspnet-codegenerator-design.dll
+D:\ITShop\LinhKienMTShop\LinhKienMTShop\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\ITShop\LinhKienMTShop\LinhKienMTShop\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\ITShop\LinhKienMTShop\LinhKienMTShop\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\ITShop\LinhKienMTShop\LinhKienMTShop\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\ITShop\LinhKienMTShop\LinhKienMTShop\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+D:\ITShop\LinhKienMTShop\LinhKienMTShop\bin\Debug\net8.0\MimeKit.dll
+D:\ITShop\LinhKienMTShop\LinhKienMTShop\bin\Debug\net8.0\Mono.TextTemplating.dll
+D:\ITShop\LinhKienMTShop\LinhKienMTShop\bin\Debug\net8.0\Newtonsoft.Json.dll
+D:\ITShop\LinhKienMTShop\LinhKienMTShop\bin\Debug\net8.0\NuGet.Common.dll
+D:\ITShop\LinhKienMTShop\LinhKienMTShop\bin\Debug\net8.0\NuGet.Configuration.dll
+D:\ITShop\LinhKienMTShop\LinhKienMTShop\bin\Debug\net8.0\NuGet.DependencyResolver.Core.dll
+D:\ITShop\LinhKienMTShop\LinhKienMTShop\bin\Debug\net8.0\NuGet.Frameworks.dll
+D:\ITShop\LinhKienMTShop\LinhKienMTShop\bin\Debug\net8.0\NuGet.LibraryModel.dll
+D:\ITShop\LinhKienMTShop\LinhKienMTShop\bin\Debug\net8.0\NuGet.Packaging.dll
+D:\ITShop\LinhKienMTShop\LinhKienMTShop\bin\Debug\net8.0\NuGet.ProjectModel.dll
+D:\ITShop\LinhKienMTShop\LinhKienMTShop\bin\Debug\net8.0\NuGet.Protocol.dll
+D:\ITShop\LinhKienMTShop\LinhKienMTShop\bin\Debug\net8.0\NuGet.Versioning.dll
+D:\ITShop\LinhKienMTShop\LinhKienMTShop\bin\Debug\net8.0\SlugGenerator.dll
+D:\ITShop\LinhKienMTShop\LinhKienMTShop\bin\Debug\net8.0\System.CodeDom.dll
+D:\ITShop\LinhKienMTShop\LinhKienMTShop\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+D:\ITShop\LinhKienMTShop\LinhKienMTShop\bin\Debug\net8.0\System.Composition.Convention.dll
+D:\ITShop\LinhKienMTShop\LinhKienMTShop\bin\Debug\net8.0\System.Composition.Hosting.dll
+D:\ITShop\LinhKienMTShop\LinhKienMTShop\bin\Debug\net8.0\System.Composition.Runtime.dll
+D:\ITShop\LinhKienMTShop\LinhKienMTShop\bin\Debug\net8.0\System.Composition.TypedParts.dll
+D:\ITShop\LinhKienMTShop\LinhKienMTShop\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+D:\ITShop\LinhKienMTShop\LinhKienMTShop\bin\Debug\net8.0\System.Drawing.Common.dll
+D:\ITShop\LinhKienMTShop\LinhKienMTShop\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+D:\ITShop\LinhKienMTShop\LinhKienMTShop\bin\Debug\net8.0\System.Linq.Dynamic.Core.dll
+D:\ITShop\LinhKienMTShop\LinhKienMTShop\bin\Debug\net8.0\System.Memory.Data.dll
+D:\ITShop\LinhKienMTShop\LinhKienMTShop\bin\Debug\net8.0\System.Reflection.MetadataLoadContext.dll
+D:\ITShop\LinhKienMTShop\LinhKienMTShop\bin\Debug\net8.0\System.Runtime.Caching.dll
+D:\ITShop\LinhKienMTShop\LinhKienMTShop\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+D:\ITShop\LinhKienMTShop\LinhKienMTShop\bin\Debug\net8.0\System.Security.Permissions.dll
+D:\ITShop\LinhKienMTShop\LinhKienMTShop\bin\Debug\net8.0\System.Windows.Extensions.dll
+D:\ITShop\LinhKienMTShop\LinhKienMTShop\bin\Debug\net8.0\af\Humanizer.resources.dll
+D:\ITShop\LinhKienMTShop\LinhKienMTShop\bin\Debug\net8.0\ar\Humanizer.resources.dll
+D:\ITShop\LinhKienMTShop\LinhKienMTShop\bin\Debug\net8.0\az\Humanizer.resources.dll
+D:\ITShop\LinhKienMTShop\LinhKienMTShop\bin\Debug\net8.0\bg\Humanizer.resources.dll
+D:\ITShop\LinhKienMTShop\LinhKienMTShop\bin\Debug\net8.0\bn-BD\Humanizer.resources.dll
+D:\ITShop\LinhKienMTShop\LinhKienMTShop\bin\Debug\net8.0\cs\Humanizer.resources.dll
+D:\ITShop\LinhKienMTShop\LinhKienMTShop\bin\Debug\net8.0\da\Humanizer.resources.dll
+D:\ITShop\LinhKienMTShop\LinhKienMTShop\bin\Debug\net8.0\de\Humanizer.resources.dll
+D:\ITShop\LinhKienMTShop\LinhKienMTShop\bin\Debug\net8.0\el\Humanizer.resources.dll
+D:\ITShop\LinhKienMTShop\LinhKienMTShop\bin\Debug\net8.0\es\Humanizer.resources.dll
+D:\ITShop\LinhKienMTShop\LinhKienMTShop\bin\Debug\net8.0\fa\Humanizer.resources.dll
+D:\ITShop\LinhKienMTShop\LinhKienMTShop\bin\Debug\net8.0\fi-FI\Humanizer.resources.dll
+D:\ITShop\LinhKienMTShop\LinhKienMTShop\bin\Debug\net8.0\fr\Humanizer.resources.dll
+D:\ITShop\LinhKienMTShop\LinhKienMTShop\bin\Debug\net8.0\fr-BE\Humanizer.resources.dll
+D:\ITShop\LinhKienMTShop\LinhKienMTShop\bin\Debug\net8.0\he\Humanizer.resources.dll
+D:\ITShop\LinhKienMTShop\LinhKienMTShop\bin\Debug\net8.0\hr\Humanizer.resources.dll
+D:\ITShop\LinhKienMTShop\LinhKienMTShop\bin\Debug\net8.0\hu\Humanizer.resources.dll
+D:\ITShop\LinhKienMTShop\LinhKienMTShop\bin\Debug\net8.0\hy\Humanizer.resources.dll
+D:\ITShop\LinhKienMTShop\LinhKienMTShop\bin\Debug\net8.0\id\Humanizer.resources.dll
+D:\ITShop\LinhKienMTShop\LinhKienMTShop\bin\Debug\net8.0\is\Humanizer.resources.dll
+D:\ITShop\LinhKienMTShop\LinhKienMTShop\bin\Debug\net8.0\it\Humanizer.resources.dll
+D:\ITShop\LinhKienMTShop\LinhKienMTShop\bin\Debug\net8.0\ja\Humanizer.resources.dll
+D:\ITShop\LinhKienMTShop\LinhKienMTShop\bin\Debug\net8.0\ko-KR\Humanizer.resources.dll
+D:\ITShop\LinhKienMTShop\LinhKienMTShop\bin\Debug\net8.0\ku\Humanizer.resources.dll
+D:\ITShop\LinhKienMTShop\LinhKienMTShop\bin\Debug\net8.0\lv\Humanizer.resources.dll
+D:\ITShop\LinhKienMTShop\LinhKienMTShop\bin\Debug\net8.0\ms-MY\Humanizer.resources.dll
+D:\ITShop\LinhKienMTShop\LinhKienMTShop\bin\Debug\net8.0\mt\Humanizer.resources.dll
+D:\ITShop\LinhKienMTShop\LinhKienMTShop\bin\Debug\net8.0\nb\Humanizer.resources.dll
+D:\ITShop\LinhKienMTShop\LinhKienMTShop\bin\Debug\net8.0\nb-NO\Humanizer.resources.dll
+D:\ITShop\LinhKienMTShop\LinhKienMTShop\bin\Debug\net8.0\nl\Humanizer.resources.dll
+D:\ITShop\LinhKienMTShop\LinhKienMTShop\bin\Debug\net8.0\pl\Humanizer.resources.dll
+D:\ITShop\LinhKienMTShop\LinhKienMTShop\bin\Debug\net8.0\pt\Humanizer.resources.dll
+D:\ITShop\LinhKienMTShop\LinhKienMTShop\bin\Debug\net8.0\ro\Humanizer.resources.dll
+D:\ITShop\LinhKienMTShop\LinhKienMTShop\bin\Debug\net8.0\ru\Humanizer.resources.dll
+D:\ITShop\LinhKienMTShop\LinhKienMTShop\bin\Debug\net8.0\sk\Humanizer.resources.dll
+D:\ITShop\LinhKienMTShop\LinhKienMTShop\bin\Debug\net8.0\sl\Humanizer.resources.dll
+D:\ITShop\LinhKienMTShop\LinhKienMTShop\bin\Debug\net8.0\sr\Humanizer.resources.dll
+D:\ITShop\LinhKienMTShop\LinhKienMTShop\bin\Debug\net8.0\sr-Latn\Humanizer.resources.dll
+D:\ITShop\LinhKienMTShop\LinhKienMTShop\bin\Debug\net8.0\sv\Humanizer.resources.dll
+D:\ITShop\LinhKienMTShop\LinhKienMTShop\bin\Debug\net8.0\th-TH\Humanizer.resources.dll
+D:\ITShop\LinhKienMTShop\LinhKienMTShop\bin\Debug\net8.0\tr\Humanizer.resources.dll
+D:\ITShop\LinhKienMTShop\LinhKienMTShop\bin\Debug\net8.0\uk\Humanizer.resources.dll
+D:\ITShop\LinhKienMTShop\LinhKienMTShop\bin\Debug\net8.0\uz-Cyrl-UZ\Humanizer.resources.dll
+D:\ITShop\LinhKienMTShop\LinhKienMTShop\bin\Debug\net8.0\uz-Latn-UZ\Humanizer.resources.dll
+D:\ITShop\LinhKienMTShop\LinhKienMTShop\bin\Debug\net8.0\vi\Humanizer.resources.dll
+D:\ITShop\LinhKienMTShop\LinhKienMTShop\bin\Debug\net8.0\zh-CN\Humanizer.resources.dll
+D:\ITShop\LinhKienMTShop\LinhKienMTShop\bin\Debug\net8.0\zh-Hans\Humanizer.resources.dll
+D:\ITShop\LinhKienMTShop\LinhKienMTShop\bin\Debug\net8.0\zh-Hant\Humanizer.resources.dll
+D:\ITShop\LinhKienMTShop\LinhKienMTShop\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\ITShop\LinhKienMTShop\LinhKienMTShop\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\ITShop\LinhKienMTShop\LinhKienMTShop\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\ITShop\LinhKienMTShop\LinhKienMTShop\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\ITShop\LinhKienMTShop\LinhKienMTShop\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\ITShop\LinhKienMTShop\LinhKienMTShop\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\ITShop\LinhKienMTShop\LinhKienMTShop\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\ITShop\LinhKienMTShop\LinhKienMTShop\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\ITShop\LinhKienMTShop\LinhKienMTShop\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\ITShop\LinhKienMTShop\LinhKienMTShop\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\ITShop\LinhKienMTShop\LinhKienMTShop\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\ITShop\LinhKienMTShop\LinhKienMTShop\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\ITShop\LinhKienMTShop\LinhKienMTShop\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\ITShop\LinhKienMTShop\LinhKienMTShop\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ITShop\LinhKienMTShop\LinhKienMTShop\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ITShop\LinhKienMTShop\LinhKienMTShop\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ITShop\LinhKienMTShop\LinhKienMTShop\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ITShop\LinhKienMTShop\LinhKienMTShop\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ITShop\LinhKienMTShop\LinhKienMTShop\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ITShop\LinhKienMTShop\LinhKienMTShop\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ITShop\LinhKienMTShop\LinhKienMTShop\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ITShop\LinhKienMTShop\LinhKienMTShop\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ITShop\LinhKienMTShop\LinhKienMTShop\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ITShop\LinhKienMTShop\LinhKienMTShop\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ITShop\LinhKienMTShop\LinhKienMTShop\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ITShop\LinhKienMTShop\LinhKienMTShop\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ITShop\LinhKienMTShop\LinhKienMTShop\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\ITShop\LinhKienMTShop\LinhKienMTShop\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\ITShop\LinhKienMTShop\LinhKienMTShop\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\ITShop\LinhKienMTShop\LinhKienMTShop\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\ITShop\LinhKienMTShop\LinhKienMTShop\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\ITShop\LinhKienMTShop\LinhKienMTShop\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\ITShop\LinhKienMTShop\LinhKienMTShop\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\ITShop\LinhKienMTShop\LinhKienMTShop\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\ITShop\LinhKienMTShop\LinhKienMTShop\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\ITShop\LinhKienMTShop\LinhKienMTShop\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\ITShop\LinhKienMTShop\LinhKienMTShop\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\ITShop\LinhKienMTShop\LinhKienMTShop\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\ITShop\LinhKienMTShop\LinhKienMTShop\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\ITShop\LinhKienMTShop\LinhKienMTShop\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ITShop\LinhKienMTShop\LinhKienMTShop\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ITShop\LinhKienMTShop\LinhKienMTShop\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ITShop\LinhKienMTShop\LinhKienMTShop\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ITShop\LinhKienMTShop\LinhKienMTShop\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ITShop\LinhKienMTShop\LinhKienMTShop\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ITShop\LinhKienMTShop\LinhKienMTShop\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ITShop\LinhKienMTShop\LinhKienMTShop\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ITShop\LinhKienMTShop\LinhKienMTShop\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ITShop\LinhKienMTShop\LinhKienMTShop\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ITShop\LinhKienMTShop\LinhKienMTShop\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ITShop\LinhKienMTShop\LinhKienMTShop\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ITShop\LinhKienMTShop\LinhKienMTShop\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ITShop\LinhKienMTShop\LinhKienMTShop\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+D:\ITShop\LinhKienMTShop\LinhKienMTShop\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+D:\ITShop\LinhKienMTShop\LinhKienMTShop\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+D:\ITShop\LinhKienMTShop\LinhKienMTShop\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+D:\ITShop\LinhKienMTShop\LinhKienMTShop\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+D:\ITShop\LinhKienMTShop\LinhKienMTShop\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+D:\ITShop\LinhKienMTShop\LinhKienMTShop\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+D:\ITShop\LinhKienMTShop\LinhKienMTShop\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+D:\ITShop\LinhKienMTShop\LinhKienMTShop\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+D:\ITShop\LinhKienMTShop\LinhKienMTShop\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+D:\ITShop\LinhKienMTShop\LinhKienMTShop\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+D:\ITShop\LinhKienMTShop\LinhKienMTShop\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+D:\ITShop\LinhKienMTShop\LinhKienMTShop\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+D:\ITShop\LinhKienMTShop\LinhKienMTShop\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\ITShop\LinhKienMTShop\LinhKienMTShop\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\ITShop\LinhKienMTShop\LinhKienMTShop\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\ITShop\LinhKienMTShop\LinhKienMTShop\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\ITShop\LinhKienMTShop\LinhKienMTShop\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\ITShop\LinhKienMTShop\LinhKienMTShop\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\ITShop\LinhKienMTShop\LinhKienMTShop\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\ITShop\LinhKienMTShop\LinhKienMTShop\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\ITShop\LinhKienMTShop\LinhKienMTShop\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\ITShop\LinhKienMTShop\LinhKienMTShop\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\ITShop\LinhKienMTShop\LinhKienMTShop\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\ITShop\LinhKienMTShop\LinhKienMTShop\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\ITShop\LinhKienMTShop\LinhKienMTShop\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\ITShop\LinhKienMTShop\LinhKienMTShop\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ITShop\LinhKienMTShop\LinhKienMTShop\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ITShop\LinhKienMTShop\LinhKienMTShop\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ITShop\LinhKienMTShop\LinhKienMTShop\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ITShop\LinhKienMTShop\LinhKienMTShop\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ITShop\LinhKienMTShop\LinhKienMTShop\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ITShop\LinhKienMTShop\LinhKienMTShop\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ITShop\LinhKienMTShop\LinhKienMTShop\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ITShop\LinhKienMTShop\LinhKienMTShop\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ITShop\LinhKienMTShop\LinhKienMTShop\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ITShop\LinhKienMTShop\LinhKienMTShop\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ITShop\LinhKienMTShop\LinhKienMTShop\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ITShop\LinhKienMTShop\LinhKienMTShop\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ITShop\LinhKienMTShop\LinhKienMTShop\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\ITShop\LinhKienMTShop\LinhKienMTShop\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\ITShop\LinhKienMTShop\LinhKienMTShop\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\ITShop\LinhKienMTShop\LinhKienMTShop\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\ITShop\LinhKienMTShop\LinhKienMTShop\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\ITShop\LinhKienMTShop\LinhKienMTShop\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\ITShop\LinhKienMTShop\LinhKienMTShop\bin\Debug\net8.0\runtimes\win\lib\net7.0\Microsoft.Win32.SystemEvents.dll
+D:\ITShop\LinhKienMTShop\LinhKienMTShop\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Drawing.Common.dll
+D:\ITShop\LinhKienMTShop\LinhKienMTShop\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\ITShop\LinhKienMTShop\LinhKienMTShop\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Security.Cryptography.ProtectedData.dll
+D:\ITShop\LinhKienMTShop\LinhKienMTShop\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Windows.Extensions.dll
+D:\ITShop\LinhKienMTShop\LinhKienMTShop\obj\Debug\net8.0\LinhKienMTShop.csproj.AssemblyReference.cache
+D:\ITShop\LinhKienMTShop\LinhKienMTShop\obj\Debug\net8.0\LinhKienMTShop.GeneratedMSBuildEditorConfig.editorconfig
+D:\ITShop\LinhKienMTShop\LinhKienMTShop\obj\Debug\net8.0\LinhKienMTShop.AssemblyInfoInputs.cache
+D:\ITShop\LinhKienMTShop\LinhKienMTShop\obj\Debug\net8.0\LinhKienMTShop.AssemblyInfo.cs
+D:\ITShop\LinhKienMTShop\LinhKienMTShop\obj\Debug\net8.0\LinhKienMTShop.csproj.CoreCompileInputs.cache
+D:\ITShop\LinhKienMTShop\LinhKienMTShop\obj\Debug\net8.0\LinhKienMTShop.MvcApplicationPartsAssemblyInfo.cache
+D:\ITShop\LinhKienMTShop\LinhKienMTShop\obj\Debug\net8.0\LinhKienMTShop.RazorAssemblyInfo.cache
+D:\ITShop\LinhKienMTShop\LinhKienMTShop\obj\Debug\net8.0\LinhKienMTShop.RazorAssemblyInfo.cs
+D:\ITShop\LinhKienMTShop\LinhKienMTShop\obj\Debug\net8.0\scopedcss\Areas\Admin\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\ITShop\LinhKienMTShop\LinhKienMTShop\obj\Debug\net8.0\scopedcss\Views\KhachHang\DatHang.cshtml.rz.scp.css
+D:\ITShop\LinhKienMTShop\LinhKienMTShop\obj\Debug\net8.0\scopedcss\Views\KhachHang\Index.cshtml.rz.scp.css
+D:\ITShop\LinhKienMTShop\LinhKienMTShop\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\ITShop\LinhKienMTShop\LinhKienMTShop\obj\Debug\net8.0\scopedcss\bundle\LinhKienMTShop.styles.css
+D:\ITShop\LinhKienMTShop\LinhKienMTShop\obj\Debug\net8.0\scopedcss\projectbundle\LinhKienMTShop.bundle.scp.css
+D:\ITShop\LinhKienMTShop\LinhKienMTShop\obj\Debug\net8.0\staticwebassets.build.json
+D:\ITShop\LinhKienMTShop\LinhKienMTShop\obj\Debug\net8.0\staticwebassets.development.json
+D:\ITShop\LinhKienMTShop\LinhKienMTShop\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+D:\ITShop\LinhKienMTShop\LinhKienMTShop\obj\Debug\net8.0\staticwebassets\msbuild.LinhKienMTShop.Microsoft.AspNetCore.StaticWebAssets.props
+D:\ITShop\LinhKienMTShop\LinhKienMTShop\obj\Debug\net8.0\staticwebassets\msbuild.LinhKienMTShop.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+D:\ITShop\LinhKienMTShop\LinhKienMTShop\obj\Debug\net8.0\staticwebassets\msbuild.build.LinhKienMTShop.props
+D:\ITShop\LinhKienMTShop\LinhKienMTShop\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.LinhKienMTShop.props
+D:\ITShop\LinhKienMTShop\LinhKienMTShop\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.LinhKienMTShop.props
+D:\ITShop\LinhKienMTShop\LinhKienMTShop\obj\Debug\net8.0\staticwebassets.pack.json
+D:\ITShop\LinhKienMTShop\LinhKienMTShop\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+D:\ITShop\LinhKienMTShop\LinhKienMTShop\obj\Debug\net8.0\LinhKien.2E6FF21B.Up2Date
+D:\ITShop\LinhKienMTShop\LinhKienMTShop\obj\Debug\net8.0\LinhKienMTShop.dll
+D:\ITShop\LinhKienMTShop\LinhKienMTShop\obj\Debug\net8.0\refint\LinhKienMTShop.dll
+D:\ITShop\LinhKienMTShop\LinhKienMTShop\obj\Debug\net8.0\LinhKienMTShop.pdb
+D:\ITShop\LinhKienMTShop\LinhKienMTShop\obj\Debug\net8.0\LinhKienMTShop.genruntimeconfig.cache
+D:\ITShop\LinhKienMTShop\LinhKienMTShop\obj\Debug\net8.0\ref\LinhKienMTShop.dll
+C:\Data D\Data\TaiLieuDaiHoc\LapTrinh\ASP.Net\DoAn\LinhKienMTShop\LinhKienMTShop\LinhKienMTShop\bin\Debug\net8.0\appsettings.Development.json
+C:\Data D\Data\TaiLieuDaiHoc\LapTrinh\ASP.Net\DoAn\LinhKienMTShop\LinhKienMTShop\LinhKienMTShop\bin\Debug\net8.0\appsettings.json
+C:\Data D\Data\TaiLieuDaiHoc\LapTrinh\ASP.Net\DoAn\LinhKienMTShop\LinhKienMTShop\LinhKienMTShop\bin\Debug\net8.0\libman.json
+C:\Data D\Data\TaiLieuDaiHoc\LapTrinh\ASP.Net\DoAn\LinhKienMTShop\LinhKienMTShop\LinhKienMTShop\bin\Debug\net8.0\LinhKienMTShop.staticwebassets.runtime.json
+C:\Data D\Data\TaiLieuDaiHoc\LapTrinh\ASP.Net\DoAn\LinhKienMTShop\LinhKienMTShop\LinhKienMTShop\bin\Debug\net8.0\LinhKienMTShop.exe
+C:\Data D\Data\TaiLieuDaiHoc\LapTrinh\ASP.Net\DoAn\LinhKienMTShop\LinhKienMTShop\LinhKienMTShop\bin\Debug\net8.0\LinhKienMTShop.deps.json
+C:\Data D\Data\TaiLieuDaiHoc\LapTrinh\ASP.Net\DoAn\LinhKienMTShop\LinhKienMTShop\LinhKienMTShop\bin\Debug\net8.0\LinhKienMTShop.runtimeconfig.json
+C:\Data D\Data\TaiLieuDaiHoc\LapTrinh\ASP.Net\DoAn\LinhKienMTShop\LinhKienMTShop\LinhKienMTShop\bin\Debug\net8.0\LinhKienMTShop.dll
+C:\Data D\Data\TaiLieuDaiHoc\LapTrinh\ASP.Net\DoAn\LinhKienMTShop\LinhKienMTShop\LinhKienMTShop\bin\Debug\net8.0\LinhKienMTShop.pdb
+C:\Data D\Data\TaiLieuDaiHoc\LapTrinh\ASP.Net\DoAn\LinhKienMTShop\LinhKienMTShop\LinhKienMTShop\bin\Debug\net8.0\Azure.Core.dll
+C:\Data D\Data\TaiLieuDaiHoc\LapTrinh\ASP.Net\DoAn\LinhKienMTShop\LinhKienMTShop\LinhKienMTShop\bin\Debug\net8.0\Azure.Identity.dll
+C:\Data D\Data\TaiLieuDaiHoc\LapTrinh\ASP.Net\DoAn\LinhKienMTShop\LinhKienMTShop\LinhKienMTShop\bin\Debug\net8.0\BCrypt.Net-Next.dll
+C:\Data D\Data\TaiLieuDaiHoc\LapTrinh\ASP.Net\DoAn\LinhKienMTShop\LinhKienMTShop\LinhKienMTShop\bin\Debug\net8.0\BouncyCastle.Cryptography.dll
+C:\Data D\Data\TaiLieuDaiHoc\LapTrinh\ASP.Net\DoAn\LinhKienMTShop\LinhKienMTShop\LinhKienMTShop\bin\Debug\net8.0\Humanizer.dll
+C:\Data D\Data\TaiLieuDaiHoc\LapTrinh\ASP.Net\DoAn\LinhKienMTShop\LinhKienMTShop\LinhKienMTShop\bin\Debug\net8.0\MailKit.dll
+C:\Data D\Data\TaiLieuDaiHoc\LapTrinh\ASP.Net\DoAn\LinhKienMTShop\LinhKienMTShop\LinhKienMTShop\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.Google.dll
+C:\Data D\Data\TaiLieuDaiHoc\LapTrinh\ASP.Net\DoAn\LinhKienMTShop\LinhKienMTShop\LinhKienMTShop\bin\Debug\net8.0\Microsoft.AspNetCore.Authorization.dll
+C:\Data D\Data\TaiLieuDaiHoc\LapTrinh\ASP.Net\DoAn\LinhKienMTShop\LinhKienMTShop\LinhKienMTShop\bin\Debug\net8.0\Microsoft.AspNetCore.Components.dll
+C:\Data D\Data\TaiLieuDaiHoc\LapTrinh\ASP.Net\DoAn\LinhKienMTShop\LinhKienMTShop\LinhKienMTShop\bin\Debug\net8.0\Microsoft.AspNetCore.Components.Forms.dll
+C:\Data D\Data\TaiLieuDaiHoc\LapTrinh\ASP.Net\DoAn\LinhKienMTShop\LinhKienMTShop\LinhKienMTShop\bin\Debug\net8.0\Microsoft.AspNetCore.Components.QuickGrid.dll
+C:\Data D\Data\TaiLieuDaiHoc\LapTrinh\ASP.Net\DoAn\LinhKienMTShop\LinhKienMTShop\LinhKienMTShop\bin\Debug\net8.0\Microsoft.AspNetCore.Components.QuickGrid.EntityFrameworkAdapter.dll
+C:\Data D\Data\TaiLieuDaiHoc\LapTrinh\ASP.Net\DoAn\LinhKienMTShop\LinhKienMTShop\LinhKienMTShop\bin\Debug\net8.0\Microsoft.AspNetCore.Components.Web.dll
+C:\Data D\Data\TaiLieuDaiHoc\LapTrinh\ASP.Net\DoAn\LinhKienMTShop\LinhKienMTShop\LinhKienMTShop\bin\Debug\net8.0\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+C:\Data D\Data\TaiLieuDaiHoc\LapTrinh\ASP.Net\DoAn\LinhKienMTShop\LinhKienMTShop\LinhKienMTShop\bin\Debug\net8.0\Microsoft.AspNetCore.Metadata.dll
+C:\Data D\Data\TaiLieuDaiHoc\LapTrinh\ASP.Net\DoAn\LinhKienMTShop\LinhKienMTShop\LinhKienMTShop\bin\Debug\net8.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Data D\Data\TaiLieuDaiHoc\LapTrinh\ASP.Net\DoAn\LinhKienMTShop\LinhKienMTShop\LinhKienMTShop\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Data D\Data\TaiLieuDaiHoc\LapTrinh\ASP.Net\DoAn\LinhKienMTShop\LinhKienMTShop\LinhKienMTShop\bin\Debug\net8.0\Microsoft.Build.dll
+C:\Data D\Data\TaiLieuDaiHoc\LapTrinh\ASP.Net\DoAn\LinhKienMTShop\LinhKienMTShop\LinhKienMTShop\bin\Debug\net8.0\Microsoft.Build.Framework.dll
+C:\Data D\Data\TaiLieuDaiHoc\LapTrinh\ASP.Net\DoAn\LinhKienMTShop\LinhKienMTShop\LinhKienMTShop\bin\Debug\net8.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+C:\Data D\Data\TaiLieuDaiHoc\LapTrinh\ASP.Net\DoAn\LinhKienMTShop\LinhKienMTShop\LinhKienMTShop\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+C:\Data D\Data\TaiLieuDaiHoc\LapTrinh\ASP.Net\DoAn\LinhKienMTShop\LinhKienMTShop\LinhKienMTShop\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Data D\Data\TaiLieuDaiHoc\LapTrinh\ASP.Net\DoAn\LinhKienMTShop\LinhKienMTShop\LinhKienMTShop\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+C:\Data D\Data\TaiLieuDaiHoc\LapTrinh\ASP.Net\DoAn\LinhKienMTShop\LinhKienMTShop\LinhKienMTShop\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Data D\Data\TaiLieuDaiHoc\LapTrinh\ASP.Net\DoAn\LinhKienMTShop\LinhKienMTShop\LinhKienMTShop\bin\Debug\net8.0\Microsoft.CodeAnalysis.Elfie.dll
+C:\Data D\Data\TaiLieuDaiHoc\LapTrinh\ASP.Net\DoAn\LinhKienMTShop\LinhKienMTShop\LinhKienMTShop\bin\Debug\net8.0\Microsoft.CodeAnalysis.Features.dll
+C:\Data D\Data\TaiLieuDaiHoc\LapTrinh\ASP.Net\DoAn\LinhKienMTShop\LinhKienMTShop\LinhKienMTShop\bin\Debug\net8.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Data D\Data\TaiLieuDaiHoc\LapTrinh\ASP.Net\DoAn\LinhKienMTShop\LinhKienMTShop\LinhKienMTShop\bin\Debug\net8.0\Microsoft.CodeAnalysis.Scripting.dll
+C:\Data D\Data\TaiLieuDaiHoc\LapTrinh\ASP.Net\DoAn\LinhKienMTShop\LinhKienMTShop\LinhKienMTShop\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Data D\Data\TaiLieuDaiHoc\LapTrinh\ASP.Net\DoAn\LinhKienMTShop\LinhKienMTShop\LinhKienMTShop\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+C:\Data D\Data\TaiLieuDaiHoc\LapTrinh\ASP.Net\DoAn\LinhKienMTShop\LinhKienMTShop\LinhKienMTShop\bin\Debug\net8.0\Microsoft.DiaSymReader.dll
+C:\Data D\Data\TaiLieuDaiHoc\LapTrinh\ASP.Net\DoAn\LinhKienMTShop\LinhKienMTShop\LinhKienMTShop\bin\Debug\net8.0\Microsoft.DotNet.Scaffolding.Shared.dll
+C:\Data D\Data\TaiLieuDaiHoc\LapTrinh\ASP.Net\DoAn\LinhKienMTShop\LinhKienMTShop\LinhKienMTShop\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Data D\Data\TaiLieuDaiHoc\LapTrinh\ASP.Net\DoAn\LinhKienMTShop\LinhKienMTShop\LinhKienMTShop\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Data D\Data\TaiLieuDaiHoc\LapTrinh\ASP.Net\DoAn\LinhKienMTShop\LinhKienMTShop\LinhKienMTShop\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Data D\Data\TaiLieuDaiHoc\LapTrinh\ASP.Net\DoAn\LinhKienMTShop\LinhKienMTShop\LinhKienMTShop\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Data D\Data\TaiLieuDaiHoc\LapTrinh\ASP.Net\DoAn\LinhKienMTShop\LinhKienMTShop\LinhKienMTShop\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Data D\Data\TaiLieuDaiHoc\LapTrinh\ASP.Net\DoAn\LinhKienMTShop\LinhKienMTShop\LinhKienMTShop\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Data D\Data\TaiLieuDaiHoc\LapTrinh\ASP.Net\DoAn\LinhKienMTShop\LinhKienMTShop\LinhKienMTShop\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Data D\Data\TaiLieuDaiHoc\LapTrinh\ASP.Net\DoAn\LinhKienMTShop\LinhKienMTShop\LinhKienMTShop\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Data D\Data\TaiLieuDaiHoc\LapTrinh\ASP.Net\DoAn\LinhKienMTShop\LinhKienMTShop\LinhKienMTShop\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+C:\Data D\Data\TaiLieuDaiHoc\LapTrinh\ASP.Net\DoAn\LinhKienMTShop\LinhKienMTShop\LinhKienMTShop\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+C:\Data D\Data\TaiLieuDaiHoc\LapTrinh\ASP.Net\DoAn\LinhKienMTShop\LinhKienMTShop\LinhKienMTShop\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Data D\Data\TaiLieuDaiHoc\LapTrinh\ASP.Net\DoAn\LinhKienMTShop\LinhKienMTShop\LinhKienMTShop\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+C:\Data D\Data\TaiLieuDaiHoc\LapTrinh\ASP.Net\DoAn\LinhKienMTShop\LinhKienMTShop\LinhKienMTShop\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+C:\Data D\Data\TaiLieuDaiHoc\LapTrinh\ASP.Net\DoAn\LinhKienMTShop\LinhKienMTShop\LinhKienMTShop\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Data D\Data\TaiLieuDaiHoc\LapTrinh\ASP.Net\DoAn\LinhKienMTShop\LinhKienMTShop\LinhKienMTShop\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Data D\Data\TaiLieuDaiHoc\LapTrinh\ASP.Net\DoAn\LinhKienMTShop\LinhKienMTShop\LinhKienMTShop\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Data D\Data\TaiLieuDaiHoc\LapTrinh\ASP.Net\DoAn\LinhKienMTShop\LinhKienMTShop\LinhKienMTShop\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Data D\Data\TaiLieuDaiHoc\LapTrinh\ASP.Net\DoAn\LinhKienMTShop\LinhKienMTShop\LinhKienMTShop\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Data D\Data\TaiLieuDaiHoc\LapTrinh\ASP.Net\DoAn\LinhKienMTShop\LinhKienMTShop\LinhKienMTShop\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Data D\Data\TaiLieuDaiHoc\LapTrinh\ASP.Net\DoAn\LinhKienMTShop\LinhKienMTShop\LinhKienMTShop\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Data D\Data\TaiLieuDaiHoc\LapTrinh\ASP.Net\DoAn\LinhKienMTShop\LinhKienMTShop\LinhKienMTShop\bin\Debug\net8.0\Microsoft.JSInterop.dll
+C:\Data D\Data\TaiLieuDaiHoc\LapTrinh\ASP.Net\DoAn\LinhKienMTShop\LinhKienMTShop\LinhKienMTShop\bin\Debug\net8.0\Microsoft.NET.StringTools.dll
+C:\Data D\Data\TaiLieuDaiHoc\LapTrinh\ASP.Net\DoAn\LinhKienMTShop\LinhKienMTShop\LinhKienMTShop\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+C:\Data D\Data\TaiLieuDaiHoc\LapTrinh\ASP.Net\DoAn\LinhKienMTShop\LinhKienMTShop\LinhKienMTShop\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Data D\Data\TaiLieuDaiHoc\LapTrinh\ASP.Net\DoAn\LinhKienMTShop\LinhKienMTShop\LinhKienMTShop\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Data D\Data\TaiLieuDaiHoc\LapTrinh\ASP.Net\DoAn\LinhKienMTShop\LinhKienMTShop\LinhKienMTShop\bin\Debug\net8.0\dotnet-aspnet-codegenerator-design.dll
+C:\Data D\Data\TaiLieuDaiHoc\LapTrinh\ASP.Net\DoAn\LinhKienMTShop\LinhKienMTShop\LinhKienMTShop\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Data D\Data\TaiLieuDaiHoc\LapTrinh\ASP.Net\DoAn\LinhKienMTShop\LinhKienMTShop\LinhKienMTShop\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Data D\Data\TaiLieuDaiHoc\LapTrinh\ASP.Net\DoAn\LinhKienMTShop\LinhKienMTShop\LinhKienMTShop\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Data D\Data\TaiLieuDaiHoc\LapTrinh\ASP.Net\DoAn\LinhKienMTShop\LinhKienMTShop\LinhKienMTShop\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Data D\Data\TaiLieuDaiHoc\LapTrinh\ASP.Net\DoAn\LinhKienMTShop\LinhKienMTShop\LinhKienMTShop\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+C:\Data D\Data\TaiLieuDaiHoc\LapTrinh\ASP.Net\DoAn\LinhKienMTShop\LinhKienMTShop\LinhKienMTShop\bin\Debug\net8.0\MimeKit.dll
+C:\Data D\Data\TaiLieuDaiHoc\LapTrinh\ASP.Net\DoAn\LinhKienMTShop\LinhKienMTShop\LinhKienMTShop\bin\Debug\net8.0\Mono.TextTemplating.dll
+C:\Data D\Data\TaiLieuDaiHoc\LapTrinh\ASP.Net\DoAn\LinhKienMTShop\LinhKienMTShop\LinhKienMTShop\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Data D\Data\TaiLieuDaiHoc\LapTrinh\ASP.Net\DoAn\LinhKienMTShop\LinhKienMTShop\LinhKienMTShop\bin\Debug\net8.0\NuGet.Common.dll
+C:\Data D\Data\TaiLieuDaiHoc\LapTrinh\ASP.Net\DoAn\LinhKienMTShop\LinhKienMTShop\LinhKienMTShop\bin\Debug\net8.0\NuGet.Configuration.dll
+C:\Data D\Data\TaiLieuDaiHoc\LapTrinh\ASP.Net\DoAn\LinhKienMTShop\LinhKienMTShop\LinhKienMTShop\bin\Debug\net8.0\NuGet.DependencyResolver.Core.dll
+C:\Data D\Data\TaiLieuDaiHoc\LapTrinh\ASP.Net\DoAn\LinhKienMTShop\LinhKienMTShop\LinhKienMTShop\bin\Debug\net8.0\NuGet.Frameworks.dll
+C:\Data D\Data\TaiLieuDaiHoc\LapTrinh\ASP.Net\DoAn\LinhKienMTShop\LinhKienMTShop\LinhKienMTShop\bin\Debug\net8.0\NuGet.LibraryModel.dll
+C:\Data D\Data\TaiLieuDaiHoc\LapTrinh\ASP.Net\DoAn\LinhKienMTShop\LinhKienMTShop\LinhKienMTShop\bin\Debug\net8.0\NuGet.Packaging.dll
+C:\Data D\Data\TaiLieuDaiHoc\LapTrinh\ASP.Net\DoAn\LinhKienMTShop\LinhKienMTShop\LinhKienMTShop\bin\Debug\net8.0\NuGet.ProjectModel.dll
+C:\Data D\Data\TaiLieuDaiHoc\LapTrinh\ASP.Net\DoAn\LinhKienMTShop\LinhKienMTShop\LinhKienMTShop\bin\Debug\net8.0\NuGet.Protocol.dll
+C:\Data D\Data\TaiLieuDaiHoc\LapTrinh\ASP.Net\DoAn\LinhKienMTShop\LinhKienMTShop\LinhKienMTShop\bin\Debug\net8.0\NuGet.Versioning.dll
+C:\Data D\Data\TaiLieuDaiHoc\LapTrinh\ASP.Net\DoAn\LinhKienMTShop\LinhKienMTShop\LinhKienMTShop\bin\Debug\net8.0\SlugGenerator.dll
+C:\Data D\Data\TaiLieuDaiHoc\LapTrinh\ASP.Net\DoAn\LinhKienMTShop\LinhKienMTShop\LinhKienMTShop\bin\Debug\net8.0\System.CodeDom.dll
+C:\Data D\Data\TaiLieuDaiHoc\LapTrinh\ASP.Net\DoAn\LinhKienMTShop\LinhKienMTShop\LinhKienMTShop\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+C:\Data D\Data\TaiLieuDaiHoc\LapTrinh\ASP.Net\DoAn\LinhKienMTShop\LinhKienMTShop\LinhKienMTShop\bin\Debug\net8.0\System.Composition.Convention.dll
+C:\Data D\Data\TaiLieuDaiHoc\LapTrinh\ASP.Net\DoAn\LinhKienMTShop\LinhKienMTShop\LinhKienMTShop\bin\Debug\net8.0\System.Composition.Hosting.dll
+C:\Data D\Data\TaiLieuDaiHoc\LapTrinh\ASP.Net\DoAn\LinhKienMTShop\LinhKienMTShop\LinhKienMTShop\bin\Debug\net8.0\System.Composition.Runtime.dll
+C:\Data D\Data\TaiLieuDaiHoc\LapTrinh\ASP.Net\DoAn\LinhKienMTShop\LinhKienMTShop\LinhKienMTShop\bin\Debug\net8.0\System.Composition.TypedParts.dll
+C:\Data D\Data\TaiLieuDaiHoc\LapTrinh\ASP.Net\DoAn\LinhKienMTShop\LinhKienMTShop\LinhKienMTShop\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\Data D\Data\TaiLieuDaiHoc\LapTrinh\ASP.Net\DoAn\LinhKienMTShop\LinhKienMTShop\LinhKienMTShop\bin\Debug\net8.0\System.Drawing.Common.dll
+C:\Data D\Data\TaiLieuDaiHoc\LapTrinh\ASP.Net\DoAn\LinhKienMTShop\LinhKienMTShop\LinhKienMTShop\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Data D\Data\TaiLieuDaiHoc\LapTrinh\ASP.Net\DoAn\LinhKienMTShop\LinhKienMTShop\LinhKienMTShop\bin\Debug\net8.0\System.Linq.Dynamic.Core.dll
+C:\Data D\Data\TaiLieuDaiHoc\LapTrinh\ASP.Net\DoAn\LinhKienMTShop\LinhKienMTShop\LinhKienMTShop\bin\Debug\net8.0\System.Memory.Data.dll
+C:\Data D\Data\TaiLieuDaiHoc\LapTrinh\ASP.Net\DoAn\LinhKienMTShop\LinhKienMTShop\LinhKienMTShop\bin\Debug\net8.0\System.Reflection.MetadataLoadContext.dll
+C:\Data D\Data\TaiLieuDaiHoc\LapTrinh\ASP.Net\DoAn\LinhKienMTShop\LinhKienMTShop\LinhKienMTShop\bin\Debug\net8.0\System.Runtime.Caching.dll
+C:\Data D\Data\TaiLieuDaiHoc\LapTrinh\ASP.Net\DoAn\LinhKienMTShop\LinhKienMTShop\LinhKienMTShop\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\Data D\Data\TaiLieuDaiHoc\LapTrinh\ASP.Net\DoAn\LinhKienMTShop\LinhKienMTShop\LinhKienMTShop\bin\Debug\net8.0\System.Security.Permissions.dll
+C:\Data D\Data\TaiLieuDaiHoc\LapTrinh\ASP.Net\DoAn\LinhKienMTShop\LinhKienMTShop\LinhKienMTShop\bin\Debug\net8.0\System.Windows.Extensions.dll
+C:\Data D\Data\TaiLieuDaiHoc\LapTrinh\ASP.Net\DoAn\LinhKienMTShop\LinhKienMTShop\LinhKienMTShop\bin\Debug\net8.0\af\Humanizer.resources.dll
+C:\Data D\Data\TaiLieuDaiHoc\LapTrinh\ASP.Net\DoAn\LinhKienMTShop\LinhKienMTShop\LinhKienMTShop\bin\Debug\net8.0\ar\Humanizer.resources.dll
+C:\Data D\Data\TaiLieuDaiHoc\LapTrinh\ASP.Net\DoAn\LinhKienMTShop\LinhKienMTShop\LinhKienMTShop\bin\Debug\net8.0\az\Humanizer.resources.dll
+C:\Data D\Data\TaiLieuDaiHoc\LapTrinh\ASP.Net\DoAn\LinhKienMTShop\LinhKienMTShop\LinhKienMTShop\bin\Debug\net8.0\bg\Humanizer.resources.dll
+C:\Data D\Data\TaiLieuDaiHoc\LapTrinh\ASP.Net\DoAn\LinhKienMTShop\LinhKienMTShop\LinhKienMTShop\bin\Debug\net8.0\bn-BD\Humanizer.resources.dll
+C:\Data D\Data\TaiLieuDaiHoc\LapTrinh\ASP.Net\DoAn\LinhKienMTShop\LinhKienMTShop\LinhKienMTShop\bin\Debug\net8.0\cs\Humanizer.resources.dll
+C:\Data D\Data\TaiLieuDaiHoc\LapTrinh\ASP.Net\DoAn\LinhKienMTShop\LinhKienMTShop\LinhKienMTShop\bin\Debug\net8.0\da\Humanizer.resources.dll
+C:\Data D\Data\TaiLieuDaiHoc\LapTrinh\ASP.Net\DoAn\LinhKienMTShop\LinhKienMTShop\LinhKienMTShop\bin\Debug\net8.0\de\Humanizer.resources.dll
+C:\Data D\Data\TaiLieuDaiHoc\LapTrinh\ASP.Net\DoAn\LinhKienMTShop\LinhKienMTShop\LinhKienMTShop\bin\Debug\net8.0\el\Humanizer.resources.dll
+C:\Data D\Data\TaiLieuDaiHoc\LapTrinh\ASP.Net\DoAn\LinhKienMTShop\LinhKienMTShop\LinhKienMTShop\bin\Debug\net8.0\es\Humanizer.resources.dll
+C:\Data D\Data\TaiLieuDaiHoc\LapTrinh\ASP.Net\DoAn\LinhKienMTShop\LinhKienMTShop\LinhKienMTShop\bin\Debug\net8.0\fa\Humanizer.resources.dll
+C:\Data D\Data\TaiLieuDaiHoc\LapTrinh\ASP.Net\DoAn\LinhKienMTShop\LinhKienMTShop\LinhKienMTShop\bin\Debug\net8.0\fi-FI\Humanizer.resources.dll
+C:\Data D\Data\TaiLieuDaiHoc\LapTrinh\ASP.Net\DoAn\LinhKienMTShop\LinhKienMTShop\LinhKienMTShop\bin\Debug\net8.0\fr\Humanizer.resources.dll
+C:\Data D\Data\TaiLieuDaiHoc\LapTrinh\ASP.Net\DoAn\LinhKienMTShop\LinhKienMTShop\LinhKienMTShop\bin\Debug\net8.0\fr-BE\Humanizer.resources.dll
+C:\Data D\Data\TaiLieuDaiHoc\LapTrinh\ASP.Net\DoAn\LinhKienMTShop\LinhKienMTShop\LinhKienMTShop\bin\Debug\net8.0\he\Humanizer.resources.dll
+C:\Data D\Data\TaiLieuDaiHoc\LapTrinh\ASP.Net\DoAn\LinhKienMTShop\LinhKienMTShop\LinhKienMTShop\bin\Debug\net8.0\hr\Humanizer.resources.dll
+C:\Data D\Data\TaiLieuDaiHoc\LapTrinh\ASP.Net\DoAn\LinhKienMTShop\LinhKienMTShop\LinhKienMTShop\bin\Debug\net8.0\hu\Humanizer.resources.dll
+C:\Data D\Data\TaiLieuDaiHoc\LapTrinh\ASP.Net\DoAn\LinhKienMTShop\LinhKienMTShop\LinhKienMTShop\bin\Debug\net8.0\hy\Humanizer.resources.dll
+C:\Data D\Data\TaiLieuDaiHoc\LapTrinh\ASP.Net\DoAn\LinhKienMTShop\LinhKienMTShop\LinhKienMTShop\bin\Debug\net8.0\id\Humanizer.resources.dll
+C:\Data D\Data\TaiLieuDaiHoc\LapTrinh\ASP.Net\DoAn\LinhKienMTShop\LinhKienMTShop\LinhKienMTShop\bin\Debug\net8.0\is\Humanizer.resources.dll
+C:\Data D\Data\TaiLieuDaiHoc\LapTrinh\ASP.Net\DoAn\LinhKienMTShop\LinhKienMTShop\LinhKienMTShop\bin\Debug\net8.0\it\Humanizer.resources.dll
+C:\Data D\Data\TaiLieuDaiHoc\LapTrinh\ASP.Net\DoAn\LinhKienMTShop\LinhKienMTShop\LinhKienMTShop\bin\Debug\net8.0\ja\Humanizer.resources.dll
+C:\Data D\Data\TaiLieuDaiHoc\LapTrinh\ASP.Net\DoAn\LinhKienMTShop\LinhKienMTShop\LinhKienMTShop\bin\Debug\net8.0\ko-KR\Humanizer.resources.dll
+C:\Data D\Data\TaiLieuDaiHoc\LapTrinh\ASP.Net\DoAn\LinhKienMTShop\LinhKienMTShop\LinhKienMTShop\bin\Debug\net8.0\ku\Humanizer.resources.dll
+C:\Data D\Data\TaiLieuDaiHoc\LapTrinh\ASP.Net\DoAn\LinhKienMTShop\LinhKienMTShop\LinhKienMTShop\bin\Debug\net8.0\lv\Humanizer.resources.dll
+C:\Data D\Data\TaiLieuDaiHoc\LapTrinh\ASP.Net\DoAn\LinhKienMTShop\LinhKienMTShop\LinhKienMTShop\bin\Debug\net8.0\ms-MY\Humanizer.resources.dll
+C:\Data D\Data\TaiLieuDaiHoc\LapTrinh\ASP.Net\DoAn\LinhKienMTShop\LinhKienMTShop\LinhKienMTShop\bin\Debug\net8.0\mt\Humanizer.resources.dll
+C:\Data D\Data\TaiLieuDaiHoc\LapTrinh\ASP.Net\DoAn\LinhKienMTShop\LinhKienMTShop\LinhKienMTShop\bin\Debug\net8.0\nb\Humanizer.resources.dll
+C:\Data D\Data\TaiLieuDaiHoc\LapTrinh\ASP.Net\DoAn\LinhKienMTShop\LinhKienMTShop\LinhKienMTShop\bin\Debug\net8.0\nb-NO\Humanizer.resources.dll
+C:\Data D\Data\TaiLieuDaiHoc\LapTrinh\ASP.Net\DoAn\LinhKienMTShop\LinhKienMTShop\LinhKienMTShop\bin\Debug\net8.0\nl\Humanizer.resources.dll
+C:\Data D\Data\TaiLieuDaiHoc\LapTrinh\ASP.Net\DoAn\LinhKienMTShop\LinhKienMTShop\LinhKienMTShop\bin\Debug\net8.0\pl\Humanizer.resources.dll
+C:\Data D\Data\TaiLieuDaiHoc\LapTrinh\ASP.Net\DoAn\LinhKienMTShop\LinhKienMTShop\LinhKienMTShop\bin\Debug\net8.0\pt\Humanizer.resources.dll
+C:\Data D\Data\TaiLieuDaiHoc\LapTrinh\ASP.Net\DoAn\LinhKienMTShop\LinhKienMTShop\LinhKienMTShop\bin\Debug\net8.0\ro\Humanizer.resources.dll
+C:\Data D\Data\TaiLieuDaiHoc\LapTrinh\ASP.Net\DoAn\LinhKienMTShop\LinhKienMTShop\LinhKienMTShop\bin\Debug\net8.0\ru\Humanizer.resources.dll
+C:\Data D\Data\TaiLieuDaiHoc\LapTrinh\ASP.Net\DoAn\LinhKienMTShop\LinhKienMTShop\LinhKienMTShop\bin\Debug\net8.0\sk\Humanizer.resources.dll
+C:\Data D\Data\TaiLieuDaiHoc\LapTrinh\ASP.Net\DoAn\LinhKienMTShop\LinhKienMTShop\LinhKienMTShop\bin\Debug\net8.0\sl\Humanizer.resources.dll
+C:\Data D\Data\TaiLieuDaiHoc\LapTrinh\ASP.Net\DoAn\LinhKienMTShop\LinhKienMTShop\LinhKienMTShop\bin\Debug\net8.0\sr\Humanizer.resources.dll
+C:\Data D\Data\TaiLieuDaiHoc\LapTrinh\ASP.Net\DoAn\LinhKienMTShop\LinhKienMTShop\LinhKienMTShop\bin\Debug\net8.0\sr-Latn\Humanizer.resources.dll
+C:\Data D\Data\TaiLieuDaiHoc\LapTrinh\ASP.Net\DoAn\LinhKienMTShop\LinhKienMTShop\LinhKienMTShop\bin\Debug\net8.0\sv\Humanizer.resources.dll
+C:\Data D\Data\TaiLieuDaiHoc\LapTrinh\ASP.Net\DoAn\LinhKienMTShop\LinhKienMTShop\LinhKienMTShop\bin\Debug\net8.0\th-TH\Humanizer.resources.dll
+C:\Data D\Data\TaiLieuDaiHoc\LapTrinh\ASP.Net\DoAn\LinhKienMTShop\LinhKienMTShop\LinhKienMTShop\bin\Debug\net8.0\tr\Humanizer.resources.dll
+C:\Data D\Data\TaiLieuDaiHoc\LapTrinh\ASP.Net\DoAn\LinhKienMTShop\LinhKienMTShop\LinhKienMTShop\bin\Debug\net8.0\uk\Humanizer.resources.dll
+C:\Data D\Data\TaiLieuDaiHoc\LapTrinh\ASP.Net\DoAn\LinhKienMTShop\LinhKienMTShop\LinhKienMTShop\bin\Debug\net8.0\uz-Cyrl-UZ\Humanizer.resources.dll
+C:\Data D\Data\TaiLieuDaiHoc\LapTrinh\ASP.Net\DoAn\LinhKienMTShop\LinhKienMTShop\LinhKienMTShop\bin\Debug\net8.0\uz-Latn-UZ\Humanizer.resources.dll
+C:\Data D\Data\TaiLieuDaiHoc\LapTrinh\ASP.Net\DoAn\LinhKienMTShop\LinhKienMTShop\LinhKienMTShop\bin\Debug\net8.0\vi\Humanizer.resources.dll
+C:\Data D\Data\TaiLieuDaiHoc\LapTrinh\ASP.Net\DoAn\LinhKienMTShop\LinhKienMTShop\LinhKienMTShop\bin\Debug\net8.0\zh-CN\Humanizer.resources.dll
+C:\Data D\Data\TaiLieuDaiHoc\LapTrinh\ASP.Net\DoAn\LinhKienMTShop\LinhKienMTShop\LinhKienMTShop\bin\Debug\net8.0\zh-Hans\Humanizer.resources.dll
+C:\Data D\Data\TaiLieuDaiHoc\LapTrinh\ASP.Net\DoAn\LinhKienMTShop\LinhKienMTShop\LinhKienMTShop\bin\Debug\net8.0\zh-Hant\Humanizer.resources.dll
+C:\Data D\Data\TaiLieuDaiHoc\LapTrinh\ASP.Net\DoAn\LinhKienMTShop\LinhKienMTShop\LinhKienMTShop\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Data D\Data\TaiLieuDaiHoc\LapTrinh\ASP.Net\DoAn\LinhKienMTShop\LinhKienMTShop\LinhKienMTShop\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Data D\Data\TaiLieuDaiHoc\LapTrinh\ASP.Net\DoAn\LinhKienMTShop\LinhKienMTShop\LinhKienMTShop\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Data D\Data\TaiLieuDaiHoc\LapTrinh\ASP.Net\DoAn\LinhKienMTShop\LinhKienMTShop\LinhKienMTShop\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Data D\Data\TaiLieuDaiHoc\LapTrinh\ASP.Net\DoAn\LinhKienMTShop\LinhKienMTShop\LinhKienMTShop\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Data D\Data\TaiLieuDaiHoc\LapTrinh\ASP.Net\DoAn\LinhKienMTShop\LinhKienMTShop\LinhKienMTShop\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Data D\Data\TaiLieuDaiHoc\LapTrinh\ASP.Net\DoAn\LinhKienMTShop\LinhKienMTShop\LinhKienMTShop\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Data D\Data\TaiLieuDaiHoc\LapTrinh\ASP.Net\DoAn\LinhKienMTShop\LinhKienMTShop\LinhKienMTShop\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Data D\Data\TaiLieuDaiHoc\LapTrinh\ASP.Net\DoAn\LinhKienMTShop\LinhKienMTShop\LinhKienMTShop\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Data D\Data\TaiLieuDaiHoc\LapTrinh\ASP.Net\DoAn\LinhKienMTShop\LinhKienMTShop\LinhKienMTShop\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Data D\Data\TaiLieuDaiHoc\LapTrinh\ASP.Net\DoAn\LinhKienMTShop\LinhKienMTShop\LinhKienMTShop\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Data D\Data\TaiLieuDaiHoc\LapTrinh\ASP.Net\DoAn\LinhKienMTShop\LinhKienMTShop\LinhKienMTShop\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Data D\Data\TaiLieuDaiHoc\LapTrinh\ASP.Net\DoAn\LinhKienMTShop\LinhKienMTShop\LinhKienMTShop\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Data D\Data\TaiLieuDaiHoc\LapTrinh\ASP.Net\DoAn\LinhKienMTShop\LinhKienMTShop\LinhKienMTShop\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Data D\Data\TaiLieuDaiHoc\LapTrinh\ASP.Net\DoAn\LinhKienMTShop\LinhKienMTShop\LinhKienMTShop\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Data D\Data\TaiLieuDaiHoc\LapTrinh\ASP.Net\DoAn\LinhKienMTShop\LinhKienMTShop\LinhKienMTShop\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Data D\Data\TaiLieuDaiHoc\LapTrinh\ASP.Net\DoAn\LinhKienMTShop\LinhKienMTShop\LinhKienMTShop\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Data D\Data\TaiLieuDaiHoc\LapTrinh\ASP.Net\DoAn\LinhKienMTShop\LinhKienMTShop\LinhKienMTShop\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Data D\Data\TaiLieuDaiHoc\LapTrinh\ASP.Net\DoAn\LinhKienMTShop\LinhKienMTShop\LinhKienMTShop\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Data D\Data\TaiLieuDaiHoc\LapTrinh\ASP.Net\DoAn\LinhKienMTShop\LinhKienMTShop\LinhKienMTShop\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Data D\Data\TaiLieuDaiHoc\LapTrinh\ASP.Net\DoAn\LinhKienMTShop\LinhKienMTShop\LinhKienMTShop\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Data D\Data\TaiLieuDaiHoc\LapTrinh\ASP.Net\DoAn\LinhKienMTShop\LinhKienMTShop\LinhKienMTShop\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Data D\Data\TaiLieuDaiHoc\LapTrinh\ASP.Net\DoAn\LinhKienMTShop\LinhKienMTShop\LinhKienMTShop\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Data D\Data\TaiLieuDaiHoc\LapTrinh\ASP.Net\DoAn\LinhKienMTShop\LinhKienMTShop\LinhKienMTShop\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Data D\Data\TaiLieuDaiHoc\LapTrinh\ASP.Net\DoAn\LinhKienMTShop\LinhKienMTShop\LinhKienMTShop\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Data D\Data\TaiLieuDaiHoc\LapTrinh\ASP.Net\DoAn\LinhKienMTShop\LinhKienMTShop\LinhKienMTShop\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Data D\Data\TaiLieuDaiHoc\LapTrinh\ASP.Net\DoAn\LinhKienMTShop\LinhKienMTShop\LinhKienMTShop\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Data D\Data\TaiLieuDaiHoc\LapTrinh\ASP.Net\DoAn\LinhKienMTShop\LinhKienMTShop\LinhKienMTShop\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Data D\Data\TaiLieuDaiHoc\LapTrinh\ASP.Net\DoAn\LinhKienMTShop\LinhKienMTShop\LinhKienMTShop\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Data D\Data\TaiLieuDaiHoc\LapTrinh\ASP.Net\DoAn\LinhKienMTShop\LinhKienMTShop\LinhKienMTShop\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Data D\Data\TaiLieuDaiHoc\LapTrinh\ASP.Net\DoAn\LinhKienMTShop\LinhKienMTShop\LinhKienMTShop\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Data D\Data\TaiLieuDaiHoc\LapTrinh\ASP.Net\DoAn\LinhKienMTShop\LinhKienMTShop\LinhKienMTShop\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Data D\Data\TaiLieuDaiHoc\LapTrinh\ASP.Net\DoAn\LinhKienMTShop\LinhKienMTShop\LinhKienMTShop\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Data D\Data\TaiLieuDaiHoc\LapTrinh\ASP.Net\DoAn\LinhKienMTShop\LinhKienMTShop\LinhKienMTShop\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Data D\Data\TaiLieuDaiHoc\LapTrinh\ASP.Net\DoAn\LinhKienMTShop\LinhKienMTShop\LinhKienMTShop\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Data D\Data\TaiLieuDaiHoc\LapTrinh\ASP.Net\DoAn\LinhKienMTShop\LinhKienMTShop\LinhKienMTShop\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Data D\Data\TaiLieuDaiHoc\LapTrinh\ASP.Net\DoAn\LinhKienMTShop\LinhKienMTShop\LinhKienMTShop\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Data D\Data\TaiLieuDaiHoc\LapTrinh\ASP.Net\DoAn\LinhKienMTShop\LinhKienMTShop\LinhKienMTShop\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Data D\Data\TaiLieuDaiHoc\LapTrinh\ASP.Net\DoAn\LinhKienMTShop\LinhKienMTShop\LinhKienMTShop\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Data D\Data\TaiLieuDaiHoc\LapTrinh\ASP.Net\DoAn\LinhKienMTShop\LinhKienMTShop\LinhKienMTShop\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Data D\Data\TaiLieuDaiHoc\LapTrinh\ASP.Net\DoAn\LinhKienMTShop\LinhKienMTShop\LinhKienMTShop\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Data D\Data\TaiLieuDaiHoc\LapTrinh\ASP.Net\DoAn\LinhKienMTShop\LinhKienMTShop\LinhKienMTShop\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Data D\Data\TaiLieuDaiHoc\LapTrinh\ASP.Net\DoAn\LinhKienMTShop\LinhKienMTShop\LinhKienMTShop\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Data D\Data\TaiLieuDaiHoc\LapTrinh\ASP.Net\DoAn\LinhKienMTShop\LinhKienMTShop\LinhKienMTShop\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Data D\Data\TaiLieuDaiHoc\LapTrinh\ASP.Net\DoAn\LinhKienMTShop\LinhKienMTShop\LinhKienMTShop\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Data D\Data\TaiLieuDaiHoc\LapTrinh\ASP.Net\DoAn\LinhKienMTShop\LinhKienMTShop\LinhKienMTShop\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Data D\Data\TaiLieuDaiHoc\LapTrinh\ASP.Net\DoAn\LinhKienMTShop\LinhKienMTShop\LinhKienMTShop\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Data D\Data\TaiLieuDaiHoc\LapTrinh\ASP.Net\DoAn\LinhKienMTShop\LinhKienMTShop\LinhKienMTShop\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Data D\Data\TaiLieuDaiHoc\LapTrinh\ASP.Net\DoAn\LinhKienMTShop\LinhKienMTShop\LinhKienMTShop\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Data D\Data\TaiLieuDaiHoc\LapTrinh\ASP.Net\DoAn\LinhKienMTShop\LinhKienMTShop\LinhKienMTShop\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Data D\Data\TaiLieuDaiHoc\LapTrinh\ASP.Net\DoAn\LinhKienMTShop\LinhKienMTShop\LinhKienMTShop\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Data D\Data\TaiLieuDaiHoc\LapTrinh\ASP.Net\DoAn\LinhKienMTShop\LinhKienMTShop\LinhKienMTShop\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Data D\Data\TaiLieuDaiHoc\LapTrinh\ASP.Net\DoAn\LinhKienMTShop\LinhKienMTShop\LinhKienMTShop\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Data D\Data\TaiLieuDaiHoc\LapTrinh\ASP.Net\DoAn\LinhKienMTShop\LinhKienMTShop\LinhKienMTShop\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Data D\Data\TaiLieuDaiHoc\LapTrinh\ASP.Net\DoAn\LinhKienMTShop\LinhKienMTShop\LinhKienMTShop\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Data D\Data\TaiLieuDaiHoc\LapTrinh\ASP.Net\DoAn\LinhKienMTShop\LinhKienMTShop\LinhKienMTShop\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Data D\Data\TaiLieuDaiHoc\LapTrinh\ASP.Net\DoAn\LinhKienMTShop\LinhKienMTShop\LinhKienMTShop\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Data D\Data\TaiLieuDaiHoc\LapTrinh\ASP.Net\DoAn\LinhKienMTShop\LinhKienMTShop\LinhKienMTShop\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Data D\Data\TaiLieuDaiHoc\LapTrinh\ASP.Net\DoAn\LinhKienMTShop\LinhKienMTShop\LinhKienMTShop\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Data D\Data\TaiLieuDaiHoc\LapTrinh\ASP.Net\DoAn\LinhKienMTShop\LinhKienMTShop\LinhKienMTShop\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Data D\Data\TaiLieuDaiHoc\LapTrinh\ASP.Net\DoAn\LinhKienMTShop\LinhKienMTShop\LinhKienMTShop\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Data D\Data\TaiLieuDaiHoc\LapTrinh\ASP.Net\DoAn\LinhKienMTShop\LinhKienMTShop\LinhKienMTShop\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Data D\Data\TaiLieuDaiHoc\LapTrinh\ASP.Net\DoAn\LinhKienMTShop\LinhKienMTShop\LinhKienMTShop\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Data D\Data\TaiLieuDaiHoc\LapTrinh\ASP.Net\DoAn\LinhKienMTShop\LinhKienMTShop\LinhKienMTShop\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Data D\Data\TaiLieuDaiHoc\LapTrinh\ASP.Net\DoAn\LinhKienMTShop\LinhKienMTShop\LinhKienMTShop\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Data D\Data\TaiLieuDaiHoc\LapTrinh\ASP.Net\DoAn\LinhKienMTShop\LinhKienMTShop\LinhKienMTShop\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Data D\Data\TaiLieuDaiHoc\LapTrinh\ASP.Net\DoAn\LinhKienMTShop\LinhKienMTShop\LinhKienMTShop\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Data D\Data\TaiLieuDaiHoc\LapTrinh\ASP.Net\DoAn\LinhKienMTShop\LinhKienMTShop\LinhKienMTShop\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Data D\Data\TaiLieuDaiHoc\LapTrinh\ASP.Net\DoAn\LinhKienMTShop\LinhKienMTShop\LinhKienMTShop\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Data D\Data\TaiLieuDaiHoc\LapTrinh\ASP.Net\DoAn\LinhKienMTShop\LinhKienMTShop\LinhKienMTShop\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Data D\Data\TaiLieuDaiHoc\LapTrinh\ASP.Net\DoAn\LinhKienMTShop\LinhKienMTShop\LinhKienMTShop\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Data D\Data\TaiLieuDaiHoc\LapTrinh\ASP.Net\DoAn\LinhKienMTShop\LinhKienMTShop\LinhKienMTShop\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Data D\Data\TaiLieuDaiHoc\LapTrinh\ASP.Net\DoAn\LinhKienMTShop\LinhKienMTShop\LinhKienMTShop\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Data D\Data\TaiLieuDaiHoc\LapTrinh\ASP.Net\DoAn\LinhKienMTShop\LinhKienMTShop\LinhKienMTShop\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Data D\Data\TaiLieuDaiHoc\LapTrinh\ASP.Net\DoAn\LinhKienMTShop\LinhKienMTShop\LinhKienMTShop\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Data D\Data\TaiLieuDaiHoc\LapTrinh\ASP.Net\DoAn\LinhKienMTShop\LinhKienMTShop\LinhKienMTShop\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Data D\Data\TaiLieuDaiHoc\LapTrinh\ASP.Net\DoAn\LinhKienMTShop\LinhKienMTShop\LinhKienMTShop\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Data D\Data\TaiLieuDaiHoc\LapTrinh\ASP.Net\DoAn\LinhKienMTShop\LinhKienMTShop\LinhKienMTShop\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Data D\Data\TaiLieuDaiHoc\LapTrinh\ASP.Net\DoAn\LinhKienMTShop\LinhKienMTShop\LinhKienMTShop\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Data D\Data\TaiLieuDaiHoc\LapTrinh\ASP.Net\DoAn\LinhKienMTShop\LinhKienMTShop\LinhKienMTShop\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Data D\Data\TaiLieuDaiHoc\LapTrinh\ASP.Net\DoAn\LinhKienMTShop\LinhKienMTShop\LinhKienMTShop\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Data D\Data\TaiLieuDaiHoc\LapTrinh\ASP.Net\DoAn\LinhKienMTShop\LinhKienMTShop\LinhKienMTShop\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Data D\Data\TaiLieuDaiHoc\LapTrinh\ASP.Net\DoAn\LinhKienMTShop\LinhKienMTShop\LinhKienMTShop\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Data D\Data\TaiLieuDaiHoc\LapTrinh\ASP.Net\DoAn\LinhKienMTShop\LinhKienMTShop\LinhKienMTShop\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Data D\Data\TaiLieuDaiHoc\LapTrinh\ASP.Net\DoAn\LinhKienMTShop\LinhKienMTShop\LinhKienMTShop\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Data D\Data\TaiLieuDaiHoc\LapTrinh\ASP.Net\DoAn\LinhKienMTShop\LinhKienMTShop\LinhKienMTShop\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Data D\Data\TaiLieuDaiHoc\LapTrinh\ASP.Net\DoAn\LinhKienMTShop\LinhKienMTShop\LinhKienMTShop\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Data D\Data\TaiLieuDaiHoc\LapTrinh\ASP.Net\DoAn\LinhKienMTShop\LinhKienMTShop\LinhKienMTShop\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Data D\Data\TaiLieuDaiHoc\LapTrinh\ASP.Net\DoAn\LinhKienMTShop\LinhKienMTShop\LinhKienMTShop\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Data D\Data\TaiLieuDaiHoc\LapTrinh\ASP.Net\DoAn\LinhKienMTShop\LinhKienMTShop\LinhKienMTShop\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Data D\Data\TaiLieuDaiHoc\LapTrinh\ASP.Net\DoAn\LinhKienMTShop\LinhKienMTShop\LinhKienMTShop\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Data D\Data\TaiLieuDaiHoc\LapTrinh\ASP.Net\DoAn\LinhKienMTShop\LinhKienMTShop\LinhKienMTShop\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Data D\Data\TaiLieuDaiHoc\LapTrinh\ASP.Net\DoAn\LinhKienMTShop\LinhKienMTShop\LinhKienMTShop\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Data D\Data\TaiLieuDaiHoc\LapTrinh\ASP.Net\DoAn\LinhKienMTShop\LinhKienMTShop\LinhKienMTShop\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Data D\Data\TaiLieuDaiHoc\LapTrinh\ASP.Net\DoAn\LinhKienMTShop\LinhKienMTShop\LinhKienMTShop\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Data D\Data\TaiLieuDaiHoc\LapTrinh\ASP.Net\DoAn\LinhKienMTShop\LinhKienMTShop\LinhKienMTShop\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Data D\Data\TaiLieuDaiHoc\LapTrinh\ASP.Net\DoAn\LinhKienMTShop\LinhKienMTShop\LinhKienMTShop\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Data D\Data\TaiLieuDaiHoc\LapTrinh\ASP.Net\DoAn\LinhKienMTShop\LinhKienMTShop\LinhKienMTShop\bin\Debug\net8.0\runtimes\win\lib\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Data D\Data\TaiLieuDaiHoc\LapTrinh\ASP.Net\DoAn\LinhKienMTShop\LinhKienMTShop\LinhKienMTShop\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Drawing.Common.dll
+C:\Data D\Data\TaiLieuDaiHoc\LapTrinh\ASP.Net\DoAn\LinhKienMTShop\LinhKienMTShop\LinhKienMTShop\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Data D\Data\TaiLieuDaiHoc\LapTrinh\ASP.Net\DoAn\LinhKienMTShop\LinhKienMTShop\LinhKienMTShop\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Security.Cryptography.ProtectedData.dll
+C:\Data D\Data\TaiLieuDaiHoc\LapTrinh\ASP.Net\DoAn\LinhKienMTShop\LinhKienMTShop\LinhKienMTShop\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Windows.Extensions.dll
+C:\Data D\Data\TaiLieuDaiHoc\LapTrinh\ASP.Net\DoAn\LinhKienMTShop\LinhKienMTShop\LinhKienMTShop\obj\Debug\net8.0\LinhKienMTShop.csproj.AssemblyReference.cache
+C:\Data D\Data\TaiLieuDaiHoc\LapTrinh\ASP.Net\DoAn\LinhKienMTShop\LinhKienMTShop\LinhKienMTShop\obj\Debug\net8.0\LinhKienMTShop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Data D\Data\TaiLieuDaiHoc\LapTrinh\ASP.Net\DoAn\LinhKienMTShop\LinhKienMTShop\LinhKienMTShop\obj\Debug\net8.0\LinhKienMTShop.AssemblyInfoInputs.cache
+C:\Data D\Data\TaiLieuDaiHoc\LapTrinh\ASP.Net\DoAn\LinhKienMTShop\LinhKienMTShop\LinhKienMTShop\obj\Debug\net8.0\LinhKienMTShop.AssemblyInfo.cs
+C:\Data D\Data\TaiLieuDaiHoc\LapTrinh\ASP.Net\DoAn\LinhKienMTShop\LinhKienMTShop\LinhKienMTShop\obj\Debug\net8.0\LinhKienMTShop.csproj.CoreCompileInputs.cache
+C:\Data D\Data\TaiLieuDaiHoc\LapTrinh\ASP.Net\DoAn\LinhKienMTShop\LinhKienMTShop\LinhKienMTShop\obj\Debug\net8.0\LinhKienMTShop.MvcApplicationPartsAssemblyInfo.cache
+C:\Data D\Data\TaiLieuDaiHoc\LapTrinh\ASP.Net\DoAn\LinhKienMTShop\LinhKienMTShop\LinhKienMTShop\obj\Debug\net8.0\LinhKienMTShop.RazorAssemblyInfo.cache
+C:\Data D\Data\TaiLieuDaiHoc\LapTrinh\ASP.Net\DoAn\LinhKienMTShop\LinhKienMTShop\LinhKienMTShop\obj\Debug\net8.0\LinhKienMTShop.RazorAssemblyInfo.cs
+C:\Data D\Data\TaiLieuDaiHoc\LapTrinh\ASP.Net\DoAn\LinhKienMTShop\LinhKienMTShop\LinhKienMTShop\obj\Debug\net8.0\staticwebassets.build.json
+C:\Data D\Data\TaiLieuDaiHoc\LapTrinh\ASP.Net\DoAn\LinhKienMTShop\LinhKienMTShop\LinhKienMTShop\obj\Debug\net8.0\staticwebassets.development.json
+C:\Data D\Data\TaiLieuDaiHoc\LapTrinh\ASP.Net\DoAn\LinhKienMTShop\LinhKienMTShop\LinhKienMTShop\obj\Debug\net8.0\staticwebassets\msbuild.LinhKienMTShop.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Data D\Data\TaiLieuDaiHoc\LapTrinh\ASP.Net\DoAn\LinhKienMTShop\LinhKienMTShop\LinhKienMTShop\obj\Debug\net8.0\staticwebassets\msbuild.build.LinhKienMTShop.props
+C:\Data D\Data\TaiLieuDaiHoc\LapTrinh\ASP.Net\DoAn\LinhKienMTShop\LinhKienMTShop\LinhKienMTShop\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.LinhKienMTShop.props
+C:\Data D\Data\TaiLieuDaiHoc\LapTrinh\ASP.Net\DoAn\LinhKienMTShop\LinhKienMTShop\LinhKienMTShop\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.LinhKienMTShop.props
+C:\Data D\Data\TaiLieuDaiHoc\LapTrinh\ASP.Net\DoAn\LinhKienMTShop\LinhKienMTShop\LinhKienMTShop\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Data D\Data\TaiLieuDaiHoc\LapTrinh\ASP.Net\DoAn\LinhKienMTShop\LinhKienMTShop\LinhKienMTShop\obj\Debug\net8.0\scopedcss\Areas\Admin\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Data D\Data\TaiLieuDaiHoc\LapTrinh\ASP.Net\DoAn\LinhKienMTShop\LinhKienMTShop\LinhKienMTShop\obj\Debug\net8.0\scopedcss\Views\KhachHang\DatHang.cshtml.rz.scp.css
+C:\Data D\Data\TaiLieuDaiHoc\LapTrinh\ASP.Net\DoAn\LinhKienMTShop\LinhKienMTShop\LinhKienMTShop\obj\Debug\net8.0\scopedcss\Views\KhachHang\Index.cshtml.rz.scp.css
+C:\Data D\Data\TaiLieuDaiHoc\LapTrinh\ASP.Net\DoAn\LinhKienMTShop\LinhKienMTShop\LinhKienMTShop\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Data D\Data\TaiLieuDaiHoc\LapTrinh\ASP.Net\DoAn\LinhKienMTShop\LinhKienMTShop\LinhKienMTShop\obj\Debug\net8.0\scopedcss\bundle\LinhKienMTShop.styles.css
+C:\Data D\Data\TaiLieuDaiHoc\LapTrinh\ASP.Net\DoAn\LinhKienMTShop\LinhKienMTShop\LinhKienMTShop\obj\Debug\net8.0\scopedcss\projectbundle\LinhKienMTShop.bundle.scp.css
+C:\Data D\Data\TaiLieuDaiHoc\LapTrinh\ASP.Net\DoAn\LinhKienMTShop\LinhKienMTShop\LinhKienMTShop\obj\Debug\net8.0\LinhKien.2E6FF21B.Up2Date
+C:\Data D\Data\TaiLieuDaiHoc\LapTrinh\ASP.Net\DoAn\LinhKienMTShop\LinhKienMTShop\LinhKienMTShop\obj\Debug\net8.0\LinhKienMTShop.dll
+C:\Data D\Data\TaiLieuDaiHoc\LapTrinh\ASP.Net\DoAn\LinhKienMTShop\LinhKienMTShop\LinhKienMTShop\obj\Debug\net8.0\refint\LinhKienMTShop.dll
+C:\Data D\Data\TaiLieuDaiHoc\LapTrinh\ASP.Net\DoAn\LinhKienMTShop\LinhKienMTShop\LinhKienMTShop\obj\Debug\net8.0\LinhKienMTShop.pdb
+C:\Data D\Data\TaiLieuDaiHoc\LapTrinh\ASP.Net\DoAn\LinhKienMTShop\LinhKienMTShop\LinhKienMTShop\obj\Debug\net8.0\LinhKienMTShop.genruntimeconfig.cache
+C:\Data D\Data\TaiLieuDaiHoc\LapTrinh\ASP.Net\DoAn\LinhKienMTShop\LinhKienMTShop\LinhKienMTShop\obj\Debug\net8.0\ref\LinhKienMTShop.dll

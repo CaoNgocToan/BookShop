@@ -1,15 +1,24 @@
-﻿using Microsoft.AspNetCore.Mvc;
-using Microsoft.EntityFrameworkCore;
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
 using SlugGenerator;
+using System.Threading.Tasks;
+using Microsoft.AspNetCore.Mvc;
+using Microsoft.AspNetCore.Mvc.Rendering;
+using Microsoft.EntityFrameworkCore;
 using BookShop.Models;
 using Microsoft.AspNetCore.Authorization;
+
 namespace BookShop.Areas.Admin.Controllers
 {
-    [Area("Admin")]
-    [Authorize(Roles = "Admin")]
-    public class LoaiSanPhamController : Controller
+	[Area("Admin")]
+	[Authorize(Roles = "Admin")]
+
+	public class LoaiSanPhamController : Controller
     {
-        private readonly BookShopDbContext _context;
+		
+
+		private readonly BookShopDbContext _context;
 
         public LoaiSanPhamController(BookShopDbContext context)
         {
@@ -137,4 +146,5 @@ namespace BookShop.Areas.Admin.Controllers
             return _context.LoaiSanPham.Any(e => e.ID == id);
         }
     }
+
 }
