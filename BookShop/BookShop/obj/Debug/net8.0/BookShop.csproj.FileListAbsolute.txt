@@ -1383,3 +1383,14 @@ C:\DoAn\BookShop-master\BookShop-master\BookShop\BookShop\bin\Debug\net8.0\MailK
 C:\DoAn\BookShop-master\BookShop-master\BookShop\BookShop\bin\Debug\net8.0\MimeKit.dll
 C:\DoAn\BookShop-master\BookShop-master\BookShop\BookShop\bin\Debug\net8.0\System.Security.Cryptography.Pkcs.dll
 C:\DoAn\BookShop-master\BookShop-master\BookShop\BookShop\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Security.Cryptography.Pkcs.dll
+C:\Data D\Data\TaiLieuDaiHoc\LapTrinh\ASP.Net\DoAn\BookShop-master\BookShop-master\BookShop\BookShop\obj\Debug\net8.0\BookShop.csproj.AssemblyReference.cache
+C:\Data D\Data\TaiLieuDaiHoc\LapTrinh\ASP.Net\DoAn\BookShop-master\BookShop-master\BookShop\BookShop\obj\Debug\net8.0\BookShop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Data D\Data\TaiLieuDaiHoc\LapTrinh\ASP.Net\DoAn\BookShop-master\BookShop-master\BookShop\BookShop\obj\Debug\net8.0\BookShop.AssemblyInfoInputs.cache
+C:\Data D\Data\TaiLieuDaiHoc\LapTrinh\ASP.Net\DoAn\BookShop-master\BookShop-master\BookShop\BookShop\obj\Debug\net8.0\BookShop.AssemblyInfo.cs
+C:\Data D\Data\TaiLieuDaiHoc\LapTrinh\ASP.Net\DoAn\BookShop-master\BookShop-master\BookShop\BookShop\obj\Debug\net8.0\BookShop.csproj.CoreCompileInputs.cache
+C:\Data D\Data\TaiLieuDaiHoc\LapTrinh\ASP.Net\DoAn\BookShop-master\BookShop-master\BookShop\BookShop\obj\Debug\net8.0\BookShop.MvcApplicationPartsAssemblyInfo.cache
+C:\Data D\Data\TaiLieuDaiHoc\LapTrinh\ASP.Net\DoAn\BookShop-master\BookShop-master\BookShop\BookShop\obj\Debug\net8.0\BookShop.RazorAssemblyInfo.cache
+C:\Data D\Data\TaiLieuDaiHoc\LapTrinh\ASP.Net\DoAn\BookShop-master\BookShop-master\BookShop\BookShop\obj\Debug\net8.0\BookShop.RazorAssemblyInfo.cs
+C:\Data D\Data\TaiLieuDaiHoc\LapTrinh\ASP.Net\DoAn\BookShop-master\BookShop-master\BookShop\BookShop\obj\Debug\net8.0\BookShop.dll
+C:\Data D\Data\TaiLieuDaiHoc\LapTrinh\ASP.Net\DoAn\BookShop-master\BookShop-master\BookShop\BookShop\obj\Debug\net8.0\refint\BookShop.dll
+C:\Data D\Data\TaiLieuDaiHoc\LapTrinh\ASP.Net\DoAn\BookShop-master\BookShop-master\BookShop\BookShop\obj\Debug\net8.0\BookShop.pdb

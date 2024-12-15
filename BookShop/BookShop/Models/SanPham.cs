@@ -52,6 +52,15 @@ namespace BookShop.Models
         [Display(Name = "Hình ảnh sản phẩm")]
         public IFormFile? DuLieuHinhAnh { get; set; }
     }
+    [NotMapped]
+    public class PhanTrangSanPham
+    {
+        public int TrangHienTai { get; set; }
+        public int TongSoTrang { get; set; }
+        public List<SanPham> SanPham { get; set; }
+        public bool HasPreviousPage => TrangHienTai > 1;
+        public bool HasNextPage => TrangHienTai < TongSoTrang;
+    }
+
 
 }
- 

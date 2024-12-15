@@ -2,7 +2,7 @@
 using BookShop.Models;
 using Microsoft.AspNetCore.Mvc;
 
-namespace ITShop.Controllers
+namespace BookShop.Controllers
 {
     public class GioHangController : Controller
     {

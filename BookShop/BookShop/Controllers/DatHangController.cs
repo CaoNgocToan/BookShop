@@ -16,8 +16,8 @@ namespace BookShop {
         // GET: DatHang
         public async Task<IActionResult> Index()
         {
-            var iTShopDbContext = _context.DatHang.Include(d => d.NguoiDung).Include(d => d.TinhTrang);
-            return View(await iTShopDbContext.ToListAsync());
+            var BookShopDbContext = _context.DatHang.Include(d => d.NguoiDung).Include(d => d.TinhTrang);
+            return View(await BookShopDbContext.ToListAsync());
         }
 
         // GET: DatHang/Create

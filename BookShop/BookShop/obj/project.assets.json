@@ -8214,24 +8214,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\ACER\\.nuget\\packages\\": {},
-    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+    "C:\\Users\\ACER\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\DoAn\\BookShop-master\\BookShop-master\\BookShop\\BookShop\\BookShop.csproj",
+      "projectUniqueName": "C:\\Data D\\Data\\TaiLieuDaiHoc\\LapTrinh\\ASP.Net\\DoAn\\BookShop-master\\BookShop-master\\BookShop\\BookShop\\BookShop.csproj",
       "projectName": "BookShop",
-      "projectPath": "C:\\DoAn\\BookShop-master\\BookShop-master\\BookShop\\BookShop\\BookShop.csproj",
+      "projectPath": "C:\\Data D\\Data\\TaiLieuDaiHoc\\LapTrinh\\ASP.Net\\DoAn\\BookShop-master\\BookShop-master\\BookShop\\BookShop\\BookShop.csproj",
       "packagesPath": "C:\\Users\\ACER\\.nuget\\packages\\",
-      "outputPath": "C:\\DoAn\\BookShop-master\\BookShop-master\\BookShop\\BookShop\\obj\\",
+      "outputPath": "C:\\Data D\\Data\\TaiLieuDaiHoc\\LapTrinh\\ASP.Net\\DoAn\\BookShop-master\\BookShop-master\\BookShop\\BookShop\\obj\\",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-      ],
       "configFilePaths": [
         "C:\\Users\\ACER\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "d7a6J20G7uw=",
+  "dgSpecHash": "65EN5X418/E=",
   "success": true,
-  "projectFilePath": "C:\\DoAn\\BookShop-master\\BookShop-master\\BookShop\\BookShop\\BookShop.csproj",
+  "projectFilePath": "C:\\Data D\\Data\\TaiLieuDaiHoc\\LapTrinh\\ASP.Net\\DoAn\\BookShop-master\\BookShop-master\\BookShop\\BookShop\\BookShop.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\ACER\\.nuget\\packages\\azure.core\\1.38.0\\azure.core.1.38.0.nupkg.sha512",
     "C:\\Users\\ACER\\.nuget\\packages\\azure.identity\\1.11.4\\azure.identity.1.11.4.nupkg.sha512",

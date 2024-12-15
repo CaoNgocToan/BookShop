@@ -13,7 +13,7 @@ builder.Services.AddDatabaseDeveloperPageExceptionFilter();
 builder.Services.AddAuthentication(CookieAuthenticationDefaults.AuthenticationScheme)
     .AddCookie(options =>
     {
-        options.Cookie.Name = "ITShop.Cookie";
+        options.Cookie.Name = "BookShop.Cookie";
         options.ExpireTimeSpan = TimeSpan.FromMinutes(15);
         options.SlidingExpiration = true;
         options.LoginPath = "/Home/Login";
@@ -26,7 +26,7 @@ builder.Services.AddHttpContextAccessor();
 
 builder.Services.AddDistributedMemoryCache();
 builder.Services.AddSession(options => {
-    options.Cookie.Name = "ITShop.Session";
+    options.Cookie.Name = "BookShop.Session";
     options.IdleTimeout = TimeSpan.FromMinutes(15);
 });
 builder.Services.AddTransient<IMailLogic, MailLogic>();
