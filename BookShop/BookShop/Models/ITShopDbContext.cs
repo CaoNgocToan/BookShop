@@ -17,20 +17,6 @@ namespace BookShop.Models
 		public DbSet<BaiViet> BaiViet { get; set; }
 		public DbSet<BinhLuanBaiViet> BinhLuanBaiViet { get; set; }
 
-		protected override void OnModelCreating(ModelBuilder modelBuilder)
-        {
-            modelBuilder.Entity<LoaiSanPham>().ToTable("LoaiSanPham");
-            modelBuilder.Entity<HangSanXuat>().ToTable("HangSanXuat");
-            modelBuilder.Entity<SanPham>().ToTable("SanPham");
-            modelBuilder.Entity<NguoiDung>().ToTable("NguoiDung");
-            modelBuilder.Entity<TinhTrang>().ToTable("TinhTrang");
-            modelBuilder.Entity<DatHang>().ToTable("DatHang");
-            modelBuilder.Entity<DatHang_ChiTiet>().ToTable("DatHang_ChiTiet");
-			modelBuilder.Entity<GioHang>().ToTable("GioHang");
-			modelBuilder.Entity<ChuDe>().ToTable("ChuDe");
-			modelBuilder.Entity<BaiViet>().ToTable("BaiViet");
-			modelBuilder.Entity<BinhLuanBaiViet>().ToTable("BinhLuanBaiViet");
-
-		}
+	
 	}
 }

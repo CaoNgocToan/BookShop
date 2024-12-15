@@ -17,7 +17,7 @@ namespace BookShop.Migrations
         {
 #pragma warning disable 612, 618
             modelBuilder
-                .HasAnnotation("ProductVersion", "8.0.8")
+                .HasAnnotation("ProductVersion", "8.0.10")
                 .HasAnnotation("Relational:MaxIdentifierLength", 128);
 
             SqlServerModelBuilderExtensions.UseIdentityColumns(modelBuilder);
@@ -71,7 +71,7 @@ namespace BookShop.Migrations
 
                     b.HasIndex("NguoiDungID");
 
-                    b.ToTable("BaiViet", (string)null);
+                    b.ToTable("BaiViet");
                 });
 
             modelBuilder.Entity("BookShop.Models.BinhLuanBaiViet", b =>
@@ -107,7 +107,7 @@ namespace BookShop.Migrations
 
                     b.HasIndex("NguoiDungID");
 
-                    b.ToTable("BinhLuanBaiViet", (string)null);
+                    b.ToTable("BinhLuanBaiViet");
                 });
 
             modelBuilder.Entity("BookShop.Models.ChuDe", b =>
@@ -129,7 +129,7 @@ namespace BookShop.Migrations
 
                     b.HasKey("ID");
 
-                    b.ToTable("ChuDe", (string)null);
+                    b.ToTable("ChuDe");
                 });
 
             modelBuilder.Entity("BookShop.Models.DatHang", b =>
@@ -165,7 +165,7 @@ namespace BookShop.Migrations
 
                     b.HasIndex("TinhTrangID");
 
-                    b.ToTable("DatHang", (string)null);
+                    b.ToTable("DatHang");
                 });
 
             modelBuilder.Entity("BookShop.Models.DatHang_ChiTiet", b =>
@@ -194,7 +194,7 @@ namespace BookShop.Migrations
 
                     b.HasIndex("SanPhamID");
 
-                    b.ToTable("DatHang_ChiTiet", (string)null);
+                    b.ToTable("DatHang_ChiTiet");
                 });
 
             modelBuilder.Entity("BookShop.Models.GioHang", b =>
@@ -221,7 +221,7 @@ namespace BookShop.Migrations
 
                     b.HasIndex("SanPhamID");
 
-                    b.ToTable("GioHang", (string)null);
+                    b.ToTable("GioHang");
                 });
 
             modelBuilder.Entity("BookShop.Models.HangSanXuat", b =>
@@ -243,7 +243,7 @@ namespace BookShop.Migrations
 
                     b.HasKey("ID");
 
-                    b.ToTable("HangSanXuat", (string)null);
+                    b.ToTable("HangSanXuat");
                 });
 
             modelBuilder.Entity("BookShop.Models.LoaiSanPham", b =>
@@ -265,7 +265,7 @@ namespace BookShop.Migrations
 
                     b.HasKey("ID");
 
-                    b.ToTable("LoaiSanPham", (string)null);
+                    b.ToTable("LoaiSanPham");
                 });
 
             modelBuilder.Entity("BookShop.Models.NguoiDung", b =>
@@ -309,7 +309,7 @@ namespace BookShop.Migrations
 
                     b.HasKey("ID");
 
-                    b.ToTable("NguoiDung", (string)null);
+                    b.ToTable("NguoiDung");
                 });
 
             modelBuilder.Entity("BookShop.Models.SanPham", b =>
@@ -354,7 +354,7 @@ namespace BookShop.Migrations
 
                     b.HasIndex("LoaiSanPhamID");
 
-                    b.ToTable("SanPham", (string)null);
+                    b.ToTable("SanPham");
                 });
 
             modelBuilder.Entity("BookShop.Models.TinhTrang", b =>
@@ -376,7 +376,7 @@ namespace BookShop.Migrations
 
                     b.HasKey("ID");
 
-                    b.ToTable("TinhTrang", (string)null);
+                    b.ToTable("TinhTrang");
                 });
 
             modelBuilder.Entity("BookShop.Models.BaiViet", b =>

@@ -1,24 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Sil\\Desktop\\123\\BookShop\\BookShop\\BookShop\\BookShop.csproj": {}
+    "C:\\Users\\fptsh\\Desktop\\BookShop\\BookShop\\BookShop\\BookShop.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Sil\\Desktop\\123\\BookShop\\BookShop\\BookShop\\BookShop.csproj": {
+    "C:\\Users\\fptsh\\Desktop\\BookShop\\BookShop\\BookShop\\BookShop.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Sil\\Desktop\\123\\BookShop\\BookShop\\BookShop\\BookShop.csproj",
+        "projectUniqueName": "C:\\Users\\fptsh\\Desktop\\BookShop\\BookShop\\BookShop\\BookShop.csproj",
         "projectName": "BookShop",
-        "projectPath": "C:\\Users\\Sil\\Desktop\\123\\BookShop\\BookShop\\BookShop\\BookShop.csproj",
-        "packagesPath": "C:\\Users\\Sil\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Sil\\Desktop\\123\\BookShop\\BookShop\\BookShop\\obj\\",
+        "projectPath": "C:\\Users\\fptsh\\Desktop\\BookShop\\BookShop\\BookShop\\BookShop.csproj",
+        "packagesPath": "C:\\Users\\fptsh\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\fptsh\\Desktop\\BookShop\\BookShop\\BookShop\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\Sil\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Users\\fptsh\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -44,8 +40,7 @@
           "enableAudit": "true",
           "auditLevel": "low",
           "auditMode": "direct"
-        },
-        "SdkAnalysisLevel": "9.0.100"
+        }
       },
       "frameworks": {
         "net8.0": {
@@ -113,7 +108,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.101/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
