@@ -6,8 +6,8 @@ using Microsoft.AspNetCore.Mvc;
 using System.Diagnostics;
 using System.Security.Claims;
 using BC = BCrypt.Net.BCrypt;
-
-    namespace BookShop.Controllers
+using Microsoft.EntityFrameworkCore;
+namespace BookShop.Controllers
     {
         public class HomeController : Controller
         {
@@ -21,12 +21,13 @@ using BC = BCrypt.Net.BCrypt;
 
 
             }
-
-            // GET: Index 
-            public IActionResult Index()
-            {
-                return View();
-            }
+        public async Task<IActionResult> Index()
+        {
+            var loaiSanPham = await _context.LoaiSanPham.Include(s => s.SanPham).ToListAsync();
+            return View(loaiSanPham);
+        }
+        // GET: Index 
+     
 
             // GET: Login 
             [AllowAnonymous]

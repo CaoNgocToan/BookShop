@@ -170,6 +170,14 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
+[C:/DoAn/BookShop-master/BookShop-master/BookShop/BookShop/Views/GioHang/GioHangRong.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcR2lvSGFuZ1xHaW9IYW5nUm9uZy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/DoAn/BookShop-master/BookShop-master/BookShop/BookShop/Views/GioHang/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcR2lvSGFuZ1xJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/DoAn/BookShop-master/BookShop-master/BookShop/BookShop/Views/Home/Forbidden.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxGb3JiaWRkZW4uY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
@@ -184,6 +192,18 @@ build_metadata.AdditionalFiles.CssScope =
 
 [C:/DoAn/BookShop-master/BookShop-master/BookShop/BookShop/Views/Home/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/DoAn/BookShop-master/BookShop-master/BookShop/BookShop/Views/KhachHang/DatHang.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcS2hhY2hIYW5nXERhdEhhbmcuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/DoAn/BookShop-master/BookShop-master/BookShop/BookShop/Views/KhachHang/DatHangThanhCong.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcS2hhY2hIYW5nXERhdEhhbmdUaGFuaENvbmcuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/DoAn/BookShop-master/BookShop-master/BookShop/BookShop/Views/Shared/Components/GioHang/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcR2lvSGFuZ1xEZWZhdWx0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/DoAn/BookShop-master/BookShop-master/BookShop/BookShop/Views/Shared/Error.cshtml]

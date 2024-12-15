@@ -1,3 +1,4 @@
+using BookShop.Logic;
 using BookShop.Models;
 using Microsoft.AspNetCore.Authentication.Cookies;
 using Microsoft.EntityFrameworkCore;
@@ -23,6 +24,15 @@ builder.Services.AddAuthentication(CookieAuthenticationDefaults.AuthenticationSc
     });
 builder.Services.AddHttpContextAccessor();
 
+builder.Services.AddDistributedMemoryCache();
+builder.Services.AddSession(options => {
+    options.Cookie.Name = "ITShop.Session";
+    options.IdleTimeout = TimeSpan.FromMinutes(15);
+});
+builder.Services.AddTransient<IMailLogic, MailLogic>();
+
+// L?y thông tin c?u hình trong t?p tin appsettings.json và gán vào ??i t??ng MailSettings 
+builder.Services.Configure<MailSettings>(builder.Configuration.GetSection("MailSettings"));
 var app = builder.Build();
 
 // Configure the HTTP request pipeline.
@@ -36,7 +46,7 @@ if (!app.Environment.IsDevelopment())
 app.UseHttpsRedirection();
 app.UseStaticFiles();
 app.UseAuthentication();
-
+app.UseSession();
 app.UseRouting();
 
 app.UseAuthorization();

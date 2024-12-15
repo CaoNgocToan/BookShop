@@ -9,12 +9,124 @@
       "PackagePath": "staticwebassets\\css\\site.css"
     },
     {
+      "Id": "C:\\DoAn\\BookShop-master\\BookShop-master\\BookShop\\BookShop\\wwwroot\\css\\theme.css",
+      "PackagePath": "staticwebassets\\css\\theme.css"
+    },
+    {
+      "Id": "C:\\DoAn\\BookShop-master\\BookShop-master\\BookShop\\BookShop\\wwwroot\\css\\theme.min.css",
+      "PackagePath": "staticwebassets\\css\\theme.min.css"
+    },
+    {
       "Id": "C:\\DoAn\\BookShop-master\\BookShop-master\\BookShop\\BookShop\\wwwroot\\favicon.ico",
       "PackagePath": "staticwebassets\\favicon.ico"
     },
     {
+      "Id": "C:\\DoAn\\BookShop-master\\BookShop-master\\BookShop\\BookShop\\wwwroot\\fonts\\cartzilla-icons.svg",
+      "PackagePath": "staticwebassets\\fonts\\cartzilla-icons.svg"
+    },
+    {
+      "Id": "C:\\DoAn\\BookShop-master\\BookShop-master\\BookShop\\BookShop\\wwwroot\\fonts\\cartzilla-icons.ttf",
+      "PackagePath": "staticwebassets\\fonts\\cartzilla-icons.ttf"
+    },
+    {
+      "Id": "C:\\DoAn\\BookShop-master\\BookShop-master\\BookShop\\BookShop\\wwwroot\\fonts\\cartzilla-icons.woff",
+      "PackagePath": "staticwebassets\\fonts\\cartzilla-icons.woff"
+    },
+    {
+      "Id": "C:\\DoAn\\BookShop-master\\BookShop-master\\BookShop\\BookShop\\wwwroot\\img\\01.jpg",
+      "PackagePath": "staticwebassets\\img\\01.jpg"
+    },
+    {
+      "Id": "C:\\DoAn\\BookShop-master\\BookShop-master\\BookShop\\BookShop\\wwwroot\\img\\02.jpg",
+      "PackagePath": "staticwebassets\\img\\02.jpg"
+    },
+    {
+      "Id": "C:\\DoAn\\BookShop-master\\BookShop-master\\BookShop\\BookShop\\wwwroot\\img\\03.jpg",
+      "PackagePath": "staticwebassets\\img\\03.jpg"
+    },
+    {
+      "Id": "C:\\DoAn\\BookShop-master\\BookShop-master\\BookShop\\BookShop\\wwwroot\\img\\apple-touch-icon.png",
+      "PackagePath": "staticwebassets\\img\\apple-touch-icon.png"
+    },
+    {
+      "Id": "C:\\DoAn\\BookShop-master\\BookShop-master\\BookShop\\BookShop\\wwwroot\\img\\avatar.jpg",
+      "PackagePath": "staticwebassets\\img\\avatar.jpg"
+    },
+    {
+      "Id": "C:\\DoAn\\BookShop-master\\BookShop-master\\BookShop\\BookShop\\wwwroot\\img\\brands\\13.png",
+      "PackagePath": "staticwebassets\\img\\brands\\13.png"
+    },
+    {
+      "Id": "C:\\DoAn\\BookShop-master\\BookShop-master\\BookShop\\BookShop\\wwwroot\\img\\brands\\14.png",
+      "PackagePath": "staticwebassets\\img\\brands\\14.png"
+    },
+    {
+      "Id": "C:\\DoAn\\BookShop-master\\BookShop-master\\BookShop\\BookShop\\wwwroot\\img\\brands\\15.png",
+      "PackagePath": "staticwebassets\\img\\brands\\15.png"
+    },
+    {
+      "Id": "C:\\DoAn\\BookShop-master\\BookShop-master\\BookShop\\BookShop\\wwwroot\\img\\brands\\16.png",
+      "PackagePath": "staticwebassets\\img\\brands\\16.png"
+    },
+    {
+      "Id": "C:\\DoAn\\BookShop-master\\BookShop-master\\BookShop\\BookShop\\wwwroot\\img\\brands\\17.png",
+      "PackagePath": "staticwebassets\\img\\brands\\17.png"
+    },
+    {
+      "Id": "C:\\DoAn\\BookShop-master\\BookShop-master\\BookShop\\BookShop\\wwwroot\\img\\brands\\18.png",
+      "PackagePath": "staticwebassets\\img\\brands\\18.png"
+    },
+    {
+      "Id": "C:\\DoAn\\BookShop-master\\BookShop-master\\BookShop\\BookShop\\wwwroot\\img\\brands\\19.png",
+      "PackagePath": "staticwebassets\\img\\brands\\19.png"
+    },
+    {
+      "Id": "C:\\DoAn\\BookShop-master\\BookShop-master\\BookShop\\BookShop\\wwwroot\\img\\brands\\20.png",
+      "PackagePath": "staticwebassets\\img\\brands\\20.png"
+    },
+    {
+      "Id": "C:\\DoAn\\BookShop-master\\BookShop-master\\BookShop\\BookShop\\wwwroot\\img\\empty.png",
+      "PackagePath": "staticwebassets\\img\\empty.png"
+    },
+    {
+      "Id": "C:\\DoAn\\BookShop-master\\BookShop-master\\BookShop\\BookShop\\wwwroot\\img\\favicon-16x16.png",
+      "PackagePath": "staticwebassets\\img\\favicon-16x16.png"
+    },
+    {
+      "Id": "C:\\DoAn\\BookShop-master\\BookShop-master\\BookShop\\BookShop\\wwwroot\\img\\favicon-32x32.png",
+      "PackagePath": "staticwebassets\\img\\favicon-32x32.png"
+    },
+    {
+      "Id": "C:\\DoAn\\BookShop-master\\BookShop-master\\BookShop\\BookShop\\wwwroot\\img\\footer-logo-light.png",
+      "PackagePath": "staticwebassets\\img\\footer-logo-light.png"
+    },
+    {
+      "Id": "C:\\DoAn\\BookShop-master\\BookShop-master\\BookShop\\BookShop\\wwwroot\\img\\logo-dark.png",
+      "PackagePath": "staticwebassets\\img\\logo-dark.png"
+    },
+    {
+      "Id": "C:\\DoAn\\BookShop-master\\BookShop-master\\BookShop\\BookShop\\wwwroot\\img\\logo-icon.png",
+      "PackagePath": "staticwebassets\\img\\logo-icon.png"
+    },
+    {
+      "Id": "C:\\DoAn\\BookShop-master\\BookShop-master\\BookShop\\BookShop\\wwwroot\\img\\noimage.png",
+      "PackagePath": "staticwebassets\\img\\noimage.png"
+    },
+    {
+      "Id": "C:\\DoAn\\BookShop-master\\BookShop-master\\BookShop\\BookShop\\wwwroot\\img\\offer.jpg",
+      "PackagePath": "staticwebassets\\img\\offer.jpg"
+    },
+    {
       "Id": "C:\\DoAn\\BookShop-master\\BookShop-master\\BookShop\\BookShop\\wwwroot\\js\\site.js",
       "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "C:\\DoAn\\BookShop-master\\BookShop-master\\BookShop\\BookShop\\wwwroot\\js\\theme.js",
+      "PackagePath": "staticwebassets\\js\\theme.js"
+    },
+    {
+      "Id": "C:\\DoAn\\BookShop-master\\BookShop-master\\BookShop\\BookShop\\wwwroot\\js\\theme.min.js",
+      "PackagePath": "staticwebassets\\js\\theme.min.js"
     },
     {
       "Id": "C:\\DoAn\\BookShop-master\\BookShop-master\\BookShop\\BookShop\\wwwroot\\lib\\bootstrap\\LICENSE",
@@ -1723,6 +1835,74 @@
     {
       "Id": "C:\\DoAn\\BookShop-master\\BookShop-master\\BookShop\\BookShop\\wwwroot\\uploads\\xiaomi-redmi-note12s-den-thumb-600x600.jpg",
       "PackagePath": "staticwebassets\\uploads\\xiaomi-redmi-note12s-den-thumb-600x600.jpg"
+    },
+    {
+      "Id": "C:\\DoAn\\BookShop-master\\BookShop-master\\BookShop\\BookShop\\wwwroot\\vendor\\bootstrap\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\DoAn\\BookShop-master\\BookShop-master\\BookShop\\BookShop\\wwwroot\\vendor\\drift-zoom\\Drift.min.js",
+      "PackagePath": "staticwebassets\\vendor\\drift-zoom\\Drift.min.js"
+    },
+    {
+      "Id": "C:\\DoAn\\BookShop-master\\BookShop-master\\BookShop\\BookShop\\wwwroot\\vendor\\drift-zoom\\drift-basic.min.css",
+      "PackagePath": "staticwebassets\\vendor\\drift-zoom\\drift-basic.min.css"
+    },
+    {
+      "Id": "C:\\DoAn\\BookShop-master\\BookShop-master\\BookShop\\BookShop\\wwwroot\\vendor\\imagesloaded\\imagesloaded.pkgd.min.js",
+      "PackagePath": "staticwebassets\\vendor\\imagesloaded\\imagesloaded.pkgd.min.js"
+    },
+    {
+      "Id": "C:\\DoAn\\BookShop-master\\BookShop-master\\BookShop\\BookShop\\wwwroot\\vendor\\lightgallery\\lightgallery-bundle.min.css",
+      "PackagePath": "staticwebassets\\vendor\\lightgallery\\lightgallery-bundle.min.css"
+    },
+    {
+      "Id": "C:\\DoAn\\BookShop-master\\BookShop-master\\BookShop\\BookShop\\wwwroot\\vendor\\lightgallery\\lightgallery.min.js",
+      "PackagePath": "staticwebassets\\vendor\\lightgallery\\lightgallery.min.js"
+    },
+    {
+      "Id": "C:\\DoAn\\BookShop-master\\BookShop-master\\BookShop\\BookShop\\wwwroot\\vendor\\lightgallery\\plugins\\fullscreen\\lg-fullscreen.min.js",
+      "PackagePath": "staticwebassets\\vendor\\lightgallery\\plugins\\fullscreen\\lg-fullscreen.min.js"
+    },
+    {
+      "Id": "C:\\DoAn\\BookShop-master\\BookShop-master\\BookShop\\BookShop\\wwwroot\\vendor\\lightgallery\\plugins\\video\\lg-video.min.js",
+      "PackagePath": "staticwebassets\\vendor\\lightgallery\\plugins\\video\\lg-video.min.js"
+    },
+    {
+      "Id": "C:\\DoAn\\BookShop-master\\BookShop-master\\BookShop\\BookShop\\wwwroot\\vendor\\lightgallery\\plugins\\zoom\\lg-zoom.min.js",
+      "PackagePath": "staticwebassets\\vendor\\lightgallery\\plugins\\zoom\\lg-zoom.min.js"
+    },
+    {
+      "Id": "C:\\DoAn\\BookShop-master\\BookShop-master\\BookShop\\BookShop\\wwwroot\\vendor\\nouislider\\nouislider.min.css",
+      "PackagePath": "staticwebassets\\vendor\\nouislider\\nouislider.min.css"
+    },
+    {
+      "Id": "C:\\DoAn\\BookShop-master\\BookShop-master\\BookShop\\BookShop\\wwwroot\\vendor\\nouislider\\nouislider.min.js",
+      "PackagePath": "staticwebassets\\vendor\\nouislider\\nouislider.min.js"
+    },
+    {
+      "Id": "C:\\DoAn\\BookShop-master\\BookShop-master\\BookShop\\BookShop\\wwwroot\\vendor\\shufflejs\\shuffle.min.js",
+      "PackagePath": "staticwebassets\\vendor\\shufflejs\\shuffle.min.js"
+    },
+    {
+      "Id": "C:\\DoAn\\BookShop-master\\BookShop-master\\BookShop\\BookShop\\wwwroot\\vendor\\simplebar\\simplebar.min.css",
+      "PackagePath": "staticwebassets\\vendor\\simplebar\\simplebar.min.css"
+    },
+    {
+      "Id": "C:\\DoAn\\BookShop-master\\BookShop-master\\BookShop\\BookShop\\wwwroot\\vendor\\simplebar\\simplebar.min.js",
+      "PackagePath": "staticwebassets\\vendor\\simplebar\\simplebar.min.js"
+    },
+    {
+      "Id": "C:\\DoAn\\BookShop-master\\BookShop-master\\BookShop\\BookShop\\wwwroot\\vendor\\smooth-scroll\\smooth-scroll.polyfills.min.js",
+      "PackagePath": "staticwebassets\\vendor\\smooth-scroll\\smooth-scroll.polyfills.min.js"
+    },
+    {
+      "Id": "C:\\DoAn\\BookShop-master\\BookShop-master\\BookShop\\BookShop\\wwwroot\\vendor\\tiny-slider\\tiny-slider.css",
+      "PackagePath": "staticwebassets\\vendor\\tiny-slider\\tiny-slider.css"
+    },
+    {
+      "Id": "C:\\DoAn\\BookShop-master\\BookShop-master\\BookShop\\BookShop\\wwwroot\\vendor\\tiny-slider\\tiny-slider.js",
+      "PackagePath": "staticwebassets\\vendor\\tiny-slider\\tiny-slider.js"
     },
     {
       "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.BookShop.Microsoft.AspNetCore.StaticWebAssets.props",
