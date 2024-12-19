@@ -1212,7 +1212,6 @@ D:\QLPM\BookShop\BookShop\BookShop\bin\Debug\net8.0\System.Composition.Runtime.d
 D:\QLPM\BookShop\BookShop\BookShop\bin\Debug\net8.0\System.Composition.TypedParts.dll
 D:\QLPM\BookShop\BookShop\BookShop\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
 D:\QLPM\BookShop\BookShop\BookShop\bin\Debug\net8.0\System.Drawing.Common.dll
-D:\QLPM\BookShop\BookShop\BookShop\bin\Debug\net8.0\System.Formats.Asn1.dll
 D:\QLPM\BookShop\BookShop\BookShop\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
 D:\QLPM\BookShop\BookShop\BookShop\bin\Debug\net8.0\System.Linq.Dynamic.Core.dll
 D:\QLPM\BookShop\BookShop\BookShop\bin\Debug\net8.0\System.Memory.Data.dll
@@ -1399,3 +1398,7 @@ D:\QLPM\BookShop\BookShop\BookShop\obj\Debug\net8.0\refint\BookShop.dll
 D:\QLPM\BookShop\BookShop\BookShop\obj\Debug\net8.0\BookShop.pdb
 D:\QLPM\BookShop\BookShop\BookShop\obj\Debug\net8.0\BookShop.genruntimeconfig.cache
 D:\QLPM\BookShop\BookShop\BookShop\obj\Debug\net8.0\ref\BookShop.dll
+D:\QLPM\BookShop\BookShop\BookShop\bin\Debug\net8.0\BookShop.staticwebassets.endpoints.json
+D:\QLPM\BookShop\BookShop\BookShop\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+D:\QLPM\BookShop\BookShop\BookShop\obj\Debug\net8.0\staticwebassets\msbuild.BookShop.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+D:\QLPM\BookShop\BookShop\BookShop\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt

@@ -2,7 +2,7 @@
   "Files": [
     {
       "Id": "D:\\QLPM\\BookShop\\BookShop\\BookShop\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\BookShop.bundle.scp.css",
-      "PackagePath": "staticwebassets\\BookShop.bundle.scp.css"
+      "PackagePath": "staticwebassets\\BookShop.t2ndostf7k.bundle.scp.css"
     },
     {
       "Id": "D:\\QLPM\\BookShop\\BookShop\\BookShop\\wwwroot\\css\\site.css",
@@ -759,6 +759,10 @@
     {
       "Id": "D:\\QLPM\\BookShop\\BookShop\\BookShop\\wwwroot\\vendor\\tiny-slider\\tiny-slider.js",
       "PackagePath": "staticwebassets\\vendor\\tiny-slider\\tiny-slider.js"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.BookShop.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
     },
     {
       "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.BookShop.Microsoft.AspNetCore.StaticWebAssets.props",
