@@ -42,11 +42,11 @@ Quản trị viên có thể quản lý sách và danh mục sách.
 
 3. Cập nhật cơ sở dữ liệu bằng lệnh trong Package Manager Console:
    ```bash
-            Update-Database
+   Update-Database
 
 4. Chạy dự án
 
     Mở bằng Visual Studio và nhấn Run Hoặc chạy bằng lệnh:
     ```bash
-        dotnet run
+    dotnet run
     
