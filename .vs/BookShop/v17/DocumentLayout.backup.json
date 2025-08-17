@@ -1,0 +1,1880 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\WEB_ASP_NET\\BookShop\\BookShop\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{36CC0882-588A-4AC0-843D-99C597B74119}|BookShop\\BookShop.csproj|d:\\web_asp_net\\bookshop\\bookshop\\bookshop\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{36CC0882-588A-4AC0-843D-99C597B74119}|BookShop\\BookShop.csproj|solutionrelative:bookshop\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36CC0882-588A-4AC0-843D-99C597B74119}|BookShop\\BookShop.csproj|d:\\web_asp_net\\bookshop\\bookshop\\bookshop\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{36CC0882-588A-4AC0-843D-99C597B74119}|BookShop\\BookShop.csproj|solutionrelative:bookshop\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36CC0882-588A-4AC0-843D-99C597B74119}|BookShop\\BookShop.csproj|d:\\web_asp_net\\bookshop\\bookshop\\bookshop\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{36CC0882-588A-4AC0-843D-99C597B74119}|BookShop\\BookShop.csproj|solutionrelative:bookshop\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36CC0882-588A-4AC0-843D-99C597B74119}|BookShop\\BookShop.csproj|d:\\web_asp_net\\bookshop\\bookshop\\bookshop\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{36CC0882-588A-4AC0-843D-99C597B74119}|BookShop\\BookShop.csproj|solutionrelative:bookshop\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36CC0882-588A-4AC0-843D-99C597B74119}|BookShop\\BookShop.csproj|d:\\web_asp_net\\bookshop\\bookshop\\bookshop\\views\\sanpham\\chitiet.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{36CC0882-588A-4AC0-843D-99C597B74119}|BookShop\\BookShop.csproj|solutionrelative:bookshop\\views\\sanpham\\chitiet.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36CC0882-588A-4AC0-843D-99C597B74119}|BookShop\\BookShop.csproj|d:\\web_asp_net\\bookshop\\bookshop\\bookshop\\views\\sanpham\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{36CC0882-588A-4AC0-843D-99C597B74119}|BookShop\\BookShop.csproj|solutionrelative:bookshop\\views\\sanpham\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36CC0882-588A-4AC0-843D-99C597B74119}|BookShop\\BookShop.csproj|d:\\web_asp_net\\bookshop\\bookshop\\bookshop\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{36CC0882-588A-4AC0-843D-99C597B74119}|BookShop\\BookShop.csproj|solutionrelative:bookshop\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36CC0882-588A-4AC0-843D-99C597B74119}|BookShop\\BookShop.csproj|d:\\web_asp_net\\bookshop\\bookshop\\bookshop\\controllers\\sanphamcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{36CC0882-588A-4AC0-843D-99C597B74119}|BookShop\\BookShop.csproj|solutionrelative:bookshop\\controllers\\sanphamcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36CC0882-588A-4AC0-843D-99C597B74119}|BookShop\\BookShop.csproj|d:\\web_asp_net\\bookshop\\bookshop\\bookshop\\views\\sanpham\\phanloai.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{36CC0882-588A-4AC0-843D-99C597B74119}|BookShop\\BookShop.csproj|solutionrelative:bookshop\\views\\sanpham\\phanloai.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36CC0882-588A-4AC0-843D-99C597B74119}|BookShop\\BookShop.csproj|d:\\web_asp_net\\bookshop\\bookshop\\bookshop\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{36CC0882-588A-4AC0-843D-99C597B74119}|BookShop\\BookShop.csproj|solutionrelative:bookshop\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ACER\\Desktop\\LinhKienMTShop\\LinhKienMTShop\\LinhKienMTShop\\ScaffoldingReadMe.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36CC0882-588A-4AC0-843D-99C597B74119}|BookShop\\BookShop.csproj|d:\\web_asp_net\\bookshop\\bookshop\\bookshop\\models\\itshopdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{36CC0882-588A-4AC0-843D-99C597B74119}|BookShop\\BookShop.csproj|solutionrelative:bookshop\\models\\itshopdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36CC0882-588A-4AC0-843D-99C597B74119}|BookShop\\BookShop.csproj|d:\\web_asp_net\\bookshop\\bookshop\\bookshop\\models\\nguoidung.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{36CC0882-588A-4AC0-843D-99C597B74119}|BookShop\\BookShop.csproj|solutionrelative:bookshop\\models\\nguoidung.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Sil\\Pictures\\ITShop (1)\\ITShop\\ITShop\\ScaffoldingReadMe.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Data D\\Data\\TaiLieuDaiHoc\\LapTrinh\\ASP.Net\\DoAn\\LinhKienMTShop\\LinhKienMTShop\\LinhKienMTShop\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Sil\\Pictures\\ITShop (1)\\ITShop\\ITShop\\Views\\_ViewStart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Sil\\Pictures\\ITShop (1)\\ITShop\\ITShop\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Sil\\Pictures\\ITShop (1)\\ITShop\\ITShop\\Views\\_ViewImports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Sil\\Pictures\\ITShop (1)\\ITShop\\ITShop\\Views\\Shared\\Error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Sil\\Pictures\\ITShop (1)\\ITShop\\ITShop\\libman.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Sil\\Pictures\\ITShop (1)\\ITShop\\ITShop\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Sil\\Pictures\\ITShop (1)\\ITShop\\ITShop\\Views\\Shared\\Components\\GioHang\\Default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Sil\\Pictures\\ITShop (1)\\ITShop\\ITShop\\Views\\SanPham\\PhanLoai.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Sil\\Pictures\\ITShop (1)\\ITShop\\ITShop\\Views\\SanPham\\Index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Sil\\Pictures\\ITShop (1)\\ITShop\\ITShop\\Views\\SanPham\\ChiTiet.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Sil\\Pictures\\ITShop (1)\\ITShop\\ITShop\\Views\\Shared\\_Layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Sil\\Pictures\\ITShop (1)\\ITShop\\ITShop\\Views\\Shared\\_ValidationScriptsPartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Sil\\Pictures\\ITShop (1)\\ITShop\\ITShop\\Views\\LienHe\\Index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Sil\\Pictures\\ITShop (1)\\ITShop\\ITShop\\Views\\KhachHang\\Index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Sil\\Pictures\\ITShop (1)\\ITShop\\ITShop\\Views\\KhachHang\\DonHangCuaToi.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Sil\\Pictures\\ITShop (1)\\ITShop\\ITShop\\Views\\KhachHang\\DatHangThanhCong.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Sil\\Pictures\\ITShop (1)\\ITShop\\ITShop\\Views\\KhachHang\\DatHang.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Sil\\Pictures\\ITShop (1)\\ITShop\\ITShop\\Views\\Home\\Register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Sil\\Pictures\\ITShop (1)\\ITShop\\ITShop\\Views\\Home\\Privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Sil\\Pictures\\ITShop (1)\\ITShop\\ITShop\\Views\\Home\\Login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Sil\\Pictures\\ITShop (1)\\ITShop\\ITShop\\Views\\Home\\Forbidden.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Sil\\Pictures\\ITShop (1)\\ITShop\\ITShop\\Views\\BaiViet\\Index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Sil\\Pictures\\ITShop (1)\\ITShop\\ITShop\\Views\\BaiViet\\ChuDe.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Sil\\Pictures\\ITShop (1)\\ITShop\\ITShop\\Views\\BaiViet\\ChiTiet.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Sil\\Pictures\\ITShop (1)\\ITShop\\ITShop\\ViewComponents\\GioHangViewComponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Sil\\Pictures\\ITShop (1)\\ITShop\\ITShop\\Views\\Home\\Index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Sil\\Pictures\\ITShop (1)\\ITShop\\ITShop\\Views\\GioHang\\GioHangRong.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Sil\\Pictures\\ITShop (1)\\ITShop\\ITShop\\Views\\GioHang\\Index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Sil\\Pictures\\ITShop (1)\\ITShop\\ITShop\\Models\\TinhTrang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Sil\\Pictures\\ITShop (1)\\ITShop\\ITShop\\Models\\SanPham.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Sil\\Pictures\\ITShop (1)\\ITShop\\ITShop\\Models\\NguoiDung.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Sil\\Pictures\\ITShop (1)\\ITShop\\ITShop\\Models\\MailInfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Sil\\Pictures\\ITShop (1)\\ITShop\\ITShop\\Models\\LoaiSanPham.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Sil\\Pictures\\ITShop (1)\\ITShop\\ITShop\\Models\\HangSanXuat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Sil\\Pictures\\ITShop (1)\\ITShop\\ITShop\\Models\\GioHang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Sil\\Pictures\\ITShop (1)\\ITShop\\ITShop\\Models\\ErrorViewModel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Sil\\Pictures\\ITShop (1)\\ITShop\\ITShop\\Models\\DatHang_ChiTiet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Sil\\Pictures\\ITShop (1)\\ITShop\\ITShop\\Models\\DatHang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Sil\\Pictures\\ITShop (1)\\ITShop\\ITShop\\Models\\ITShopDbContext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Sil\\Pictures\\ITShop (1)\\ITShop\\ITShop\\Models\\BaiViet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Sil\\Pictures\\ITShop (1)\\ITShop\\ITShop\\Models\\BinhLuanBaiViet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Sil\\Pictures\\ITShop (1)\\ITShop\\ITShop\\Models\\ChuDe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Sil\\Pictures\\ITShop (1)\\ITShop\\ITShop\\Migrations\\LinhKienMTShopDbContextModelSnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Sil\\Pictures\\ITShop (1)\\ITShop\\ITShop\\Migrations\\20241007025712_GioHang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Sil\\Pictures\\ITShop (1)\\ITShop\\ITShop\\Migrations\\20240923010550_KhoiTaoCSDL.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Sil\\Pictures\\ITShop (1)\\ITShop\\ITShop\\Emails\\DatHangThanhCong.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Sil\\Pictures\\ITShop (1)\\ITShop\\ITShop\\Migrations\\20241104133259_TrangTin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Sil\\Pictures\\ITShop (1)\\ITShop\\ITShop\\Emails\\DangKyThanhCong.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Sil\\Pictures\\ITShop (1)\\ITShop\\ITShop\\Logic\\GioHangLogic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Sil\\Pictures\\ITShop (1)\\ITShop\\ITShop\\Logic\\IMailLogic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Sil\\Pictures\\ITShop (1)\\ITShop\\ITShop\\Logic\\MailLogic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Sil\\Pictures\\ITShop (1)\\ITShop\\ITShop\\Controllers\\SanPhamController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Sil\\Pictures\\ITShop (1)\\ITShop\\ITShop\\Controllers\\LienHeController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Sil\\Pictures\\ITShop (1)\\ITShop\\ITShop\\Controllers\\KhachHangController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Sil\\Pictures\\ITShop (1)\\ITShop\\ITShop\\Controllers\\HomeController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Sil\\Pictures\\ITShop (1)\\ITShop\\ITShop\\Controllers\\GioHangController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Sil\\Pictures\\ITShop (1)\\ITShop\\ITShop\\Controllers\\BaiVietController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Sil\\Pictures\\ITShop (1)\\ITShop\\ITShop\\Areas\\Admin\\Views\\_ViewStart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Sil\\Pictures\\ITShop (1)\\ITShop\\ITShop\\Areas\\Admin\\Views\\_ViewImports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Sil\\Pictures\\ITShop (1)\\ITShop\\ITShop\\Areas\\Admin\\Views\\TinhTrang\\Index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Sil\\Pictures\\ITShop (1)\\ITShop\\ITShop\\Areas\\Admin\\Views\\TinhTrang\\Edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Sil\\Pictures\\ITShop (1)\\ITShop\\ITShop\\Areas\\Admin\\Views\\TinhTrang\\Details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Sil\\Pictures\\ITShop (1)\\ITShop\\ITShop\\Areas\\Admin\\Views\\TinhTrang\\Delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Sil\\Pictures\\ITShop (1)\\ITShop\\ITShop\\Areas\\Admin\\Views\\Shared\\Error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Sil\\Pictures\\ITShop (1)\\ITShop\\ITShop\\Areas\\Admin\\Views\\TinhTrang\\Create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Sil\\Pictures\\ITShop (1)\\ITShop\\ITShop\\Areas\\Admin\\Views\\Shared\\_ValidationScriptsPartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Sil\\Pictures\\ITShop (1)\\ITShop\\ITShop\\Areas\\Admin\\Views\\SanPham\\Edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Sil\\Pictures\\ITShop (1)\\ITShop\\ITShop\\Areas\\Admin\\Views\\SanPham\\Details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Sil\\Pictures\\ITShop (1)\\ITShop\\ITShop\\Areas\\Admin\\Views\\SanPham\\Create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Sil\\Pictures\\ITShop (1)\\ITShop\\ITShop\\Areas\\Admin\\Views\\SanPham\\Delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Sil\\Pictures\\ITShop (1)\\ITShop\\ITShop\\Areas\\Admin\\Views\\NguoiDung\\Index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Sil\\Pictures\\ITShop (1)\\ITShop\\ITShop\\Areas\\Admin\\Views\\SanPham\\Index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Sil\\Pictures\\ITShop (1)\\ITShop\\ITShop\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Sil\\Pictures\\ITShop (1)\\ITShop\\ITShop\\Areas\\Admin\\Views\\NguoiDung\\Edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Sil\\Pictures\\ITShop (1)\\ITShop\\ITShop\\Areas\\Admin\\Views\\NguoiDung\\Details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Sil\\Pictures\\ITShop (1)\\ITShop\\ITShop\\Areas\\Admin\\Views\\NguoiDung\\Delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Sil\\Pictures\\ITShop (1)\\ITShop\\ITShop\\Areas\\Admin\\Views\\NguoiDung\\Create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Sil\\Pictures\\ITShop (1)\\ITShop\\ITShop\\Areas\\Admin\\Views\\LoaiSanPham\\Index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Sil\\Pictures\\ITShop (1)\\ITShop\\ITShop\\Areas\\Admin\\Views\\LoaiSanPham\\Edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Sil\\Pictures\\ITShop (1)\\ITShop\\ITShop\\Areas\\Admin\\Views\\LoaiSanPham\\Details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Sil\\Pictures\\ITShop (1)\\ITShop\\ITShop\\Areas\\Admin\\Views\\LoaiSanPham\\Delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Sil\\Pictures\\ITShop (1)\\ITShop\\ITShop\\Areas\\Admin\\Views\\LoaiSanPham\\Create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Sil\\Pictures\\ITShop (1)\\ITShop\\ITShop\\Areas\\Admin\\Views\\Home\\Privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Sil\\Pictures\\ITShop (1)\\ITShop\\ITShop\\Areas\\Admin\\Views\\Home\\Index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Sil\\Pictures\\ITShop (1)\\ITShop\\ITShop\\Areas\\Admin\\Views\\HangSanXuat\\Index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Sil\\Pictures\\ITShop (1)\\ITShop\\ITShop\\Areas\\Admin\\Views\\HangSanXuat\\Edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Sil\\Pictures\\ITShop (1)\\ITShop\\ITShop\\Areas\\Admin\\Views\\HangSanXuat\\Details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Sil\\Pictures\\ITShop (1)\\ITShop\\ITShop\\Areas\\Admin\\Views\\HangSanXuat\\Delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Sil\\Pictures\\ITShop (1)\\ITShop\\ITShop\\Areas\\Admin\\Views\\HangSanXuat\\Create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Sil\\Pictures\\ITShop (1)\\ITShop\\ITShop\\Areas\\Admin\\Views\\DatHang\\Details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Sil\\Pictures\\ITShop (1)\\ITShop\\ITShop\\Areas\\Admin\\Views\\DatHang\\Delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Sil\\Pictures\\ITShop (1)\\ITShop\\ITShop\\Areas\\Admin\\Views\\ChuDe\\Details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Sil\\Pictures\\ITShop (1)\\ITShop\\ITShop\\Areas\\Admin\\Views\\ChuDe\\Create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Sil\\Pictures\\ITShop (1)\\ITShop\\ITShop\\Areas\\Admin\\Views\\DatHang\\Edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Sil\\Pictures\\ITShop (1)\\ITShop\\ITShop\\Areas\\Admin\\Views\\DatHang\\Index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Sil\\Pictures\\ITShop (1)\\ITShop\\ITShop\\Areas\\Admin\\Views\\BinhLuanBaiViet\\Index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Sil\\Pictures\\ITShop (1)\\ITShop\\ITShop\\Areas\\Admin\\Views\\BinhLuanBaiViet\\Edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Sil\\Pictures\\ITShop (1)\\ITShop\\ITShop\\Areas\\Admin\\Views\\ChuDe\\Edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Sil\\Pictures\\ITShop (1)\\ITShop\\ITShop\\Areas\\Admin\\Views\\ChuDe\\Index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Sil\\Pictures\\ITShop (1)\\ITShop\\ITShop\\Areas\\Admin\\Views\\DatHang\\Create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Sil\\Pictures\\ITShop (1)\\ITShop\\ITShop\\Areas\\Admin\\Views\\BinhLuanBaiViet\\Details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Sil\\Pictures\\ITShop (1)\\ITShop\\ITShop\\Areas\\Admin\\Views\\BinhLuanBaiViet\\Create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Sil\\Pictures\\ITShop (1)\\ITShop\\ITShop\\Areas\\Admin\\Views\\ChuDe\\Delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Sil\\Pictures\\ITShop (1)\\ITShop\\ITShop\\Areas\\Admin\\Views\\BaiViet\\Index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Sil\\Pictures\\ITShop (1)\\ITShop\\ITShop\\Areas\\Admin\\Views\\BaiViet\\Edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Sil\\Pictures\\ITShop (1)\\ITShop\\ITShop\\Areas\\Admin\\Views\\BaiViet\\Details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Sil\\Pictures\\ITShop (1)\\ITShop\\ITShop\\Areas\\Admin\\Views\\BaiViet\\Delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Sil\\Pictures\\ITShop (1)\\ITShop\\ITShop\\Areas\\Admin\\Views\\BinhLuanBaiViet\\Delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Sil\\Pictures\\ITShop (1)\\ITShop\\ITShop\\Areas\\Admin\\Views\\BaiViet\\Create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Sil\\Pictures\\ITShop (1)\\ITShop\\ITShop\\Areas\\Admin\\Controllers\\TinhTrangController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Sil\\Pictures\\ITShop (1)\\ITShop\\ITShop\\Areas\\Admin\\Controllers\\NguoiDungController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Sil\\Pictures\\ITShop (1)\\ITShop\\ITShop\\Areas\\Admin\\Controllers\\LoaiSanPhamController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Sil\\Pictures\\ITShop (1)\\ITShop\\ITShop\\Areas\\Admin\\Controllers\\HomeController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Sil\\Pictures\\ITShop (1)\\ITShop\\ITShop\\Areas\\Admin\\Controllers\\SanPhamController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Sil\\Pictures\\ITShop (1)\\ITShop\\ITShop\\Areas\\Admin\\Controllers\\HangSanXuatController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Sil\\Pictures\\ITShop (1)\\ITShop\\ITShop\\Areas\\Admin\\Controllers\\BaiVietController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Sil\\Pictures\\ITShop (1)\\ITShop\\ITShop\\Areas\\Admin\\Controllers\\BinhLuanBaiVietController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Sil\\Pictures\\ITShop (1)\\ITShop\\ITShop\\Areas\\Admin\\Controllers\\ChuDeController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Sil\\Pictures\\ITShop (1)\\ITShop\\ITShop\\Areas\\Admin\\Controllers\\DatHangController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Sil\\Pictures\\ITShop (1)\\ITShop\\ITShop\\Properties\\launchSettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Data D\\Data\\TaiLieuDaiHoc\\LapTrinh\\ASP.Net\\DoAn\\LinhKienMTShop\\LinhKienMTShop\\LinhKienMTShop\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Data D\\Data\\TaiLieuDaiHoc\\LapTrinh\\ASP.Net\\DoAn\\LinhKienMTShop\\LinhKienMTShop\\LinhKienMTShop\\Migrations\\20241007025712_GioHang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ACER\\Desktop\\LinhKienMTShop\\LinhKienMTShop\\LinhKienMTShop\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ACER\\Desktop\\LinhKienMTShop\\LinhKienMTShop\\LinhKienMTShop\\libman.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ACER\\Desktop\\LinhKienMTShop\\LinhKienMTShop\\LinhKienMTShop\\Controllers\\GioHangController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "D:\\WEB_ASP_NET\\BookShop\\BookShop\\BookShop\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "BookShop\\Controllers\\HomeController.cs",
+              "ToolTip": "D:\\WEB_ASP_NET\\BookShop\\BookShop\\BookShop\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "BookShop\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-17T10:26:43.038Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "SanPhamController.cs",
+              "DocumentMoniker": "D:\\WEB_ASP_NET\\BookShop\\BookShop\\BookShop\\Controllers\\SanPhamController.cs",
+              "RelativeDocumentMoniker": "BookShop\\Controllers\\SanPhamController.cs",
+              "ToolTip": "D:\\WEB_ASP_NET\\BookShop\\BookShop\\BookShop\\Controllers\\SanPhamController.cs",
+              "RelativeToolTip": "BookShop\\Controllers\\SanPhamController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-17T10:26:41.623Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\WEB_ASP_NET\\BookShop\\BookShop\\BookShop\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "BookShop\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\WEB_ASP_NET\\BookShop\\BookShop\\BookShop\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "BookShop\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAFQAAAAAAAAAAAAAAGoAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-17T10:23:14.948Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\WEB_ASP_NET\\BookShop\\BookShop\\BookShop\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "BookShop\\Views\\Home\\Index.cshtml",
+              "ToolTip": "D:\\WEB_ASP_NET\\BookShop\\BookShop\\BookShop\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "BookShop\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-17T10:22:29.428Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "PhanLoai.cshtml",
+              "DocumentMoniker": "D:\\WEB_ASP_NET\\BookShop\\BookShop\\BookShop\\Views\\SanPham\\PhanLoai.cshtml",
+              "RelativeDocumentMoniker": "BookShop\\Views\\SanPham\\PhanLoai.cshtml",
+              "ToolTip": "D:\\WEB_ASP_NET\\BookShop\\BookShop\\BookShop\\Views\\SanPham\\PhanLoai.cshtml",
+              "RelativeToolTip": "BookShop\\Views\\SanPham\\PhanLoai.cshtml",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-17T10:21:45.306Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\WEB_ASP_NET\\BookShop\\BookShop\\BookShop\\appsettings.json",
+              "RelativeDocumentMoniker": "BookShop\\appsettings.json",
+              "ToolTip": "D:\\WEB_ASP_NET\\BookShop\\BookShop\\BookShop\\appsettings.json",
+              "RelativeToolTip": "BookShop\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-14T08:55:33.53Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "site.css",
+              "DocumentMoniker": "D:\\WEB_ASP_NET\\BookShop\\BookShop\\BookShop\\wwwroot\\css\\site.css",
+              "RelativeDocumentMoniker": "BookShop\\wwwroot\\css\\site.css",
+              "ToolTip": "D:\\WEB_ASP_NET\\BookShop\\BookShop\\BookShop\\wwwroot\\css\\site.css",
+              "RelativeToolTip": "BookShop\\wwwroot\\css\\site.css",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAADEAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-12-18T08:01:27.367Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ChiTiet.cshtml",
+              "DocumentMoniker": "D:\\WEB_ASP_NET\\BookShop\\BookShop\\BookShop\\Views\\SanPham\\ChiTiet.cshtml",
+              "RelativeDocumentMoniker": "BookShop\\Views\\SanPham\\ChiTiet.cshtml",
+              "ToolTip": "D:\\WEB_ASP_NET\\BookShop\\BookShop\\BookShop\\Views\\SanPham\\ChiTiet.cshtml",
+              "RelativeToolTip": "BookShop\\Views\\SanPham\\ChiTiet.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAF4AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-18T07:44:10.322Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\WEB_ASP_NET\\BookShop\\BookShop\\BookShop\\Views\\SanPham\\Index.cshtml",
+              "RelativeDocumentMoniker": "BookShop\\Views\\SanPham\\Index.cshtml",
+              "ToolTip": "D:\\WEB_ASP_NET\\BookShop\\BookShop\\BookShop\\Views\\SanPham\\Index.cshtml",
+              "RelativeToolTip": "BookShop\\Views\\SanPham\\Index.cshtml",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-17T10:21:14.246Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\WEB_ASP_NET\\BookShop\\BookShop\\BookShop\\Program.cs",
+              "RelativeDocumentMoniker": "BookShop\\Program.cs",
+              "ToolTip": "D:\\WEB_ASP_NET\\BookShop\\BookShop\\BookShop\\Program.cs",
+              "RelativeToolTip": "BookShop\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-17T10:15:59.438Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ITShopDbContext.cs",
+              "DocumentMoniker": "D:\\WEB_ASP_NET\\BookShop\\BookShop\\BookShop\\Models\\ITShopDbContext.cs",
+              "RelativeDocumentMoniker": "BookShop\\Models\\ITShopDbContext.cs",
+              "ToolTip": "D:\\WEB_ASP_NET\\BookShop\\BookShop\\BookShop\\Models\\ITShopDbContext.cs",
+              "RelativeToolTip": "BookShop\\Models\\ITShopDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-15T14:02:28.31Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "NguoiDung.cs",
+              "DocumentMoniker": "D:\\WEB_ASP_NET\\BookShop\\BookShop\\BookShop\\Models\\NguoiDung.cs",
+              "RelativeDocumentMoniker": "BookShop\\Models\\NguoiDung.cs",
+              "ToolTip": "D:\\WEB_ASP_NET\\BookShop\\BookShop\\BookShop\\Models\\NguoiDung.cs",
+              "RelativeToolTip": "BookShop\\Models\\NguoiDung.cs",
+              "ViewState": "AgIAAFMAAAAAAAAAAAAAwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-15T13:59:13.798Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 137,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\acer\\Desktop\\LinhKienMTShop\\LinhKienMTShop\\LinhKienMTShop\\Program.cs",
+              "ToolTip": "C:\\Users\\acer\\Desktop\\LinhKienMTShop\\LinhKienMTShop\\LinhKienMTShop\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-14T08:23:21.875Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ScaffoldingReadMe.txt",
+              "DocumentMoniker": "C:\\Users\\acer\\Desktop\\LinhKienMTShop\\LinhKienMTShop\\LinhKienMTShop\\ScaffoldingReadMe.txt",
+              "ToolTip": "C:\\Users\\acer\\Desktop\\LinhKienMTShop\\LinhKienMTShop\\LinhKienMTShop\\ScaffoldingReadMe.txt",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-12-14T08:23:20.947Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 138,
+              "Title": "libman.json",
+              "DocumentMoniker": "C:\\Users\\acer\\Desktop\\LinhKienMTShop\\LinhKienMTShop\\LinhKienMTShop\\libman.json",
+              "ToolTip": "C:\\Users\\acer\\Desktop\\LinhKienMTShop\\LinhKienMTShop\\LinhKienMTShop\\libman.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-14T08:23:19.821Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 139,
+              "Title": "GioHangController.cs",
+              "DocumentMoniker": "C:\\Users\\acer\\Desktop\\LinhKienMTShop\\LinhKienMTShop\\LinhKienMTShop\\Controllers\\GioHangController.cs",
+              "ToolTip": "C:\\Users\\acer\\Desktop\\LinhKienMTShop\\LinhKienMTShop\\LinhKienMTShop\\Controllers\\GioHangController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-14T08:21:49.186Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Data D\\Data\\TaiLieuDaiHoc\\LapTrinh\\ASP.Net\\DoAn\\LinhKienMTShop\\LinhKienMTShop\\LinhKienMTShop\\appsettings.json",
+              "ToolTip": "C:\\Data D\\Data\\TaiLieuDaiHoc\\LapTrinh\\ASP.Net\\DoAn\\LinhKienMTShop\\LinhKienMTShop\\LinhKienMTShop\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-13T15:48:38.253Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 135,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Data D\\Data\\TaiLieuDaiHoc\\LapTrinh\\ASP.Net\\DoAn\\LinhKienMTShop\\LinhKienMTShop\\LinhKienMTShop\\Program.cs",
+              "ToolTip": "C:\\Data D\\Data\\TaiLieuDaiHoc\\LapTrinh\\ASP.Net\\DoAn\\LinhKienMTShop\\LinhKienMTShop\\LinhKienMTShop\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-13T15:48:35.967Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 136,
+              "Title": "20241007025712_GioHang.cs",
+              "DocumentMoniker": "C:\\Data D\\Data\\TaiLieuDaiHoc\\LapTrinh\\ASP.Net\\DoAn\\LinhKienMTShop\\LinhKienMTShop\\LinhKienMTShop\\Migrations\\20241007025712_GioHang.cs",
+              "ToolTip": "C:\\Data D\\Data\\TaiLieuDaiHoc\\LapTrinh\\ASP.Net\\DoAn\\LinhKienMTShop\\LinhKienMTShop\\LinhKienMTShop\\Migrations\\20241007025712_GioHang.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-13T15:48:05.284Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ScaffoldingReadMe.txt",
+              "DocumentMoniker": "C:\\Users\\Sil\\Pictures\\ITShop (1)\\ITShop\\ITShop\\ScaffoldingReadMe.txt",
+              "ToolTip": "C:\\Users\\Sil\\Pictures\\ITShop (1)\\ITShop\\ITShop\\ScaffoldingReadMe.txt",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-12-13T14:23:15.669Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\Sil\\Pictures\\ITShop (1)\\ITShop\\ITShop\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\Sil\\Pictures\\ITShop (1)\\ITShop\\ITShop\\Views\\_ViewImports.cshtml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-13T14:22:47.237Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Error.cshtml",
+              "DocumentMoniker": "C:\\Users\\Sil\\Pictures\\ITShop (1)\\ITShop\\ITShop\\Views\\Shared\\Error.cshtml",
+              "ToolTip": "C:\\Users\\Sil\\Pictures\\ITShop (1)\\ITShop\\ITShop\\Views\\Shared\\Error.cshtml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-13T14:22:44.981Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\Sil\\Pictures\\ITShop (1)\\ITShop\\ITShop\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\Sil\\Pictures\\ITShop (1)\\ITShop\\ITShop\\Views\\_ViewStart.cshtml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-04T03:19:31.864Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Sil\\Pictures\\ITShop (1)\\ITShop\\ITShop\\appsettings.json",
+              "ToolTip": "C:\\Users\\Sil\\Pictures\\ITShop (1)\\ITShop\\ITShop\\appsettings.json",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-21T01:06:31.057Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "libman.json",
+              "DocumentMoniker": "C:\\Users\\Sil\\Pictures\\ITShop (1)\\ITShop\\ITShop\\libman.json",
+              "ToolTip": "C:\\Users\\Sil\\Pictures\\ITShop (1)\\ITShop\\ITShop\\libman.json",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-18T00:52:01.079Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Sil\\Pictures\\ITShop (1)\\ITShop\\ITShop\\Program.cs",
+              "ToolTip": "C:\\Users\\Sil\\Pictures\\ITShop (1)\\ITShop\\ITShop\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-04T12:54:49.281Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Default.cshtml",
+              "DocumentMoniker": "C:\\Users\\Sil\\Pictures\\ITShop (1)\\ITShop\\ITShop\\Views\\Shared\\Components\\GioHang\\Default.cshtml",
+              "ToolTip": "C:\\Users\\Sil\\Pictures\\ITShop (1)\\ITShop\\ITShop\\Views\\Shared\\Components\\GioHang\\Default.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-12T16:38:59.144Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "PhanLoai.cshtml",
+              "DocumentMoniker": "C:\\Users\\Sil\\Pictures\\ITShop (1)\\ITShop\\ITShop\\Views\\SanPham\\PhanLoai.cshtml",
+              "ToolTip": "C:\\Users\\Sil\\Pictures\\ITShop (1)\\ITShop\\ITShop\\Views\\SanPham\\PhanLoai.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAHAAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-04T13:16:14.024Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Sil\\Pictures\\ITShop (1)\\ITShop\\ITShop\\Views\\SanPham\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Sil\\Pictures\\ITShop (1)\\ITShop\\ITShop\\Views\\SanPham\\Index.cshtml",
+              "ViewState": "AgIAADQAAAAAAAAAAAAAwGwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-04T13:15:23.83Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "ChiTiet.cshtml",
+              "DocumentMoniker": "C:\\Users\\Sil\\Pictures\\ITShop (1)\\ITShop\\ITShop\\Views\\SanPham\\ChiTiet.cshtml",
+              "ToolTip": "C:\\Users\\Sil\\Pictures\\ITShop (1)\\ITShop\\ITShop\\Views\\SanPham\\ChiTiet.cshtml",
+              "ViewState": "AgIAAJEAAAAAAAAAAAAAwLoAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-04T13:17:20.267Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Sil\\Pictures\\ITShop (1)\\ITShop\\ITShop\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Sil\\Pictures\\ITShop (1)\\ITShop\\ITShop\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAI8AAAAAAAAAAAAuwJ8AAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-04T01:36:39.961Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "_ValidationScriptsPartial.cshtml",
+              "DocumentMoniker": "C:\\Users\\Sil\\Pictures\\ITShop (1)\\ITShop\\ITShop\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ToolTip": "C:\\Users\\Sil\\Pictures\\ITShop (1)\\ITShop\\ITShop\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-04T03:19:33.349Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Sil\\Pictures\\ITShop (1)\\ITShop\\ITShop\\Views\\LienHe\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Sil\\Pictures\\ITShop (1)\\ITShop\\ITShop\\Views\\LienHe\\Index.cshtml",
+              "ViewState": "AgIAAFEAAAAAAAAAAAAAAF0AAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-04T13:18:41.778Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Sil\\Pictures\\ITShop (1)\\ITShop\\ITShop\\Views\\KhachHang\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Sil\\Pictures\\ITShop (1)\\ITShop\\ITShop\\Views\\KhachHang\\Index.cshtml",
+              "ViewState": "AgIAAKIAAAAAAAAAAAAAwLwAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-04T13:08:05.907Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "DonHangCuaToi.cshtml",
+              "DocumentMoniker": "C:\\Users\\Sil\\Pictures\\ITShop (1)\\ITShop\\ITShop\\Views\\KhachHang\\DonHangCuaToi.cshtml",
+              "ToolTip": "C:\\Users\\Sil\\Pictures\\ITShop (1)\\ITShop\\ITShop\\Views\\KhachHang\\DonHangCuaToi.cshtml",
+              "ViewState": "AgIAALcAAAAAAAAAAAAAwM4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-04T13:12:37.811Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "DatHangThanhCong.cshtml",
+              "DocumentMoniker": "C:\\Users\\Sil\\Pictures\\ITShop (1)\\ITShop\\ITShop\\Views\\KhachHang\\DatHangThanhCong.cshtml",
+              "ToolTip": "C:\\Users\\Sil\\Pictures\\ITShop (1)\\ITShop\\ITShop\\Views\\KhachHang\\DatHangThanhCong.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-04T12:56:01.323Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "DatHang.cshtml",
+              "DocumentMoniker": "C:\\Users\\Sil\\Pictures\\ITShop (1)\\ITShop\\ITShop\\Views\\KhachHang\\DatHang.cshtml",
+              "ToolTip": "C:\\Users\\Sil\\Pictures\\ITShop (1)\\ITShop\\ITShop\\Views\\KhachHang\\DatHang.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-04T12:55:53.078Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "Register.cshtml",
+              "DocumentMoniker": "C:\\Users\\Sil\\Pictures\\ITShop (1)\\ITShop\\ITShop\\Views\\Home\\Register.cshtml",
+              "ToolTip": "C:\\Users\\Sil\\Pictures\\ITShop (1)\\ITShop\\ITShop\\Views\\Home\\Register.cshtml",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAAwEYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-04T13:05:16.284Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "C:\\Users\\Sil\\Pictures\\ITShop (1)\\ITShop\\ITShop\\Views\\Home\\Privacy.cshtml",
+              "ToolTip": "C:\\Users\\Sil\\Pictures\\ITShop (1)\\ITShop\\ITShop\\Views\\Home\\Privacy.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-04T13:05:15.583Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\Sil\\Pictures\\ITShop (1)\\ITShop\\ITShop\\Views\\Home\\Login.cshtml",
+              "ToolTip": "C:\\Users\\Sil\\Pictures\\ITShop (1)\\ITShop\\ITShop\\Views\\Home\\Login.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-13T14:21:32.214Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "Forbidden.cshtml",
+              "DocumentMoniker": "C:\\Users\\Sil\\Pictures\\ITShop (1)\\ITShop\\ITShop\\Views\\Home\\Forbidden.cshtml",
+              "ToolTip": "C:\\Users\\Sil\\Pictures\\ITShop (1)\\ITShop\\ITShop\\Views\\Home\\Forbidden.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-13T14:21:24.305Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Sil\\Pictures\\ITShop (1)\\ITShop\\ITShop\\Views\\BaiViet\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Sil\\Pictures\\ITShop (1)\\ITShop\\ITShop\\Views\\BaiViet\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-04T14:50:00.862Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "ChuDe.cshtml",
+              "DocumentMoniker": "C:\\Users\\Sil\\Pictures\\ITShop (1)\\ITShop\\ITShop\\Views\\BaiViet\\ChuDe.cshtml",
+              "ToolTip": "C:\\Users\\Sil\\Pictures\\ITShop (1)\\ITShop\\ITShop\\Views\\BaiViet\\ChuDe.cshtml",
+              "ViewState": "AgIAAEgAAAAAAAAAAAAAwF4AAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-04T14:52:44.867Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "ChiTiet.cshtml",
+              "DocumentMoniker": "C:\\Users\\Sil\\Pictures\\ITShop (1)\\ITShop\\ITShop\\Views\\BaiViet\\ChiTiet.cshtml",
+              "ToolTip": "C:\\Users\\Sil\\Pictures\\ITShop (1)\\ITShop\\ITShop\\Views\\BaiViet\\ChiTiet.cshtml",
+              "ViewState": "AgIAAGgAAAAAAAAAAAAAwIgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-04T14:53:05.108Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "GioHangViewComponent.cs",
+              "DocumentMoniker": "C:\\Users\\Sil\\Pictures\\ITShop (1)\\ITShop\\ITShop\\ViewComponents\\GioHangViewComponent.cs",
+              "ToolTip": "C:\\Users\\Sil\\Pictures\\ITShop (1)\\ITShop\\ITShop\\ViewComponents\\GioHangViewComponent.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-12T16:37:05.528Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Sil\\Pictures\\ITShop (1)\\ITShop\\ITShop\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Sil\\Pictures\\ITShop (1)\\ITShop\\ITShop\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAEIAAAAAAAAAAAAAAFQAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-04T01:45:44.544Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "GioHangRong.cshtml",
+              "DocumentMoniker": "C:\\Users\\Sil\\Pictures\\ITShop (1)\\ITShop\\ITShop\\Views\\GioHang\\GioHangRong.cshtml",
+              "ToolTip": "C:\\Users\\Sil\\Pictures\\ITShop (1)\\ITShop\\ITShop\\Views\\GioHang\\GioHangRong.cshtml",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAuwCYAAABIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-04T01:34:35.799Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Sil\\Pictures\\ITShop (1)\\ITShop\\ITShop\\Views\\GioHang\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Sil\\Pictures\\ITShop (1)\\ITShop\\ITShop\\Views\\GioHang\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-04T01:34:00.034Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "TinhTrang.cs",
+              "DocumentMoniker": "C:\\Users\\Sil\\Pictures\\ITShop (1)\\ITShop\\ITShop\\Models\\TinhTrang.cs",
+              "ToolTip": "C:\\Users\\Sil\\Pictures\\ITShop (1)\\ITShop\\ITShop\\Models\\TinhTrang.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-13T14:20:24.904Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "SanPham.cs",
+              "DocumentMoniker": "C:\\Users\\Sil\\Pictures\\ITShop (1)\\ITShop\\ITShop\\Models\\SanPham.cs",
+              "ToolTip": "C:\\Users\\Sil\\Pictures\\ITShop (1)\\ITShop\\ITShop\\Models\\SanPham.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAAAuwDIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-04T13:13:11.124Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "NguoiDung.cs",
+              "DocumentMoniker": "C:\\Users\\Sil\\Pictures\\ITShop (1)\\ITShop\\ITShop\\Models\\NguoiDung.cs",
+              "ToolTip": "C:\\Users\\Sil\\Pictures\\ITShop (1)\\ITShop\\ITShop\\Models\\NguoiDung.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAAAuwDUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-04T13:31:10.326Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "MailInfo.cs",
+              "DocumentMoniker": "C:\\Users\\Sil\\Pictures\\ITShop (1)\\ITShop\\ITShop\\Models\\MailInfo.cs",
+              "ToolTip": "C:\\Users\\Sil\\Pictures\\ITShop (1)\\ITShop\\ITShop\\Models\\MailInfo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-13T14:20:05.83Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "LoaiSanPham.cs",
+              "DocumentMoniker": "C:\\Users\\Sil\\Pictures\\ITShop (1)\\ITShop\\ITShop\\Models\\LoaiSanPham.cs",
+              "ToolTip": "C:\\Users\\Sil\\Pictures\\ITShop (1)\\ITShop\\ITShop\\Models\\LoaiSanPham.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-13T14:19:58.388Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "HangSanXuat.cs",
+              "DocumentMoniker": "C:\\Users\\Sil\\Pictures\\ITShop (1)\\ITShop\\ITShop\\Models\\HangSanXuat.cs",
+              "ToolTip": "C:\\Users\\Sil\\Pictures\\ITShop (1)\\ITShop\\ITShop\\Models\\HangSanXuat.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-13T14:19:50.206Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "GioHang.cs",
+              "DocumentMoniker": "C:\\Users\\Sil\\Pictures\\ITShop (1)\\ITShop\\ITShop\\Models\\GioHang.cs",
+              "ToolTip": "C:\\Users\\Sil\\Pictures\\ITShop (1)\\ITShop\\ITShop\\Models\\GioHang.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-13T14:19:42.593Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Sil\\Pictures\\ITShop (1)\\ITShop\\ITShop\\Models\\ErrorViewModel.cs",
+              "ToolTip": "C:\\Users\\Sil\\Pictures\\ITShop (1)\\ITShop\\ITShop\\Models\\ErrorViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-13T14:19:34.511Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "DatHang_ChiTiet.cs",
+              "DocumentMoniker": "C:\\Users\\Sil\\Pictures\\ITShop (1)\\ITShop\\ITShop\\Models\\DatHang_ChiTiet.cs",
+              "ToolTip": "C:\\Users\\Sil\\Pictures\\ITShop (1)\\ITShop\\ITShop\\Models\\DatHang_ChiTiet.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-13T14:18:46.436Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "DatHang.cs",
+              "DocumentMoniker": "C:\\Users\\Sil\\Pictures\\ITShop (1)\\ITShop\\ITShop\\Models\\DatHang.cs",
+              "ToolTip": "C:\\Users\\Sil\\Pictures\\ITShop (1)\\ITShop\\ITShop\\Models\\DatHang.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-13T14:18:42.782Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "ITShopDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Sil\\Pictures\\ITShop (1)\\ITShop\\ITShop\\Models\\ITShopDbContext.cs",
+              "ToolTip": "C:\\Users\\Sil\\Pictures\\ITShop (1)\\ITShop\\ITShop\\Models\\ITShopDbContext.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAA0wB8AAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-04T13:32:16.067Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 54,
+              "Title": "BaiViet.cs",
+              "DocumentMoniker": "C:\\Users\\Sil\\Pictures\\ITShop (1)\\ITShop\\ITShop\\Models\\BaiViet.cs",
+              "ToolTip": "C:\\Users\\Sil\\Pictures\\ITShop (1)\\ITShop\\ITShop\\Models\\BaiViet.cs",
+              "ViewState": "AgIAACoAAAAAAAAAAAAuwDEAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-04T13:30:33.952Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 55,
+              "Title": "BinhLuanBaiViet.cs",
+              "DocumentMoniker": "C:\\Users\\Sil\\Pictures\\ITShop (1)\\ITShop\\ITShop\\Models\\BinhLuanBaiViet.cs",
+              "ToolTip": "C:\\Users\\Sil\\Pictures\\ITShop (1)\\ITShop\\ITShop\\Models\\BinhLuanBaiViet.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAwA8AAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-04T13:30:46.293Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 56,
+              "Title": "ChuDe.cs",
+              "DocumentMoniker": "C:\\Users\\Sil\\Pictures\\ITShop (1)\\ITShop\\ITShop\\Models\\ChuDe.cs",
+              "ToolTip": "C:\\Users\\Sil\\Pictures\\ITShop (1)\\ITShop\\ITShop\\Models\\ChuDe.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-04T13:30:25.019Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 57,
+              "Title": "LinhKienMTShopDbContextModelSnapshot.cs",
+              "DocumentMoniker": "C:\\Users\\Sil\\Pictures\\ITShop (1)\\ITShop\\ITShop\\Migrations\\LinhKienMTShopDbContextModelSnapshot.cs",
+              "ToolTip": "C:\\Users\\Sil\\Pictures\\ITShop (1)\\ITShop\\ITShop\\Migrations\\LinhKienMTShopDbContextModelSnapshot.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-13T14:18:02.113Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 58,
+              "Title": "20241007025712_GioHang.cs",
+              "DocumentMoniker": "C:\\Users\\Sil\\Pictures\\ITShop (1)\\ITShop\\ITShop\\Migrations\\20241007025712_GioHang.cs",
+              "ToolTip": "C:\\Users\\Sil\\Pictures\\ITShop (1)\\ITShop\\ITShop\\Migrations\\20241007025712_GioHang.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-13T14:17:53.822Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 59,
+              "Title": "20240923010550_KhoiTaoCSDL.cs",
+              "DocumentMoniker": "C:\\Users\\Sil\\Pictures\\ITShop (1)\\ITShop\\ITShop\\Migrations\\20240923010550_KhoiTaoCSDL.cs",
+              "ToolTip": "C:\\Users\\Sil\\Pictures\\ITShop (1)\\ITShop\\ITShop\\Migrations\\20240923010550_KhoiTaoCSDL.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-13T14:17:49.967Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 60,
+              "Title": "DatHangThanhCong.html",
+              "DocumentMoniker": "C:\\Users\\Sil\\Pictures\\ITShop (1)\\ITShop\\ITShop\\Emails\\DatHangThanhCong.html",
+              "ToolTip": "C:\\Users\\Sil\\Pictures\\ITShop (1)\\ITShop\\ITShop\\Emails\\DatHangThanhCong.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-10-21T01:04:43.733Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 61,
+              "Title": "20241104133259_TrangTin.cs",
+              "DocumentMoniker": "C:\\Users\\Sil\\Pictures\\ITShop (1)\\ITShop\\ITShop\\Migrations\\20241104133259_TrangTin.cs",
+              "ToolTip": "C:\\Users\\Sil\\Pictures\\ITShop (1)\\ITShop\\ITShop\\Migrations\\20241104133259_TrangTin.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAsAAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-04T13:32:59.648Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 62,
+              "Title": "DangKyThanhCong.html",
+              "DocumentMoniker": "C:\\Users\\Sil\\Pictures\\ITShop (1)\\ITShop\\ITShop\\Emails\\DangKyThanhCong.html",
+              "ToolTip": "C:\\Users\\Sil\\Pictures\\ITShop (1)\\ITShop\\ITShop\\Emails\\DangKyThanhCong.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-11-18T01:51:20.524Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 63,
+              "Title": "GioHangLogic.cs",
+              "DocumentMoniker": "C:\\Users\\Sil\\Pictures\\ITShop (1)\\ITShop\\ITShop\\Logic\\GioHangLogic.cs",
+              "ToolTip": "C:\\Users\\Sil\\Pictures\\ITShop (1)\\ITShop\\ITShop\\Logic\\GioHangLogic.cs",
+              "ViewState": "AgIAAKUAAAAAAAAAAAAuwK8AAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T01:04:50.614Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 64,
+              "Title": "IMailLogic.cs",
+              "DocumentMoniker": "C:\\Users\\Sil\\Pictures\\ITShop (1)\\ITShop\\ITShop\\Logic\\IMailLogic.cs",
+              "ToolTip": "C:\\Users\\Sil\\Pictures\\ITShop (1)\\ITShop\\ITShop\\Logic\\IMailLogic.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T01:04:56.239Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 65,
+              "Title": "MailLogic.cs",
+              "DocumentMoniker": "C:\\Users\\Sil\\Pictures\\ITShop (1)\\ITShop\\ITShop\\Logic\\MailLogic.cs",
+              "ToolTip": "C:\\Users\\Sil\\Pictures\\ITShop (1)\\ITShop\\ITShop\\Logic\\MailLogic.cs",
+              "ViewState": "AgIAAFcAAAAAAAAAAAAAwGIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T01:04:59.938Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 66,
+              "Title": "SanPhamController.cs",
+              "DocumentMoniker": "C:\\Users\\Sil\\Pictures\\ITShop (1)\\ITShop\\ITShop\\Controllers\\SanPhamController.cs",
+              "ToolTip": "C:\\Users\\Sil\\Pictures\\ITShop (1)\\ITShop\\ITShop\\Controllers\\SanPhamController.cs",
+              "ViewState": "AgIAADkAAAAAAAAAAAAuwEQAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-04T13:13:56.337Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 67,
+              "Title": "LienHeController.cs",
+              "DocumentMoniker": "C:\\Users\\Sil\\Pictures\\ITShop (1)\\ITShop\\ITShop\\Controllers\\LienHeController.cs",
+              "ToolTip": "C:\\Users\\Sil\\Pictures\\ITShop (1)\\ITShop\\ITShop\\Controllers\\LienHeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-04T13:17:53.244Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 68,
+              "Title": "KhachHangController.cs",
+              "DocumentMoniker": "C:\\Users\\Sil\\Pictures\\ITShop (1)\\ITShop\\ITShop\\Controllers\\KhachHangController.cs",
+              "ToolTip": "C:\\Users\\Sil\\Pictures\\ITShop (1)\\ITShop\\ITShop\\Controllers\\KhachHangController.cs",
+              "ViewState": "AgIAAEgAAAAAAAAAAAAAAFMAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T01:05:18.311Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 69,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\Sil\\Pictures\\ITShop (1)\\ITShop\\ITShop\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\Sil\\Pictures\\ITShop (1)\\ITShop\\ITShop\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAJMAAAAAAAAAAAAgwJ0AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T01:46:52.461Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 70,
+              "Title": "GioHangController.cs",
+              "DocumentMoniker": "C:\\Users\\Sil\\Pictures\\ITShop (1)\\ITShop\\ITShop\\Controllers\\GioHangController.cs",
+              "ToolTip": "C:\\Users\\Sil\\Pictures\\ITShop (1)\\ITShop\\ITShop\\Controllers\\GioHangController.cs",
+              "ViewState": "AgIAAD4AAAAAAAAAAAAuwEgAAABLAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-04T13:43:43.273Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 71,
+              "Title": "BaiVietController.cs",
+              "DocumentMoniker": "C:\\Users\\Sil\\Pictures\\ITShop (1)\\ITShop\\ITShop\\Controllers\\BaiVietController.cs",
+              "ToolTip": "C:\\Users\\Sil\\Pictures\\ITShop (1)\\ITShop\\ITShop\\Controllers\\BaiVietController.cs",
+              "ViewState": "AgIAAHIAAAAAAAAAAAAAAHcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-04T14:22:16.961Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 72,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\Sil\\Pictures\\ITShop (1)\\ITShop\\ITShop\\Areas\\Admin\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\Sil\\Pictures\\ITShop (1)\\ITShop\\ITShop\\Areas\\Admin\\Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-13T14:16:29.793Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 73,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\Sil\\Pictures\\ITShop (1)\\ITShop\\ITShop\\Areas\\Admin\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\Sil\\Pictures\\ITShop (1)\\ITShop\\ITShop\\Areas\\Admin\\Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-13T14:16:21.77Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 74,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Sil\\Pictures\\ITShop (1)\\ITShop\\ITShop\\Areas\\Admin\\Views\\TinhTrang\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Sil\\Pictures\\ITShop (1)\\ITShop\\ITShop\\Areas\\Admin\\Views\\TinhTrang\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-13T14:16:17.899Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 75,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\Sil\\Pictures\\ITShop (1)\\ITShop\\ITShop\\Areas\\Admin\\Views\\TinhTrang\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\Sil\\Pictures\\ITShop (1)\\ITShop\\ITShop\\Areas\\Admin\\Views\\TinhTrang\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-13T14:16:14.15Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 76,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\Sil\\Pictures\\ITShop (1)\\ITShop\\ITShop\\Areas\\Admin\\Views\\TinhTrang\\Details.cshtml",
+              "ToolTip": "C:\\Users\\Sil\\Pictures\\ITShop (1)\\ITShop\\ITShop\\Areas\\Admin\\Views\\TinhTrang\\Details.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-13T14:16:10.432Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 77,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\Sil\\Pictures\\ITShop (1)\\ITShop\\ITShop\\Areas\\Admin\\Views\\TinhTrang\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\Sil\\Pictures\\ITShop (1)\\ITShop\\ITShop\\Areas\\Admin\\Views\\TinhTrang\\Delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-13T14:16:05.906Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 78,
+              "Title": "Error.cshtml",
+              "DocumentMoniker": "C:\\Users\\Sil\\Pictures\\ITShop (1)\\ITShop\\ITShop\\Areas\\Admin\\Views\\Shared\\Error.cshtml",
+              "ToolTip": "C:\\Users\\Sil\\Pictures\\ITShop (1)\\ITShop\\ITShop\\Areas\\Admin\\Views\\Shared\\Error.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAABTAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-13T14:15:56.854Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 79,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\Sil\\Pictures\\ITShop (1)\\ITShop\\ITShop\\Areas\\Admin\\Views\\TinhTrang\\Create.cshtml",
+              "ToolTip": "C:\\Users\\Sil\\Pictures\\ITShop (1)\\ITShop\\ITShop\\Areas\\Admin\\Views\\TinhTrang\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAABHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-13T14:15:54.142Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 80,
+              "Title": "_ValidationScriptsPartial.cshtml",
+              "DocumentMoniker": "C:\\Users\\Sil\\Pictures\\ITShop (1)\\ITShop\\ITShop\\Areas\\Admin\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ToolTip": "C:\\Users\\Sil\\Pictures\\ITShop (1)\\ITShop\\ITShop\\Areas\\Admin\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-13T14:15:41.769Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 81,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\Sil\\Pictures\\ITShop (1)\\ITShop\\ITShop\\Areas\\Admin\\Views\\SanPham\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\Sil\\Pictures\\ITShop (1)\\ITShop\\ITShop\\Areas\\Admin\\Views\\SanPham\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-13T14:15:22.161Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 82,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\Sil\\Pictures\\ITShop (1)\\ITShop\\ITShop\\Areas\\Admin\\Views\\SanPham\\Details.cshtml",
+              "ToolTip": "C:\\Users\\Sil\\Pictures\\ITShop (1)\\ITShop\\ITShop\\Areas\\Admin\\Views\\SanPham\\Details.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-13T14:15:17.126Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 83,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\Sil\\Pictures\\ITShop (1)\\ITShop\\ITShop\\Areas\\Admin\\Views\\SanPham\\Create.cshtml",
+              "ToolTip": "C:\\Users\\Sil\\Pictures\\ITShop (1)\\ITShop\\ITShop\\Areas\\Admin\\Views\\SanPham\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-13T14:15:09.538Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 84,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\Sil\\Pictures\\ITShop (1)\\ITShop\\ITShop\\Areas\\Admin\\Views\\SanPham\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\Sil\\Pictures\\ITShop (1)\\ITShop\\ITShop\\Areas\\Admin\\Views\\SanPham\\Delete.cshtml",
+              "ViewState": "AgIAABQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-13T14:15:08.789Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 85,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Sil\\Pictures\\ITShop (1)\\ITShop\\ITShop\\Areas\\Admin\\Views\\NguoiDung\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Sil\\Pictures\\ITShop (1)\\ITShop\\ITShop\\Areas\\Admin\\Views\\NguoiDung\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-13T14:15:03.293Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 86,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Sil\\Pictures\\ITShop (1)\\ITShop\\ITShop\\Areas\\Admin\\Views\\SanPham\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Sil\\Pictures\\ITShop (1)\\ITShop\\ITShop\\Areas\\Admin\\Views\\SanPham\\Index.cshtml",
+              "ViewState": "AgIAAH4AAAAAAAAAAAAAAI8AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-14T01:37:59.448Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 87,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Sil\\Pictures\\ITShop (1)\\ITShop\\ITShop\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Sil\\Pictures\\ITShop (1)\\ITShop\\ITShop\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAACAAAAAAAAAAAAAAAHoAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-04T13:47:00.282Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 88,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\Sil\\Pictures\\ITShop (1)\\ITShop\\ITShop\\Areas\\Admin\\Views\\NguoiDung\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\Sil\\Pictures\\ITShop (1)\\ITShop\\ITShop\\Areas\\Admin\\Views\\NguoiDung\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-13T14:14:58.186Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 89,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\Sil\\Pictures\\ITShop (1)\\ITShop\\ITShop\\Areas\\Admin\\Views\\NguoiDung\\Details.cshtml",
+              "ToolTip": "C:\\Users\\Sil\\Pictures\\ITShop (1)\\ITShop\\ITShop\\Areas\\Admin\\Views\\NguoiDung\\Details.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-13T14:14:54.466Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 90,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\Sil\\Pictures\\ITShop (1)\\ITShop\\ITShop\\Areas\\Admin\\Views\\NguoiDung\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\Sil\\Pictures\\ITShop (1)\\ITShop\\ITShop\\Areas\\Admin\\Views\\NguoiDung\\Delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-13T14:14:50.522Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 91,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\Sil\\Pictures\\ITShop (1)\\ITShop\\ITShop\\Areas\\Admin\\Views\\NguoiDung\\Create.cshtml",
+              "ToolTip": "C:\\Users\\Sil\\Pictures\\ITShop (1)\\ITShop\\ITShop\\Areas\\Admin\\Views\\NguoiDung\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-13T14:14:46.65Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 92,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Sil\\Pictures\\ITShop (1)\\ITShop\\ITShop\\Areas\\Admin\\Views\\LoaiSanPham\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Sil\\Pictures\\ITShop (1)\\ITShop\\ITShop\\Areas\\Admin\\Views\\LoaiSanPham\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAABOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-13T14:14:38.256Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 93,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\Sil\\Pictures\\ITShop (1)\\ITShop\\ITShop\\Areas\\Admin\\Views\\LoaiSanPham\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\Sil\\Pictures\\ITShop (1)\\ITShop\\ITShop\\Areas\\Admin\\Views\\LoaiSanPham\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-13T14:14:32.647Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 94,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\Sil\\Pictures\\ITShop (1)\\ITShop\\ITShop\\Areas\\Admin\\Views\\LoaiSanPham\\Details.cshtml",
+              "ToolTip": "C:\\Users\\Sil\\Pictures\\ITShop (1)\\ITShop\\ITShop\\Areas\\Admin\\Views\\LoaiSanPham\\Details.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-13T14:14:27.975Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 95,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\Sil\\Pictures\\ITShop (1)\\ITShop\\ITShop\\Areas\\Admin\\Views\\LoaiSanPham\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\Sil\\Pictures\\ITShop (1)\\ITShop\\ITShop\\Areas\\Admin\\Views\\LoaiSanPham\\Delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-13T14:14:19.781Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 96,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\Sil\\Pictures\\ITShop (1)\\ITShop\\ITShop\\Areas\\Admin\\Views\\LoaiSanPham\\Create.cshtml",
+              "ToolTip": "C:\\Users\\Sil\\Pictures\\ITShop (1)\\ITShop\\ITShop\\Areas\\Admin\\Views\\LoaiSanPham\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-13T14:14:14.346Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 97,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "C:\\Users\\Sil\\Pictures\\ITShop (1)\\ITShop\\ITShop\\Areas\\Admin\\Views\\Home\\Privacy.cshtml",
+              "ToolTip": "C:\\Users\\Sil\\Pictures\\ITShop (1)\\ITShop\\ITShop\\Areas\\Admin\\Views\\Home\\Privacy.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-13T14:14:10.753Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 98,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Sil\\Pictures\\ITShop (1)\\ITShop\\ITShop\\Areas\\Admin\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Sil\\Pictures\\ITShop (1)\\ITShop\\ITShop\\Areas\\Admin\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-13T14:14:08.618Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 99,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Sil\\Pictures\\ITShop (1)\\ITShop\\ITShop\\Areas\\Admin\\Views\\HangSanXuat\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Sil\\Pictures\\ITShop (1)\\ITShop\\ITShop\\Areas\\Admin\\Views\\HangSanXuat\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-13T14:14:02.334Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 100,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\Sil\\Pictures\\ITShop (1)\\ITShop\\ITShop\\Areas\\Admin\\Views\\HangSanXuat\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\Sil\\Pictures\\ITShop (1)\\ITShop\\ITShop\\Areas\\Admin\\Views\\HangSanXuat\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-13T14:13:58.238Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 101,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\Sil\\Pictures\\ITShop (1)\\ITShop\\ITShop\\Areas\\Admin\\Views\\HangSanXuat\\Details.cshtml",
+              "ToolTip": "C:\\Users\\Sil\\Pictures\\ITShop (1)\\ITShop\\ITShop\\Areas\\Admin\\Views\\HangSanXuat\\Details.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-13T14:13:54.344Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 102,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\Sil\\Pictures\\ITShop (1)\\ITShop\\ITShop\\Areas\\Admin\\Views\\HangSanXuat\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\Sil\\Pictures\\ITShop (1)\\ITShop\\ITShop\\Areas\\Admin\\Views\\HangSanXuat\\Delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-13T14:13:49.425Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 103,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\Sil\\Pictures\\ITShop (1)\\ITShop\\ITShop\\Areas\\Admin\\Views\\HangSanXuat\\Create.cshtml",
+              "ToolTip": "C:\\Users\\Sil\\Pictures\\ITShop (1)\\ITShop\\ITShop\\Areas\\Admin\\Views\\HangSanXuat\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-13T14:13:44.638Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 104,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\Sil\\Pictures\\ITShop (1)\\ITShop\\ITShop\\Areas\\Admin\\Views\\DatHang\\Details.cshtml",
+              "ToolTip": "C:\\Users\\Sil\\Pictures\\ITShop (1)\\ITShop\\ITShop\\Areas\\Admin\\Views\\DatHang\\Details.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-13T14:13:30.559Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 105,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\Sil\\Pictures\\ITShop (1)\\ITShop\\ITShop\\Areas\\Admin\\Views\\DatHang\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\Sil\\Pictures\\ITShop (1)\\ITShop\\ITShop\\Areas\\Admin\\Views\\DatHang\\Delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-13T14:13:26.974Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 106,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\Sil\\Pictures\\ITShop (1)\\ITShop\\ITShop\\Areas\\Admin\\Views\\ChuDe\\Details.cshtml",
+              "ToolTip": "C:\\Users\\Sil\\Pictures\\ITShop (1)\\ITShop\\ITShop\\Areas\\Admin\\Views\\ChuDe\\Details.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-13T14:13:04.87Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 107,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\Sil\\Pictures\\ITShop (1)\\ITShop\\ITShop\\Areas\\Admin\\Views\\ChuDe\\Create.cshtml",
+              "ToolTip": "C:\\Users\\Sil\\Pictures\\ITShop (1)\\ITShop\\ITShop\\Areas\\Admin\\Views\\ChuDe\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-04T13:48:22.163Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 108,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\Sil\\Pictures\\ITShop (1)\\ITShop\\ITShop\\Areas\\Admin\\Views\\DatHang\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\Sil\\Pictures\\ITShop (1)\\ITShop\\ITShop\\Areas\\Admin\\Views\\DatHang\\Edit.cshtml",
+              "ViewState": "AgIAACoAAAAAAAAAAAAAADcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-04T01:33:39.359Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 109,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Sil\\Pictures\\ITShop (1)\\ITShop\\ITShop\\Areas\\Admin\\Views\\DatHang\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Sil\\Pictures\\ITShop (1)\\ITShop\\ITShop\\Areas\\Admin\\Views\\DatHang\\Index.cshtml",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAACsAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-04T01:33:42.238Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 110,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Sil\\Pictures\\ITShop (1)\\ITShop\\ITShop\\Areas\\Admin\\Views\\BinhLuanBaiViet\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Sil\\Pictures\\ITShop (1)\\ITShop\\ITShop\\Areas\\Admin\\Views\\BinhLuanBaiViet\\Index.cshtml",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAAwDAAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-04T13:54:45.244Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 111,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\Sil\\Pictures\\ITShop (1)\\ITShop\\ITShop\\Areas\\Admin\\Views\\BinhLuanBaiViet\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\Sil\\Pictures\\ITShop (1)\\ITShop\\ITShop\\Areas\\Admin\\Views\\BinhLuanBaiViet\\Edit.cshtml",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAAwBEAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-04T13:55:07.223Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 112,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\Sil\\Pictures\\ITShop (1)\\ITShop\\ITShop\\Areas\\Admin\\Views\\ChuDe\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\Sil\\Pictures\\ITShop (1)\\ITShop\\ITShop\\Areas\\Admin\\Views\\ChuDe\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAwA8AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-04T13:48:37.109Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 113,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Sil\\Pictures\\ITShop (1)\\ITShop\\ITShop\\Areas\\Admin\\Views\\ChuDe\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Sil\\Pictures\\ITShop (1)\\ITShop\\ITShop\\Areas\\Admin\\Views\\ChuDe\\Index.cshtml",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAwBkAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-04T13:47:50.749Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 114,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\Sil\\Pictures\\ITShop (1)\\ITShop\\ITShop\\Areas\\Admin\\Views\\DatHang\\Create.cshtml",
+              "ToolTip": "C:\\Users\\Sil\\Pictures\\ITShop (1)\\ITShop\\ITShop\\Areas\\Admin\\Views\\DatHang\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-04T01:33:46.6Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 115,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\Sil\\Pictures\\ITShop (1)\\ITShop\\ITShop\\Areas\\Admin\\Views\\BinhLuanBaiViet\\Details.cshtml",
+              "ToolTip": "C:\\Users\\Sil\\Pictures\\ITShop (1)\\ITShop\\ITShop\\Areas\\Admin\\Views\\BinhLuanBaiViet\\Details.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-13T14:12:39.706Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 116,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\Sil\\Pictures\\ITShop (1)\\ITShop\\ITShop\\Areas\\Admin\\Views\\BinhLuanBaiViet\\Create.cshtml",
+              "ToolTip": "C:\\Users\\Sil\\Pictures\\ITShop (1)\\ITShop\\ITShop\\Areas\\Admin\\Views\\BinhLuanBaiViet\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAwA8AAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-04T13:54:55.345Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 117,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\Sil\\Pictures\\ITShop (1)\\ITShop\\ITShop\\Areas\\Admin\\Views\\ChuDe\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\Sil\\Pictures\\ITShop (1)\\ITShop\\ITShop\\Areas\\Admin\\Views\\ChuDe\\Delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-04T13:48:53.176Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 118,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Sil\\Pictures\\ITShop (1)\\ITShop\\ITShop\\Areas\\Admin\\Views\\BaiViet\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Sil\\Pictures\\ITShop (1)\\ITShop\\ITShop\\Areas\\Admin\\Views\\BaiViet\\Index.cshtml",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAACQAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-04T13:53:06.341Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 119,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\Sil\\Pictures\\ITShop (1)\\ITShop\\ITShop\\Areas\\Admin\\Views\\BaiViet\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\Sil\\Pictures\\ITShop (1)\\ITShop\\ITShop\\Areas\\Admin\\Views\\BaiViet\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-04T13:54:06.794Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 120,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\Sil\\Pictures\\ITShop (1)\\ITShop\\ITShop\\Areas\\Admin\\Views\\BaiViet\\Details.cshtml",
+              "ToolTip": "C:\\Users\\Sil\\Pictures\\ITShop (1)\\ITShop\\ITShop\\Areas\\Admin\\Views\\BaiViet\\Details.cshtml",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABwAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-04T13:54:31.134Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 121,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\Sil\\Pictures\\ITShop (1)\\ITShop\\ITShop\\Areas\\Admin\\Views\\BaiViet\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\Sil\\Pictures\\ITShop (1)\\ITShop\\ITShop\\Areas\\Admin\\Views\\BaiViet\\Delete.cshtml",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAwBMAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-04T13:54:15.299Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 122,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\Sil\\Pictures\\ITShop (1)\\ITShop\\ITShop\\Areas\\Admin\\Views\\BinhLuanBaiViet\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\Sil\\Pictures\\ITShop (1)\\ITShop\\ITShop\\Areas\\Admin\\Views\\BinhLuanBaiViet\\Delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAwA4AAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-04T13:55:16.444Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 123,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\Sil\\Pictures\\ITShop (1)\\ITShop\\ITShop\\Areas\\Admin\\Views\\BaiViet\\Create.cshtml",
+              "ToolTip": "C:\\Users\\Sil\\Pictures\\ITShop (1)\\ITShop\\ITShop\\Areas\\Admin\\Views\\BaiViet\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-04T13:53:04.837Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 124,
+              "Title": "TinhTrangController.cs",
+              "DocumentMoniker": "C:\\Users\\Sil\\Pictures\\ITShop (1)\\ITShop\\ITShop\\Areas\\Admin\\Controllers\\TinhTrangController.cs",
+              "ToolTip": "C:\\Users\\Sil\\Pictures\\ITShop (1)\\ITShop\\ITShop\\Areas\\Admin\\Controllers\\TinhTrangController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-13T14:11:27.222Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 125,
+              "Title": "NguoiDungController.cs",
+              "DocumentMoniker": "C:\\Users\\Sil\\Pictures\\ITShop (1)\\ITShop\\ITShop\\Areas\\Admin\\Controllers\\NguoiDungController.cs",
+              "ToolTip": "C:\\Users\\Sil\\Pictures\\ITShop (1)\\ITShop\\ITShop\\Areas\\Admin\\Controllers\\NguoiDungController.cs",
+              "ViewState": "AgIAAJAAAAAAAAAAAAAAAJ4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T03:48:39.921Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 126,
+              "Title": "LoaiSanPhamController.cs",
+              "DocumentMoniker": "C:\\Users\\Sil\\Pictures\\ITShop (1)\\ITShop\\ITShop\\Areas\\Admin\\Controllers\\LoaiSanPhamController.cs",
+              "ToolTip": "C:\\Users\\Sil\\Pictures\\ITShop (1)\\ITShop\\ITShop\\Areas\\Admin\\Controllers\\LoaiSanPhamController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-13T14:11:11.898Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 127,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\Sil\\Pictures\\ITShop (1)\\ITShop\\ITShop\\Areas\\Admin\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\Sil\\Pictures\\ITShop (1)\\ITShop\\ITShop\\Areas\\Admin\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-13T14:11:07.49Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 128,
+              "Title": "SanPhamController.cs",
+              "DocumentMoniker": "C:\\Users\\Sil\\Pictures\\ITShop (1)\\ITShop\\ITShop\\Areas\\Admin\\Controllers\\SanPhamController.cs",
+              "ToolTip": "C:\\Users\\Sil\\Pictures\\ITShop (1)\\ITShop\\ITShop\\Areas\\Admin\\Controllers\\SanPhamController.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAgwBwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-12T16:34:44.961Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 129,
+              "Title": "HangSanXuatController.cs",
+              "DocumentMoniker": "C:\\Users\\Sil\\Pictures\\ITShop (1)\\ITShop\\ITShop\\Areas\\Admin\\Controllers\\HangSanXuatController.cs",
+              "ToolTip": "C:\\Users\\Sil\\Pictures\\ITShop (1)\\ITShop\\ITShop\\Areas\\Admin\\Controllers\\HangSanXuatController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-13T14:11:02.607Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 130,
+              "Title": "BaiVietController.cs",
+              "DocumentMoniker": "C:\\Users\\Sil\\Pictures\\ITShop (1)\\ITShop\\ITShop\\Areas\\Admin\\Controllers\\BaiVietController.cs",
+              "ToolTip": "C:\\Users\\Sil\\Pictures\\ITShop (1)\\ITShop\\ITShop\\Areas\\Admin\\Controllers\\BaiVietController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-04T13:42:51.876Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 131,
+              "Title": "BinhLuanBaiVietController.cs",
+              "DocumentMoniker": "C:\\Users\\Sil\\Pictures\\ITShop (1)\\ITShop\\ITShop\\Areas\\Admin\\Controllers\\BinhLuanBaiVietController.cs",
+              "ToolTip": "C:\\Users\\Sil\\Pictures\\ITShop (1)\\ITShop\\ITShop\\Areas\\Admin\\Controllers\\BinhLuanBaiVietController.cs",
+              "ViewState": "AgIAAH4AAAAAAAAAAAAAAJEAAABSAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-04T13:43:35.785Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 132,
+              "Title": "ChuDeController.cs",
+              "DocumentMoniker": "C:\\Users\\Sil\\Pictures\\ITShop (1)\\ITShop\\ITShop\\Areas\\Admin\\Controllers\\ChuDeController.cs",
+              "ToolTip": "C:\\Users\\Sil\\Pictures\\ITShop (1)\\ITShop\\ITShop\\Areas\\Admin\\Controllers\\ChuDeController.cs",
+              "ViewState": "AgIAAGAAAAAAAAAAAAAAAGgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-04T13:43:36.961Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 133,
+              "Title": "DatHangController.cs",
+              "DocumentMoniker": "C:\\Users\\Sil\\Pictures\\ITShop (1)\\ITShop\\ITShop\\Areas\\Admin\\Controllers\\DatHangController.cs",
+              "ToolTip": "C:\\Users\\Sil\\Pictures\\ITShop (1)\\ITShop\\ITShop\\Areas\\Admin\\Controllers\\DatHangController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-04T13:42:57.711Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 134,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\Sil\\Pictures\\ITShop (1)\\ITShop\\ITShop\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\Sil\\Pictures\\ITShop (1)\\ITShop\\ITShop\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-02T01:49:35.857Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
